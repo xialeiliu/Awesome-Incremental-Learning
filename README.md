@@ -14,12 +14,12 @@
 - <a name="todo"></a> Gradient Episodic Memory for Continual Learning (**NIPS2017**) [[paper](https://arxiv.org/abs/1706.08840)] [[code](https://github.com/facebookresearch/GradientEpisodicMemory)]
 - <a name="todo"></a> iCaRL: Incremental Classifier and Representation Learning (**CVPR2017**) [[paper](https://arxiv.org/abs/1611.07725)] [[code](https://github.com/srebuffi/iCaRL)]
 - <a name="todo"></a> Continual Learning with Deep Generative Replay (**NIPS2017**) [[paper](https://arxiv.org/abs/1705.08690)] [[code](https://github.com/kuc2477/pytorch-deep-generative-replay)]
-- <a name="todo"></a> Overcoming Catastrophic Forgetting by Incremental Moment Matching (**NIPS2017**) [[paper](https://arxiv.org/abs/1703.08475)] [[code](https://github.com/lizhitwo/LearningWithoutForgetting)]
+- <a name="todo"></a> Overcoming Catastrophic Forgetting by Incremental Moment Matching (**NIPS2017**) [[paper](https://arxiv.org/abs/1703.08475)]
 - <a name="todo"></a> Expert Gate: Lifelong Learning with a Network of Experts (**CVPR2017**) [[paper](https://arxiv.org/abs/1611.06194)] 
 - <a name="todo"></a> Encoder Based Lifelong Learning (**ICCV2017**) [[paper](https://arxiv.org/abs/1704.01920)] 
 
 ### 2016
-- <a name="todo"></a> Learning without forgetting (**ECCV2016**) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] 
+- <a name="todo"></a> Learning without forgetting (**ECCV2016**) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/lizhitwo/LearningWithoutForgetting)]
 
 
 
