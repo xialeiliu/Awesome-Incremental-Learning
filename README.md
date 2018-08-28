@@ -4,6 +4,9 @@
 
 ### 2018
 - <a name="todo"></a> Rotate your Networks: Better Weight Consolidation and Less Catastrophic Forgetting (R-EWC) (**ICPR2018**) [[paper](https://arxiv.org/abs/1802.02950)] [[code](https://github.com/xialeiliu/RotateNetworks)]
+- <a name="todo"></a> Exemplar-Supported Generative Reproduction for Class Incremental Learning  (**BMVC2018**) [[paper](http://bmvc2018.org/papers/0325.pdf)] 
+- <a name="todo"></a> End-to-End Incremental Learning (**ECCV2018**) [[paper](https://arxiv.org/abs/1807.09536)]
+- <a name="todo"></a> Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence (**ECCV2018**) [[paper](http://arxiv-export-lb.library.cornell.edu/abs/1801.10112)] 
 - <a name="todo"></a> PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning (**CVPR2018**) [[paper](https://arxiv.org/abs/1711.05769)] [[code](https://github.com/arunmallya/packnet)]
 - <a name="todo"></a> Lifelong Learning with Dynamically Expandable Networks (**ICLR2018**) [[paper](https://openreview.net/forum?id=Sk7KsfW0-)] 
 - <a name="todo"></a> FearNet: Brain-Inspired Model for Incremental Learning (**ICLR2018**) [[paper](https://openreview.net/forum?id=SJ1Xmf-Rb)] 
