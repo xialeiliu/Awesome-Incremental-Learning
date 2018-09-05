@@ -1,4 +1,4 @@
-# Awesome Incremental Learning
+# Awesome Incremental Learning / Lifelong learning
 
 ## Papers
 
