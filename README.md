@@ -7,6 +7,12 @@
 - <a name="todo"></a> Exemplar-Supported Generative Reproduction for Class Incremental Learning  (**BMVC2018**) [[paper](http://bmvc2018.org/papers/0325.pdf)] 
 - <a name="todo"></a> End-to-End Incremental Learning (**ECCV2018**) [[paper](https://arxiv.org/abs/1807.09536)]
 - <a name="todo"></a> Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence (**ECCV2018**) [[paper](http://arxiv-export-lb.library.cornell.edu/abs/1801.10112)] 
+- <a name="todo"></a> Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights
+ (**ECCV2018**) [[paper](https://arxiv.org/abs/1801.06519] 
+ - <a name="todo"></a> Memory Aware Synapses: Learning what (not) to forget
+ (**ECCV2018**) [[paper](https://arxiv.org/abs/1711.09601] 
+  - <a name="todo"></a> Lifelong Learning via Progressive Distillation and Retrospection
+ (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Saihui_Hou_Progressive_Lifelong_Learning_ECCV_2018_paper.pdf] 
 - <a name="todo"></a> PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning (**CVPR2018**) [[paper](https://arxiv.org/abs/1711.05769)] [[code](https://github.com/arunmallya/packnet)]
 - <a name="todo"></a> Overcoming Catastrophic Forgetting with Hard Attention to the Task (**ICML2018**) [[paper](http://proceedings.mlr.press/v80/serra18a.html)] [[code](https://github.com/joansj/hat)]
 - <a name="todo"></a> Lifelong Learning with Dynamically Expandable Networks (**ICLR2018**) [[paper](https://openreview.net/forum?id=Sk7KsfW0-)] 
