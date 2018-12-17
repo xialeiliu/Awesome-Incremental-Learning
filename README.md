@@ -1,5 +1,9 @@
 # Awesome Incremental Learning / Lifelong learning
 
+## Workshops
+
+### [Continual learning workshop NeurIPS 2018](https://sites.google.com/view/continual2018/home?authuser=0)
+
 ## Papers
 
 ### 2018
