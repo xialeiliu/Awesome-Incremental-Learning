@@ -1,5 +1,9 @@
 # Awesome Incremental Learning / Lifelong learning
 
+## ContinualAI wiki
+
+#### [An Open Community of Researchers and Enthusiasts on Continual/Lifelong Learning for AI](https://www.continualai.org/)
+
 ## Workshops
 
 #### [Continual learning workshop NeurIPS 2018](https://sites.google.com/view/continual2018/home?authuser=0)
