@@ -8,6 +8,10 @@
 
 #### [Continual learning workshop NeurIPS 2018](https://sites.google.com/view/continual2018/home?authuser=0)
 
+## single-head v.s. multi-head; w exemplarss or w/o exemplars
+
+Being aware of different training and test settings.
+
 ## Papers
 ### 2019
 - <a name="todo"></a> Large Scale Incremental Learning (**CVPR2019**) [[paper](https://arxiv.org/abs/1905.13260)] 
