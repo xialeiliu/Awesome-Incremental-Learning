@@ -8,7 +8,7 @@
 
 #### [Continual learning workshop NeurIPS 2018](https://sites.google.com/view/continual2018/home?authuser=0)
 
-## single-head v.s. multi-head; w exemplarss or w/o exemplars
+## single-head v.s. multi-head; w exemplars or w/o exemplars
 
 Being aware of different training and test settings.
 
