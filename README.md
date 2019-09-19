@@ -14,6 +14,11 @@
 
 Being aware of different training and test settings.
 
+## Review
+- <a name="todo"></a> Continual learning: A comparative study on how
+to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arxiv.org/pdf/1909.08383.pdf)]
+- <a name="todo"></a> Continual Lifelong Learning with Neural Networks: A Review
+ (**arXiv 2018**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
 ### 2019
 - <a name="todo"></a> Continual learning of context-dependent processing in neural networks (**Nature Machine Intelligence 2019**) [[paper](https://rdcu.be/bOaa3)] [[code](https://github.com/beijixiong3510/OWM)] 
