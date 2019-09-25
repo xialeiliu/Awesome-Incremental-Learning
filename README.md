@@ -21,6 +21,10 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
  (**arXiv 2018**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
 ### 2019
+- <a name="todo"></a> Overcoming Catastrophic Forgetting with Unlabeled Data in the Wild (**ICCV2019**) [[paper](https://arxiv.org/pdf/1903.12648.pdf)]
+- <a name="todo"></a> Continual Learning by Asymmetric Loss Approximation
+with Single-Side Overestimation (**ICCV2019**) [[paper](https://arxiv.org/pdf/1908.02984.pdf)]
+- <a name="todo"></a> Lifelong GAN: Continual Learning for Conditional Image Generation (**ICCV2019**) [[paper](https://arxiv.org/pdf/1907.10107.pdf)]
 - <a name="todo"></a> Continual learning of context-dependent processing in neural networks (**Nature Machine Intelligence 2019**) [[paper](https://rdcu.be/bOaa3)] [[code](https://github.com/beijixiong3510/OWM)] 
 - <a name="todo"></a> Large Scale Incremental Learning (**CVPR2019**) [[paper](https://arxiv.org/abs/1905.13260)] [[code](https://github.com/wuyuebupt/LargeScaleIncrementalLearning)]
 - <a name="todo"></a> Learning a Unified Classifier Incrementally via Rebalancing (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_Learning_a_Unified_Classifier_Incrementally_via_Rebalancing_CVPR_2019_paper.pdf)] [[code](https://github.com/hshustc/CVPR19_Incremental_Learning)]
