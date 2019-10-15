@@ -21,6 +21,7 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
  (**arXiv 2018**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
 ### 2019
+- <a name="todo"></a> Random Path Selection for Incremental Learning (**NeurIPS2019**) [[paper](https://arxiv.org/pdf/1906.01120.pdf)]
 - <a name="todo"></a> Overcoming Catastrophic Forgetting with Unlabeled Data in the Wild (**ICCV2019**) [[paper](https://arxiv.org/pdf/1903.12648.pdf)]
 - <a name="todo"></a> Continual Learning by Asymmetric Loss Approximation
 with Single-Side Overestimation (**ICCV2019**) [[paper](https://arxiv.org/pdf/1908.02984.pdf)]
