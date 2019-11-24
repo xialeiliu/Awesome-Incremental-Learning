@@ -21,6 +21,10 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
  (**arXiv 2018**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
 ### 2019
+- <a name="todo"></a> IL2M: Class Incremental Learning With Dual Memory
+ (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Belouadah_IL2M_Class_Incremental_Learning_With_Dual_Memory_ICCV_2019_paper.pdf)]
+- <a name="todo"></a> Incremental Learning Using Conditional Adversarial Networks
+ (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Xiang_Incremental_Learning_Using_Conditional_Adversarial_Networks_ICCV_2019_paper.html)]
 - <a name="todo"></a> Adaptive Deep Models for Incremental Learning: Considering Capacity Scalability and Sustainability (**KDD2019**) [[paper](http://www.lamda.nju.edu.cn/yangy/KDD19.pdf)]
 - <a name="todo"></a> Random Path Selection for Incremental Learning (**NeurIPS2019**) [[paper](https://arxiv.org/pdf/1906.01120.pdf)]
 - <a name="todo"></a> Overcoming Catastrophic Forgetting with Unlabeled Data in the Wild (**ICCV2019**) [[paper](https://arxiv.org/pdf/1903.12648.pdf)]
