@@ -17,9 +17,9 @@
 
 Being aware of different training and test settings.
 
+
 ## Challenges or Competitions
 #### [Lifelong Robotic Vision Challenge IROS 2019](https://lifelong-robotic-vision.github.io)
-
 #### [Continual Learning in Computer Vision Challenge CVPR 2020](https://sites.google.com/view/clvision2020/challenge?authuser=0)
 
 ## Survey
