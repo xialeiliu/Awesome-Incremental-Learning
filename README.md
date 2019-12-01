@@ -10,9 +10,17 @@
 
 #### [Continual learning workshop NeurIPS 2018](https://sites.google.com/view/continual2018/home?authuser=0)
 
+#### [Continual Learning in Computer Vision Workshop CVPR 2020](https://sites.google.com/view/clvision2020/overview)
+
+
 ## single-head v.s. multi-head; w exemplars or w/o exemplars
 
 Being aware of different training and test settings.
+
+
+## Challenges or Competitions
+#### [Lifelong Robotic Vision Challenge IROS 2019](https://lifelong-robotic-vision.github.io)
+#### [Continual Learning in Computer Vision Challenge CVPR 2020](https://sites.google.com/view/clvision2020/challenge?authuser=0)
 
 ## Survey
 - <a name="todo"></a> Continual learning: A comparative study on how
