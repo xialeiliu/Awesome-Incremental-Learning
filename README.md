@@ -29,7 +29,7 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
  (**arXiv 2018**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
 ### 2019
-<a name="todo"></a> Towards Training Recurrent Neural Networks for Lifelong Learning (**Neural Computation 2019**) [[paper](https://arxiv.org/pdf/1811.07017.pdf]
+- <a name="todo"></a> Towards Training Recurrent Neural Networks for Lifelong Learning (**Neural Computation 2019**) [[paper](https://arxiv.org/pdf/1811.07017.pdf]
 - <a name="todo"></a> IL2M: Class Incremental Learning With Dual Memory
  (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Belouadah_IL2M_Class_Incremental_Learning_With_Dual_Memory_ICCV_2019_paper.pdf)]
 - <a name="todo"></a> Incremental Learning Using Conditional Adversarial Networks
