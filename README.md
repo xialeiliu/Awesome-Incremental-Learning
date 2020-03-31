@@ -10,6 +10,8 @@
 
 #### [Continual learning workshop NeurIPS 2018](https://sites.google.com/view/continual2018/home?authuser=0)
 
+#### [4th Lifelong Learning Workshop at ICML 2020](https://lifelongml.github.io/)
+
 #### [Continual Learning in Computer Vision Workshop CVPR 2020](https://sites.google.com/view/clvision2020/overview)
 
 
