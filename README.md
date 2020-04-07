@@ -37,6 +37,8 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
 - <a name="todo"></a> Mnemonics Training: Multi-Class Incremental Learning without Forgetting (**CVPR2020**) [[paper](https://arxiv.org/pdf/2002.10211.pdf)] [[code](https://github.com/yaoyao-liu/mnemonics)]
 - <a name="todo"></a> Accepted papers(**ICLR2020**) [[paper](https://docs.google.com/presentation/d/17s5Y8N9dypH-59tuwKaCp80NYBxTmtT6V-zOFlsH-SA/edit?usp=sharing)]
 ### 2019
+- <a name="todo"></a> Compacting, Picking and Growing for Unforgetting Continual Learning (**NeurIPS2019**)[[paper](https://papers.nips.cc/paper/9518-compacting-picking-and-growing-for-unforgetting-continual-learning.pdf)][[code](https://github.com/ivclab/CPG)]
+- <a name="todo"></a> Increasingly Packing Multiple Facial-Informatics Modules in A Unified Deep-Learning Model via Lifelong Learning (**ICMR2019**) [[paper](https://dl.acm.org/doi/10.1145/3323873.3325053)][[code](https://github.com/ivclab/PAE)]
 - <a name="todo"></a> Towards Training Recurrent Neural Networks for Lifelong Learning (**Neural Computation 2019**) [[paper](https://arxiv.org/pdf/1811.07017.pdf)]
 - <a name="todo"></a> IL2M: Class Incremental Learning With Dual Memory
  (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Belouadah_IL2M_Class_Incremental_Learning_With_Dual_Memory_ICCV_2019_paper.pdf)]
