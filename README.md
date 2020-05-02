@@ -32,6 +32,7 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
 ## Papers
 ### 2020
 - <a name="todo"></a> Semantic Drift Compensation for Class-Incremental Learning (**CVPR2020**) [[paper](https://arxiv.org/pdf/2004.00440.pdf)] [[code](https://github.com/yulu0724/SDC-IL)]
+- <a name="todo"></a> Few-Shot Class-Incremental Learning (**CVPR2020**) [[paper](https://arxiv.org/pdf/2004.10956.pdf)]
 - <a name="todo"></a> Conditional Channel Gated Networks for Task-Aware Continual Learning (**CVPR2020**) [[paper](https://arxiv.org/pdf/2004.00070.pdf)]
 - <a name="todo"></a> Continual Learning with Extended Kronecker-factored Approximate Curvature
  (**CVPR2020**) [[paper](https://arxiv.org/abs/2004.07507)]
