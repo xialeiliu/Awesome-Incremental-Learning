@@ -1,24 +1,19 @@
 # Awesome Incremental Learning / Lifelong learning
-
 ## Feel free to contact me if you find any interesting paper is missing.
 
-## ContinualAI wiki
+## [Awesome Long-Tailed Recognition / Imbalanced Learning] (https://github.com/xialeiliu/Awesome-LongTailed-Recognition)
+#### Find it interesting that there are more shared techniques than I thought for incremental learning (exemplars-based). 
 
+## ContinualAI wiki
 #### [An Open Community of Researchers and Enthusiasts on Continual/Lifelong Learning for AI](https://www.continualai.org/)
 
 ## Workshops
-
 #### [Continual learning workshop NeurIPS 2018](https://sites.google.com/view/continual2018/home?authuser=0)
-
 #### [4th Lifelong Learning Workshop at ICML 2020](https://lifelongml.github.io/)
-
 #### [Continual Learning in Computer Vision Workshop CVPR 2020](https://sites.google.com/view/clvision2020/overview)
 
-
 ## single-head v.s. multi-head; w exemplars or w/o exemplars
-
-Being aware of different training and test settings.
-
+#### Being aware of different training and test settings.
 
 ## Challenges or Competitions
 #### [Lifelong Robotic Vision Challenge IROS 2019](https://lifelong-robotic-vision.github.io)
