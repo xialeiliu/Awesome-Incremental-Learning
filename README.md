@@ -24,6 +24,18 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
  (**arXiv 2018**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
 ### 2020
+- <a name="todo"></a> Incremental Meta-Learning via Indirect Discriminant Alignment (**ECCV2020**) [[paper](https://arxiv.org/abs/2002.04162)]
+- <a name="todo"></a> Memory-Efficient Incremental Learning Through Feature Adaptation (**ECCV2020**) [[paper](https://arxiv.org/abs/2004.00713)]
+- <a name="todo"></a> Small-Task Incremental Learning (**ECCV2020**) [[paper](https://arxiv.org/abs/2004.13513)]
+- <a name="todo"></a> Reparameterizing Convolutions for Incremental Multi-Task Learning Without Task Interference (**ECCV2020**) [[paper]()]
+- <a name="todo"></a> More Classifiers, Less Forgetting: A Generic Multi-classifier Paradigm for Incremental Learning (**ECCV2020**) [[paper]()]
+- <a name="todo"></a> Learning latent representions across multiple data domains using Lifelong VAEGAN (**ECCV2020**) [[paper](https://arxiv.org/abs/2007.10221)]
+- <a name="todo"></a> Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation (**ECCV2020**) [[paper]()]
+- <a name="todo"></a> Greedy Sampler and Dumb Learner: A Surprisingly Effective Approach for Continual Learning	 (**ECCV2020**) [[paper]()]
+- <a name="todo"></a> Imbalanced Continual Learning with Partitioning Reservoir Sampling	 (**ECCV2020**) [[paper]()]
+- <a name="todo"></a> Online Continual Learning under Extreme Memory Constraints	(**ECCV2020**) [[paper]()]
+- <a name="todo"></a> Class-Incremental Domain Adaptation (**ECCV2020**) [[paper]()]
+- <a name="todo"></a> Topology-Preserving Class-Incremental Learning (**ECCV2020**) [[paper]()]
 - <a name="todo"></a> XtarNet: Learning to Extract Task-Adaptive Representation
 for Incremental Few-Shot Learning (**ICLM2020**) [[paper](https://arxiv.org/pdf/2003.08561.pdf)]
 - <a name="todo"></a> Optimal Continual Learning has Perfect Memory and is NP-HARD (**ICML2020**) [[paper](https://arxiv.org/pdf/2006.05188.pdf)]
