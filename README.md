@@ -25,6 +25,7 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
 ## Papers
 ### 2020
 - <a name="todo"></a> Adversarial Continual Learning (**ECCV2020**) [[paper](https://arxiv.org/abs/2003.09553)]  [[code](https://github.com/facebookresearch/Adversarial-Continual-Learning)]
+- <a name="todo"></a> REMIND Your Neural Network to Prevent Catastrophic Forgetting (**ECCV2020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530460.pdf)]  [[code](https://github.com/tyler-hayes/REMIND)]
 - <a name="todo"></a> Incremental Meta-Learning via Indirect Discriminant Alignment (**ECCV2020**) [[paper](https://arxiv.org/abs/2002.04162)]
 - <a name="todo"></a> Memory-Efficient Incremental Learning Through Feature Adaptation (**ECCV2020**) [[paper](https://arxiv.org/abs/2004.00713)]
 - <a name="todo"></a> Small-Task Incremental Learning (**ECCV2020**) [[paper](https://arxiv.org/abs/2004.13513)]
