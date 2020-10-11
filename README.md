@@ -27,7 +27,7 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
 - <a name="todo"></a> Meta-Consolidation for Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/abs/2010.00352?context=cs)] 
 - <a name="todo"></a> Understanding the Role of Training Regimes in Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2006.06958.pdf)] 
 - <a name="todo"></a> Continual Learning with Node-Importance based Adaptive Group Sparse Regularization (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2003.13726.pdf)] 
-- <a name="todo"></a> Online Fast Adaptation and Knowledge Accumulation (OSAKA):a New Approach to Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2003.05856.pdf)] 
+- <a name="todo"></a> Online Fast Adaptation and Knowledge Accumulation (OSAKA): a New Approach to Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2003.05856.pdf)] 
 - <a name="todo"></a> Coresets via Bilevel Optimization for Continual Learning and Streaming (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2006.03875.pdf)] 
 - <a name="todo"></a> RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2007.06271.pdf)] 
 - <a name="todo"></a> Continual Deep Learning by Functional Regularisation of Memorable Past (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2004.14070.pdf)] 
@@ -40,12 +40,12 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
 - <a name="todo"></a> PODNet: Pooled Outputs Distillation for Small-Tasks Incremental Learning (**ECCV2020**) [[paper](https://arxiv.org/abs/2004.13513)] [[code](https://github.com/arthurdouillard/incremental_learning.pytorch)]
 - <a name="todo"></a> Reparameterizing Convolutions for Incremental Multi-Task Learning Without Task Interference (**ECCV2020**) [[paper](https://arxiv.org/abs/2007.12540)]
 - <a name="todo"></a> Learning latent representions across multiple data domains using Lifelong VAEGAN (**ECCV2020**) [[paper](https://arxiv.org/abs/2007.10221)]
-- <a name="todo"></a> Online Continual Learning under Extreme Memory Constraints	(**ECCV2020**) [[paper](https://arxiv.org/abs/2008.01510)]
+- <a name="todo"></a> Online Continual Learning under Extreme Memory Constraints    (**ECCV2020**) [[paper](https://arxiv.org/abs/2008.01510)]
 - <a name="todo"></a> Class-Incremental Domain Adaptation (**ECCV2020**) [[paper](https://arxiv.org/abs/2008.01389)]
 - <a name="todo"></a> More Classifiers, Less Forgetting: A Generic Multi-classifier Paradigm for Incremental Learning (**ECCV2020**) [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710698.pdf)]
 - <a name="todo"></a> Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation (**ECCV2020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660392.pdf)]
-- <a name="todo"></a> GDumb: A Simple Approach that Questions Our Progress in Continual Learning	 (**ECCV2020**) [[paper](http://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf)]
-- <a name="todo"></a> Imbalanced Continual Learning with Partitioning Reservoir Sampling	 (**ECCV2020**) [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580409.pdf)]
+- <a name="todo"></a> GDumb: A Simple Approach that Questions Our Progress in Continual Learning     (**ECCV2020**) [[paper](http://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf)]
+- <a name="todo"></a> Imbalanced Continual Learning with Partitioning Reservoir Sampling     (**ECCV2020**) [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580409.pdf)]
 - <a name="todo"></a> Topology-Preserving Class-Incremental Learning (**ECCV2020**) [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640256.pdf)]
 - <a name="todo"></a> GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems (**CIKM2020**) [[paper](https://arxiv.org/abs/2008.13517)]
 - <a name="todo"></a> OvA-INN: Continual Learning with Invertible Neural Networks (**IJCNN2020**) [[paper](https://arxiv.org/abs/2006.13772)]
@@ -127,6 +127,3 @@ with Single-Side Overestimation (**ICCV2019**) [[paper](https://arxiv.org/pdf/19
 
 ### 2016
 - <a name="todo"></a> Learning without forgetting (**ECCV2016**) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/lizhitwo/LearningWithoutForgetting)]
-
-
-
