@@ -18,10 +18,11 @@
 #### [Continual Learning in Computer Vision Challenge CVPR 2020](https://sites.google.com/view/clvision2020/challenge?authuser=0)
 
 ## Survey
+- <a name="todo"></a> Class-incremental learning: survey and performance evaluation (**arXiv 2020**) [[paper](https://arxiv.org/abs/2010.15277)]
 - <a name="todo"></a> Continual learning: A comparative study on how
 to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arxiv.org/pdf/1909.08383.pdf)]
 - <a name="todo"></a> Continual Lifelong Learning with Neural Networks: A Review
- (**arXiv 2018**) [[paper](https://arxiv.org/abs/1802.07569)]
+ (**Neural Networks**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
 ### 2020
 - <a name="todo"></a> Meta-Consolidation for Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/abs/2010.00352?context=cs)] 
