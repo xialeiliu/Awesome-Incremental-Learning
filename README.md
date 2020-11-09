@@ -15,7 +15,7 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
 - <a name="todo"></a> Coresets via Bilevel Optimization for Continual Learning and Streaming (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2006.03875.pdf)] 
 - <a name="todo"></a> RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2007.06271.pdf)] 
 - <a name="todo"></a> Continual Deep Learning by Functional Regularisation of Memorable Past (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2004.14070.pdf)] 
-- <a name="todo"></a> Dark Experience for General Continual Learning: a Strong, Simple Baseline (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2004.07211.pdf)] 
+- <a name="todo"></a> Dark Experience for General Continual Learning: a Strong, Simple Baseline (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2004.07211.pdf)]  [[code](https://github.com/aimagelab/mammoth)]
 - <a name="todo"></a> GAN Memory with No Forgetting (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2006.07543.pdf)] 
 - <a name="todo"></a> Calibrating CNNs for Lifelong Learning (**NeurIPS2020**) [[paper](http://people.ee.duke.edu/~lcarin/Final_Calibration_Incremental_Learning_NeurIPS_2020.pdf)] 
 - <a name="todo"></a> Initial Classifier Weights Replay for Memoryless Class Incremental Learning (**BMVC2020**) [[paper](https://arxiv.org/pdf/2008.13710.pdf)] 
