@@ -42,6 +42,7 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
 for Incremental Few-Shot Learning (**ICLM2020**) [[paper](https://arxiv.org/pdf/2003.08561.pdf)]
 - <a name="todo"></a> Optimal Continual Learning has Perfect Memory and is NP-HARD (**ICML2020**) [[paper](https://arxiv.org/pdf/2006.05188.pdf)]
 - <a name="todo"></a> Neural Topic Modeling with Continual Lifelong Learning (**ICML2020**) [[paper](https://arxiv.org/pdf/2006.10909.pdf)]
+- <a name="todo"></a> Continual Learning with Knowledge Transfer for Sentiment Classification (**ECML-PKDD2020**) [[paper](https://www.cs.uic.edu/~liub/publications/ECML-PKDD-2020.pdf)] [[code](https://github.com/ZixuanKe/LifelongSentClass)]
 - <a name="todo"></a> Semantic Drift Compensation for Class-Incremental Learning (**CVPR2020**) [[paper](https://arxiv.org/pdf/2004.00440.pdf)] [[code](https://github.com/yulu0724/SDC-IL)]
 - <a name="todo"></a> Few-Shot Class-Incremental Learning (**CVPR2020**) [[paper](https://arxiv.org/pdf/2004.10956.pdf)]
 - <a name="todo"></a> Modeling the Background for Incremental Learning in Semantic Segmentation (**CVPR2020**) [[paper](https://arxiv.org/pdf/2002.00718.pdf)]
