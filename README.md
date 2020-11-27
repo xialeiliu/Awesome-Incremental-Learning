@@ -9,6 +9,7 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
 ## Papers
 ### 2020
 - <a name="todo"></a> Continual Learning for Natural Language Generation in Task-oriented Dialog Systems(**EMNLP, 2020**) [[paper](https://arxiv.org/abs/2010.00910)] 
+- <a name="todo"></a> Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks (**NeurIPS2020**) [[paper](https://proceedings.neurips.cc/paper/2020/file/d7488039246a405baf6a7cbc3613a56f-Paper.pdf)] [[code](https://github.com/ZixuanKe/CAT)]
 - <a name="todo"></a> Meta-Consolidation for Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/abs/2010.00352?context=cs)] 
 - <a name="todo"></a> Understanding the Role of Training Regimes in Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2006.06958.pdf)] 
 - <a name="todo"></a> Continual Learning with Node-Importance based Adaptive Group Sparse Regularization (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2003.13726.pdf)] 
