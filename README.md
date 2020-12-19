@@ -1,7 +1,7 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
 - <a name="todo"></a> Class-incremental learning: survey and performance evaluation (**arXiv 2020**) [[paper](https://arxiv.org/abs/2010.15277)]
-- <a name="todo"></a> A Comprehensive Study of Replay-based Class Incremental Learning Algorithms (**Neural Networks**) [[paper](https://arxiv.org/pdf/2011.01844.pdf)]
+- <a name="todo"></a> A Comprehensive Study of Replay-based Class Incremental Learning Algorithms (**Neural Networks**) [[paper](https://www.sciencedirect.com/science/article/pii/S0893608020304202?dgcid=rss_sd_all)] [[code](https://github.com/EdenBelouadah/class-incremental-learning/tree/master/cil)]
 - <a name="todo"></a> Continual learning: A comparative study on how
 to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arxiv.org/pdf/1909.08383.pdf)]
 - <a name="todo"></a> Continual Lifelong Learning with Neural Networks: A Review
