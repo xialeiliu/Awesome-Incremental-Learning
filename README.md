@@ -61,6 +61,7 @@ for Incremental Few-Shot Learning (**ICLM2020**) [[paper](https://arxiv.org/pdf/
 - <a name="todo"></a> Compacting, Picking and Growing for Unforgetting Continual Learning (**NeurIPS2019**)[[paper](https://papers.nips.cc/paper/9518-compacting-picking-and-growing-for-unforgetting-continual-learning.pdf)][[code](https://github.com/ivclab/CPG)]
 - <a name="todo"></a> Increasingly Packing Multiple Facial-Informatics Modules in A Unified Deep-Learning Model via Lifelong Learning (**ICMR2019**) [[paper](https://dl.acm.org/doi/10.1145/3323873.3325053)][[code](https://github.com/ivclab/PAE)]
 - <a name="todo"></a> Towards Training Recurrent Neural Networks for Lifelong Learning (**Neural Computation 2019**) [[paper](https://arxiv.org/pdf/1811.07017.pdf)]
+- <a name="todo"></a> Complementary Learning for Overcoming Catastrophic Forgetting Using Experience Replay  (**IJCAI2019**) [[paper](https://www.ijcai.org/Proceedings/2019/0463.pdf)
 - <a name="todo"></a> IL2M: Class Incremental Learning With Dual Memory
  (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Belouadah_IL2M_Class_Incremental_Learning_With_Dual_Memory_ICCV_2019_paper.pdf)]
 - <a name="todo"></a> Incremental Learning Using Conditional Adversarial Networks
