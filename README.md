@@ -1,5 +1,6 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
+- <a name="todo"></a> Continual Lifelong Learning in Natural Language Processing: A Survey (**COLING 2020**) [[paper](https://www.aclweb.org/anthology/2020.coling-main.574/)]
 - <a name="todo"></a> Class-incremental learning: survey and performance evaluation (**arXiv 2020**) [[paper](https://arxiv.org/abs/2010.15277)]
 - <a name="todo"></a> A Comprehensive Study of Class Incremental Learning Algorithms for Visual Tasks (**Neural Networks**) [[paper](https://arxiv.org/abs/2011.01844)] [[code](https://github.com/EdenBelouadah/class-incremental-learning/tree/master/cil)]
 - <a name="todo"></a> Continual learning: A comparative study on how
@@ -130,8 +131,9 @@ with Single-Side Overestimation (**ICCV2019**) [[paper](https://arxiv.org/pdf/19
 #### [Continual learning workshop NeurIPS 2018](https://sites.google.com/view/continual2018/home?authuser=0)
 
 ## Challenges or Competitions
-#### [Lifelong Robotic Vision Challenge IROS 2019](https://lifelong-robotic-vision.github.io)
+#### [1st Lifelong Learning for Machine Translation Shared Task at WMT20 (EMNLP 2020)](http://www.statmt.org/wmt20/lifelong-learning-task.html)
 #### [Continual Learning in Computer Vision Challenge CVPR 2020](https://sites.google.com/view/clvision2020/challenge?authuser=0)
+#### [Lifelong Robotic Vision Challenge IROS 2019](https://lifelong-robotic-vision.github.io)
 
 ## Feel free to contact me if you find any interesting paper is missing.
 ## Workshop papers are currently out due to space.
