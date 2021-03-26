@@ -10,14 +10,14 @@
 ## Papers
 ### 2021
 - <a name="todo"></a> Online Class-Incremental Continual Learning with Adversarial Shapley Value(**AAAI, 2021**) [[paper](https://arxiv.org/abs/2009.00093)] [[code](https://github.com/RaptorMai/online-continual-learning)]
-- <a name="todo"></a> Lifelong and Continual Learning Dialogue Systems: Learning during Conversation(**AAAI, 2021**) [[paper(https://www.cs.uic.edu/~liub/publications/LINC_paper_AAAI_2021_camera_ready.pdf)] 
-- <a name="todo"></a> Continual learning for named entity recognition(**AAAI, 2021**)[[paper(https://www.amazon.science/publications/continual-learning-for-named-entity-recognition)] 
-- <a name="todo"></a> Using Hindsight to Anchor Past Knowledge in Continual Learning(**AAAI, 2021**) [[paper(https://arxiv.org/abs/2002.08165)] 
-- <a name="todo"></a> Curriculum-Meta Learning for Order-Robust Continual Relation Extraction(**AAAI, 2021**) [[paper(https://arxiv.org/abs/2101.01926)] 
-- <a name="todo"></a> Continual Learning by Using Information of Each Class Holistically(**AAAI, 2021**) [[paper(https://www.cs.uic.edu/~liub/publications/AAAI2021_PCL.pdf)] 
-- <a name="todo"></a> Gradient Regularized Contrastive Learning for Continual Domain Adaptation(**AAAI, 2021**) [[paper(https://arxiv.org/abs/2007.12942)] 
-- <a name="todo"></a> Unsupervised Model Adaptation for Continual Semantic Segmentation(**AAAI, 2021**) [[paper(https://arxiv.org/abs/2009.12518)] 
-- <a name="todo"></a> A Continual Learning Framework for Uncertainty-Aware Interactive Image Segmentation(**AAAI, 2021**) [[paper(https://www.aaai.org/AAAI21Papers/AAAI-2989.ZhengE.pdf)] 
+- <a name="todo"></a> Lifelong and Continual Learning Dialogue Systems: Learning during Conversation(**AAAI, 2021**)  [[paper(https://www.cs.uic.edu/~liub/publications/LINC_paper_AAAI_2021_camera_ready.pdf)] 
+- <a name="todo"></a> Continual learning for named entity recognition(**AAAI, 2021**) [[paper](https://www.amazon.science/publications/continual-learning-for-named-entity-recognition)] 
+- <a name="todo"></a> Using Hindsight to Anchor Past Knowledge in Continual Learning(**AAAI, 2021**) [[paper](https://arxiv.org/abs/2002.08165)] 
+- <a name="todo"></a> Curriculum-Meta Learning for Order-Robust Continual Relation Extraction(**AAAI, 2021**) [[paper](https://arxiv.org/abs/2101.01926)] 
+- <a name="todo"></a> Continual Learning by Using Information of Each Class Holistically(**AAAI, 2021**) [[paper](https://www.cs.uic.edu/~liub/publications/AAAI2021_PCL.pdf)] 
+- <a name="todo"></a> Gradient Regularized Contrastive Learning for Continual Domain Adaptation(**AAAI, 2021**) [[paper](https://arxiv.org/abs/2007.12942)] 
+- <a name="todo"></a> Unsupervised Model Adaptation for Continual Semantic Segmentation(**AAAI, 2021**) [[paper](https://arxiv.org/abs/2009.12518)] 
+- <a name="todo"></a> A Continual Learning Framework for Uncertainty-Aware Interactive Image Segmentation(**AAAI, 2021**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-2989.ZhengE.pdf)] 
 ### 2020
 - <a name="todo"></a> Continual Learning for Natural Language Generation in Task-oriented Dialog Systems(**EMNLP, 2020**) [[paper](https://arxiv.org/abs/2010.00910)] 
 - <a name="todo"></a> Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks (**NeurIPS2020**) [[paper](https://proceedings.neurips.cc/paper/2020/file/d7488039246a405baf6a7cbc3613a56f-Paper.pdf)] [[code](https://github.com/ZixuanKe/CAT)]
