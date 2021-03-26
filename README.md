@@ -10,7 +10,7 @@
 ## Papers
 ### 2021
 - <a name="todo"></a> Online Class-Incremental Continual Learning with Adversarial Shapley Value(**AAAI, 2021**) [[paper](https://arxiv.org/abs/2009.00093)] [[code](https://github.com/RaptorMai/online-continual-learning)]
-- <a name="todo"></a> Lifelong and Continual Learning Dialogue Systems: Learning during Conversation(**AAAI, 2021**)  [[paper(https://www.cs.uic.edu/~liub/publications/LINC_paper_AAAI_2021_camera_ready.pdf)] 
+- <a name="todo"></a> Lifelong and Continual Learning Dialogue Systems: Learning during Conversation(**AAAI, 2021**)  [[paper](https://www.cs.uic.edu/~liub/publications/LINC_paper_AAAI_2021_camera_ready.pdf)] 
 - <a name="todo"></a> Continual learning for named entity recognition(**AAAI, 2021**) [[paper](https://www.amazon.science/publications/continual-learning-for-named-entity-recognition)] 
 - <a name="todo"></a> Using Hindsight to Anchor Past Knowledge in Continual Learning(**AAAI, 2021**) [[paper](https://arxiv.org/abs/2002.08165)] 
 - <a name="todo"></a> Curriculum-Meta Learning for Order-Robust Continual Relation Extraction(**AAAI, 2021**) [[paper](https://arxiv.org/abs/2101.01926)] 
