@@ -30,6 +30,7 @@
 - <a name="todo"></a> Do Not Forget to Attend to Uncertainty While Mitigating Catastrophic Forgetting(**WACV, 2021**) [[paper](https://openaccess.thecvf.com/content/WACV2021/html/Kurmi_Do_Not_Forget_to_Attend_to_Uncertainty_While_Mitigating_Catastrophic_WACV_2021_paper.html)] 
 ### 2020
 - <a name="todo"></a> Continual Learning for Natural Language Generation in Task-oriented Dialog Systems(**EMNLP, 2020**) [[paper](https://arxiv.org/abs/2010.00910)] 
+- <a name="todo"></a> Distill and Replay for Continual Language Learning(**COLING, 2020**) [[paper](https://www.aclweb.org/anthology/2020.coling-main.318.pdf)] 
 - <a name="todo"></a> Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks (**NeurIPS2020**) [[paper](https://proceedings.neurips.cc/paper/2020/file/d7488039246a405baf6a7cbc3613a56f-Paper.pdf)] [[code](https://github.com/ZixuanKe/CAT)]
 - <a name="todo"></a> Meta-Consolidation for Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/abs/2010.00352?context=cs)] 
 - <a name="todo"></a> Understanding the Role of Training Regimes in Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2006.06958.pdf)] 
