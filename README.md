@@ -10,6 +10,7 @@
 ## Papers
 ### 2021
 - <a name="todo"></a> Efficient Feature Transformations for Discriminative and Generative Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.13558)] 
+- <a name="todo"></a> Few-Shot Incremental Learning with Continually Evolved Classifiers (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2104.03047)] 
 - <a name="todo"></a> Rectification-based Knowledge Retention for Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.16597)] 
 - <a name="todo"></a> DER: Dynamically Expandable Representation for Class Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.16788)] 
 - <a name="todo"></a> Rainbow Memory: Continual Learning with a Memory of Diverse Samples (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.17230)] 
