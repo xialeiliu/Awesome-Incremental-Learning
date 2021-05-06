@@ -9,7 +9,9 @@
  (**Neural Networks**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
 ### 2021
+- <a name="todo"></a> Adaptive Aggregation Networks for Class-Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/pdf/2010.05063.pdf)] 
 - <a name="todo"></a> Efficient Feature Transformations for Discriminative and Generative Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.13558)] 
+- - <a name="todo"></a> On Learning the Geodesic Path for Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2104.08572)]
 - <a name="todo"></a> Few-Shot Incremental Learning with Continually Evolved Classifiers (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2104.03047)] 
 - <a name="todo"></a> Rectification-based Knowledge Retention for Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.16597)] 
 - <a name="todo"></a> DER: Dynamically Expandable Representation for Class Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.16788)] 
