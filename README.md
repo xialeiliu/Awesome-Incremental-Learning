@@ -9,6 +9,7 @@
  (**Neural Networks**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
 ### 2021
+- <a name="todo"></a> Layerwise Optimization by Gradient Decomposition for Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2105.07561)] 
 - <a name="todo"></a> Adaptive Aggregation Networks for Class-Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/pdf/2010.05063.pdf)] 
 - <a name="todo"></a> Incremental Few-Shot Instance Segmentation (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2105.05312)] 
 - <a name="todo"></a> Efficient Feature Transformations for Discriminative and Generative Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.13558)] 
