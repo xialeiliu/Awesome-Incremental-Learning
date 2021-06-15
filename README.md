@@ -10,6 +10,7 @@
 ## Papers
 ### 2021
 - <a name="todo"></a> Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks (**NAACL, 2021**) [[paper](https://www.aclweb.org/anthology/2021.naacl-main.378.pdf)]
+- <a name="todo"></a> Continual Learning for Text Classification with Information Disentanglement Based Regularization (**NAACL, 2021**) [[paper](https://www.aclweb.org/anthology/2021.naacl-main.218.pdf)]
 - <a name="todo"></a> Layerwise Optimization by Gradient Decomposition for Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2105.07561)] 
 - <a name="todo"></a> Adaptive Aggregation Networks for Class-Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/pdf/2010.05063.pdf)] 
 - <a name="todo"></a> Incremental Few-Shot Instance Segmentation (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2105.05312)] 
