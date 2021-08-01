@@ -7,6 +7,7 @@
 - <a name="todo"></a> A continual learning survey: Defying forgetting in classification tasks (**TPAMI 2021**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9349197) [[arxiv](https://arxiv.org/pdf/1909.08383.pdf)]
 - <a name="todo"></a> Continual Lifelong Learning with Neural Networks: A Review
  (**Neural Networks**) [[paper](https://arxiv.org/abs/1802.07569)]
+- <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 ### 2021
 - <a name="todo"></a> Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks (**NAACL, 2021**) [[paper](https://www.aclweb.org/anthology/2021.naacl-main.378.pdf)]
