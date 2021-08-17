@@ -102,6 +102,7 @@ for Incremental Few-Shot Learning (**ICLM2020**) [[paper](https://arxiv.org/pdf/
 - <a name="todo"></a> ScaIL: Classifier Weights Scaling for Class Incremental Learning (**WACV2020**) [[paper](https://arxiv.org/abs/2001.05755)]
 - <a name="todo"></a> Accepted papers(**ICLR2020**) [[paper](https://docs.google.com/presentation/d/17s5Y8N9dypH-59tuwKaCp80NYBxTmtT6V-zOFlsH-SA/edit?usp=sharing)]
 - <a name="todo"></a> Brain-inspired replay for continual learning with artificial neural networks (**Natrue Communications 2020**) [[paper](https://www.nature.com/articles/s41467-020-17866-2)] [[code](https://github.com/GMvandeVen/brain-inspired-replay)]
+- <a name="todo"></a> Learning to Continually Learn (**ECAI 2020**) [[paper](https://arxiv.org/abs/2002.09571)] [[code](https://github.com/uvm-neurobotics-lab/ANML)]
 ### 2019
 - <a name="todo"></a> Compacting, Picking and Growing for Unforgetting Continual Learning (**NeurIPS2019**)[[paper](https://papers.nips.cc/paper/9518-compacting-picking-and-growing-for-unforgetting-continual-learning.pdf)][[code](https://github.com/ivclab/CPG)]
 - <a name="todo"></a> Increasingly Packing Multiple Facial-Informatics Modules in A Unified Deep-Learning Model via Lifelong Learning (**ICMR2019**) [[paper](https://dl.acm.org/doi/10.1145/3323873.3325053)][[code](https://github.com/ivclab/PAE)]
