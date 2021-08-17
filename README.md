@@ -10,8 +10,12 @@
 - <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 ### 2021
+- <a name="todo"></a> RECALL: Replay-based Continual Learning in Semantic Segmentation (**ICCV, 2021**) [[paper](https://arxiv.org/pdf/2108.03673.pdf)]
+- <a name="todo"></a> Few-Shot and Continual Learning with Attentive Independent Mechanisms (**ICCV, 2021**) [[paper](https://arxiv.org/abs/2107.14053)]
+- <a name="todo"></a> Continuous Coordination As a Realistic Scenario for Lifelong Learning (**ICML, 2021**) [[paper](https://arxiv.org/pdf/2103.03216.pdf)]
 - <a name="todo"></a> Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks (**NAACL, 2021**) [[paper](https://www.aclweb.org/anthology/2021.naacl-main.378.pdf)]
 - <a name="todo"></a> Continual Learning for Text Classification with Information Disentanglement Based Regularization (**NAACL, 2021**) [[paper](https://www.aclweb.org/anthology/2021.naacl-main.218.pdf)]
+- <a name="todo"></a> Towards Open World Object Detection (**CVPR, 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf)] [[code](https://github.com/JosephKJ/OWOD)] [[video](https://www.youtube.com/watch?v=aB2ZFAR-OZg)]
 - <a name="todo"></a> Prototype Augmentation and Self-Supervision for Incremental Learning (**CVPR, 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Prototype_Augmentation_and_Self-Supervision_for_Incremental_Learning_CVPR_2021_paper.pdf)] 
 - <a name="todo"></a> ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning (**CVPR, 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.pdf)] 
 - <a name="todo"></a> Incremental Learning via Rate Reduction (**CVPR, 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Incremental_Learning_via_Rate_Reduction_CVPR_2021_paper.pdf)] 
