@@ -10,6 +10,10 @@
 - <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 ### 2021
+- <a name="todo"></a> Online Continual Learning with Natural Distribution Shifts: An Empirical Study with Visual Data (**ICCV, 2021**) [[paper](https://arxiv.org/abs/2108.09020)]
+- <a name="todo"></a> Continual Learning for Image-Based Camera Localization (**ICCV, 2021**) [[paper](https://arxiv.org/abs/2108.09112)]
+- <a name="todo"></a> Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting (**ICCV, 2021**) [[paper](https://arxiv.org/abs/2108.08165)]
+- <a name="todo"></a> Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning (**ICCV, 2021**) [[paper](https://arxiv.org/abs/2106.09701)]
 - <a name="todo"></a> RECALL: Replay-based Continual Learning in Semantic Segmentation (**ICCV, 2021**) [[paper](https://arxiv.org/pdf/2108.03673.pdf)]
 - <a name="todo"></a> Few-Shot and Continual Learning with Attentive Independent Mechanisms (**ICCV, 2021**) [[paper](https://arxiv.org/abs/2107.14053)]
 - <a name="todo"></a> Continuous Coordination As a Realistic Scenario for Lifelong Learning (**ICML, 2021**) [[paper](https://arxiv.org/pdf/2103.03216.pdf)]
