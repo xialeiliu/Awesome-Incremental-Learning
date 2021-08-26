@@ -44,6 +44,7 @@
  (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2011.11390)] 
  - <a name="todo"></a> Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations
  (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.06342)] 
+ - <a name="todo></a> Class-Incremental Learning with Generative Classifiers(**CVPR Workshop, 2021) [[paper](https://arxiv.org/abs/2104.10093)] [[code](https://github.com/GMvandeVen/class-incremental-learning)]
 - <a name="todo"></a> Online Class-Incremental Continual Learning with Adversarial Shapley Value(**AAAI, 2021**) [[paper](https://arxiv.org/abs/2009.00093)] [[code](https://github.com/RaptorMai/online-continual-learning)]
 - <a name="todo"></a> Lifelong and Continual Learning Dialogue Systems: Learning during Conversation(**AAAI, 2021**)  [[paper](https://www.cs.uic.edu/~liub/publications/LINC_paper_AAAI_2021_camera_ready.pdf)] 
 - <a name="todo"></a> Continual learning for named entity recognition(**AAAI, 2021**) [[paper](https://www.amazon.science/publications/continual-learning-for-named-entity-recognition)] 
