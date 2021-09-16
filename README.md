@@ -16,6 +16,7 @@
 - <a name="todo"></a> Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning (**ICCV, 2021**) [[paper](https://arxiv.org/abs/2106.09701)]
 - <a name="todo"></a> RECALL: Replay-based Continual Learning in Semantic Segmentation (**ICCV, 2021**) [[paper](https://arxiv.org/pdf/2108.03673.pdf)]
 - <a name="todo"></a> Few-Shot and Continual Learning with Attentive Independent Mechanisms (**ICCV, 2021**) [[paper](https://arxiv.org/abs/2107.14053)]
+- <a name="todo"></a> Learning with Selective Forgetting (**IJCAI, 2021**) [[paper](https://www.ijcai.org/proceedings/2021/0137.pdf)]
 - <a name="todo"></a> Continuous Coordination As a Realistic Scenario for Lifelong Learning (**ICML, 2021**) [[paper](https://arxiv.org/pdf/2103.03216.pdf)]
 - <a name="todo"></a> Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks (**NAACL, 2021**) [[paper](https://www.aclweb.org/anthology/2021.naacl-main.378.pdf)]
 - <a name="todo"></a> Continual Learning for Text Classification with Information Disentanglement Based Regularization (**NAACL, 2021**) [[paper](https://www.aclweb.org/anthology/2021.naacl-main.218.pdf)]
