@@ -10,6 +10,17 @@
 - <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 ### 2021
+- <a name="todo"></a> SS-IL: Separated Softmax for Incremental Learning (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ahn_SS-IL_Separated_Softmax_for_Incremental_Learning_ICCV_2021_paper.pdf)]
+- <a name="todo"></a> Striking a Balance between Stability and Plasticity for Class-Incremental Learning (**ICCV, 2021**) [[paper](http://www.eecs.qmul.ac.uk/~sgg/papers/WuEtAl_ICCV2021.pdf)]
+- <a name="todo"></a> Synthesized Feature based Few-Shot Class-Incremental Learning on a Mixture of Subspaces (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.pdf)]
+- <a name="todo"></a> Class-Incremental Learning for Action Recognition in Videos (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Park_Class-Incremental_Learning_for_Action_Recognition_in_Videos_ICCV_2021_paper.pdf)]
+- <a name="todo"></a> Continual Prototype Evolution:Learning Online from Non-Stationary Data Streams (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/De_Lange_Continual_Prototype_Evolution_Learning_Online_From_Non-Stationary_Data_Streams_ICCV_2021_paper.pdf)]
+- <a name="todo"></a> Rehearsal Revealed: The Limits and Merits of Revisiting Samples in Continual Learning (**ICCV, 2021**) [[paper](https://arxiv.org/abs/2104.07446)]
+- <a name="todo"></a> Co2L: Contrastive Continual Learning (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cha_Co2L_Contrastive_Continual_Learning_ICCV_2021_paper.pdf)]
+- <a name="todo"></a> Wanderlust: Online Continual Object Detection in the Real World (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Wanderlust_Online_Continual_Object_Detection_in_the_Real_World_ICCV_2021_paper.pdf)]
+- <a name="todo"></a> Continual Learning on Noisy Data Streams via Self-Purified Replay (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Continual_Learning_on_Noisy_Data_Streams_via_Self-Purified_Replay_ICCV_2021_paper.pdf)]
+- <a name="todo"></a> Else-Net: Elastic Semantic Network for Continual Action Recognition from Skeleton Data (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Else-Net_Elastic_Semantic_Network_for_Continual_Action_Recognition_From_Skeleton_ICCV_2021_paper.pdf)]
+- <a name="todo"></a> Detection and Continual Learning of Novel Face Presentation Attacks (**ICCV, 2021**) [[paper](https://arxiv.org/pdf/2108.12081.pdf)]
 - <a name="todo"></a> Online Continual Learning with Natural Distribution Shifts: An Empirical Study with Visual Data (**ICCV, 2021**) [[paper](https://arxiv.org/abs/2108.09020)]
 - <a name="todo"></a> Continual Learning for Image-Based Camera Localization (**ICCV, 2021**) [[paper](https://arxiv.org/abs/2108.09112)]
 - <a name="todo"></a> Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting (**ICCV, 2021**) [[paper](https://arxiv.org/abs/2108.08165)]
