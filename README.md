@@ -30,6 +30,7 @@
 - <a name="todo"></a> Learning with Selective Forgetting (**IJCAI, 2021**) [[paper](https://www.ijcai.org/proceedings/2021/0137.pdf)]
 - <a name="todo"></a> Continuous Coordination As a Realistic Scenario for Lifelong Learning (**ICML, 2021**) [[paper](https://arxiv.org/pdf/2103.03216.pdf)]
 - <a name="todo"></a> Kernel Continual Learning (**ICML, 2021**) [[paper](https://proceedings.mlr.press/v139/derakhshani21a.html)]
+- Variational Auto-Regressive Gaussian Processes for Continual Learning (**ICML, 2021**) [[paper](https://proceedings.mlr.press/v139/kapoor21b.html)]
 - <a name="todo"></a> Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks (**NAACL, 2021**) [[paper](https://www.aclweb.org/anthology/2021.naacl-main.378.pdf)]
 - <a name="todo"></a> Continual Learning for Text Classification with Information Disentanglement Based Regularization (**NAACL, 2021**) [[paper](https://www.aclweb.org/anthology/2021.naacl-main.218.pdf)]
 - <a name="todo"></a> Towards Open World Object Detection (**CVPR, 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf)] [[code](https://github.com/JosephKJ/OWOD)] [[video](https://www.youtube.com/watch?v=aB2ZFAR-OZg)]
