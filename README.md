@@ -91,6 +91,8 @@
 - <a name="todo"></a> Dark Experience for General Continual Learning: a Strong, Simple Baseline (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2004.07211.pdf)]  [[code](https://github.com/aimagelab/mammoth)]
 - <a name="todo"></a> GAN Memory with No Forgetting (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2006.07543.pdf)] 
 - <a name="todo"></a> Calibrating CNNs for Lifelong Learning (**NeurIPS2020**) [[paper](http://people.ee.duke.edu/~lcarin/Final_Calibration_Incremental_Learning_NeurIPS_2020.pdf)] 
+- <a name="todo"></a> Mitigating Forgetting in Online Continual Learning
+via Instance-Aware Parameterization (**NeurIPS2020**) [[paper](https://papers.nips.cc/paper/2020/file/ca4b5656b7e193e6bb9064c672ac8dce-Paper.pdf)] 
 - <a name="todo"></a> ADER: Adaptively Distilled Exemplar Replay Towards Continual Learning for Session-based Recommendation(**RecSys, 2020**) [[paper](https://arxiv.org/abs/2007.12000)] 
 - <a name="todo"></a> Initial Classifier Weights Replay for Memoryless Class Incremental Learning (**BMVC2020**) [[paper](https://arxiv.org/pdf/2008.13710.pdf)] 
 - <a name="todo"></a> Adversarial Continual Learning (**ECCV2020**) [[paper](https://arxiv.org/abs/2003.09553)]  [[code](https://github.com/facebookresearch/Adversarial-Continual-Learning)]
