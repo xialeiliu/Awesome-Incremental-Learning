@@ -10,6 +10,12 @@
 - <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 ### 2021
+
+- <a name="todo"></a> Class-Incremental Learning via Dual Augmentation (**NeurIPS2021**) [[paper](https://nips.cc/Conferences/2021/AcceptedPapersInitial)]
+- <a name="todo"></a> SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (**NeurIPS2021**) [[paper](https://arxiv.org/abs/2106.11562)]
+- <a name="todo"></a> RMM: Reinforced Memory Management for Class-Incremental Learning (**NeurIPS2021**) [[paper](https://nips.cc/Conferences/2021/AcceptedPapersInitial)]
+- <a name="todo"></a> Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima (**NeurIPS2021**) [[paper](https://arxiv.org/abs/2111.01549)]
+- <a name="todo"></a> Lifelong Domain Adaptation via Consolidated Internal Distribution (**NeurIPS2021**) [[paper](https://nips.cc/Conferences/2021/AcceptedPapersInitial)]
 - <a name="todo"></a> AFEC: Active Forgetting of Negative Transfer in Continual Learning (**NeurIPS2021**) [[paper](https://arxiv.org/abs/2110.12187)]
 - <a name="todo"></a> Natural continual learning: success is a journey, not (just) a destination (**NeurIPS2021**) [[paper](https://arxiv.org/abs/2106.08085)]
 - <a name="todo"></a> Gradient-based Editing of Memory Examples for Online Task-free Continual Learning (**NeurIPS2021**) [[paper](https://arxiv.org/pdf/2006.15294.pdf)]
