@@ -10,7 +10,7 @@
 - <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 ### 2021
-- <a name="todo"></a> CLASSIC: Continual and Contrastive Learning of Aspect Sentiment Classification Tasks (**EMNLP, 2021**) [[paper](https://aclanthology.org/2021.emnlp-main.550/)] [[code]https://github.com/ZixuanKe/PyContinual]
+- <a name="todo"></a> CLASSIC: Continual and Contrastive Learning of Aspect Sentiment Classification Tasks (**EMNLP, 2021**) [[paper](https://aclanthology.org/2021.emnlp-main.550/)][[code](https://github.com/ZixuanKe/PyContinual)]
 - <a name="todo"></a> SS-IL: Separated Softmax for Incremental Learning (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ahn_SS-IL_Separated_Softmax_for_Incremental_Learning_ICCV_2021_paper.pdf)]
 - <a name="todo"></a> Striking a Balance between Stability and Plasticity for Class-Incremental Learning (**ICCV, 2021**) [[paper](http://www.eecs.qmul.ac.uk/~sgg/papers/WuEtAl_ICCV2021.pdf)]
 - <a name="todo"></a> Synthesized Feature based Few-Shot Class-Incremental Learning on a Mixture of Subspaces (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.pdf)]
