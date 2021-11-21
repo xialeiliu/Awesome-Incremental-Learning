@@ -25,7 +25,7 @@
 - <a name="todo"></a> Flattening Sharpness for Dynamic Gradient Projection Memory Benefits Continual Learning (**NeurIPS2021**) [[paper](https://openreview.net/forum?id=q1eCa1kMfDd)]
 - <a name="todo"></a> Posterior Meta-Replay for Continual Learning (**NeurIPS2021**) [[paper](https://arxiv.org/abs/2103.01133)]
 - <a name="todo"></a> Continual Auxiliary Task Learning (**NeurIPS2021**) [[paper](https://openreview.net/forum?id=EpL9IFAMa3)]
-- <a name="todo"></a> Mitigating Forgetting in Online Continual Learning with Neuron Calibration (**NeurIPS2021**) [[paper](https://proceedings.neurips.cc//paper/2020/file/ca4b5656b7e193e6bb9064c672ac8dce-Paper.pdf)]
+- <a name="todo"></a> Mitigating Forgetting in Online Continual Learning with Neuron Calibration (**NeurIPS2021**) [[paper](https://openreview.net/pdf/cc3ebd7a4834a4551e0b1f825969f9f51fd06415.pdf)]
 - <a name="todo"></a> BNS: Building Network Structures Dynamically for Continual Learning (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/hash/ac64504cc249b070772848642cffe6ff-Abstract.html)]
 - <a name="todo"></a> DualNet: Continual Learning, Fast and Slow (**NeurIPS2021**) [[paper](https://openreview.net/pdf?id=eQ7Kh-QeWnO)]
 - <a name="todo"></a> BooVAE: Boosting Approach for Continual Learning of VAE (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html)]
