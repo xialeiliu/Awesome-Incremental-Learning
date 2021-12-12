@@ -10,6 +10,11 @@
 - <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 ### 2021
+- <a name="todo"></a> RMM: Reinforced Memory Management for Class-Incremental Learning (**NeurIPS, 2021**) [[paper](https://papers.nips.cc/paper/2021/file/1cbcaa5abbb6b70f378a3a03d0c26386-Paper.pdf)]
+- <a name="todo"></a> Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima (**NeurIPS, 2021**) [[paper](https://papers.nips.cc/paper/2021/file/357cfba15668cc2e1e73111e09d54383-Paper.pdf)]
+- <a name="todo"></a> SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (**NeurIPS, 2021**) [[paper](https://papers.nips.cc/paper/2021/file/5a9542c773018268fc6271f7afeea969-Paper.pdf)]
+- <a name="todo"></a> Class-Incremental Learning via Dual Augmentation (**NeurIPS, 2021**) [[paper](https://papers.nips.cc/paper/2021/file/77ee3bc58ce560b86c2b59363281e914-Paper.pdf)]
+- <a name="todo"></a> Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection (**NeurIPS, 2021**) [[paper](https://papers.nips.cc/paper/2021/file/ffc58105bf6f8a91aba0fa2d99e6f106-Paper.pdf)]
 - <a name="todo"></a> SS-IL: Separated Softmax for Incremental Learning (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ahn_SS-IL_Separated_Softmax_for_Incremental_Learning_ICCV_2021_paper.pdf)]
 - <a name="todo"></a> Striking a Balance between Stability and Plasticity for Class-Incremental Learning (**ICCV, 2021**) [[paper](http://www.eecs.qmul.ac.uk/~sgg/papers/WuEtAl_ICCV2021.pdf)]
 - <a name="todo"></a> Synthesized Feature based Few-Shot Class-Incremental Learning on a Mixture of Subspaces (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.pdf)]
