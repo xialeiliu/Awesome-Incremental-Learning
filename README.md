@@ -9,6 +9,8 @@
  (**Neural Networks**) [[paper](https://arxiv.org/abs/1802.07569)]
 - <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
+### 2022
+- <a name="todo"></a> Towards Unsupervised Open World Semantic Segmentation (**arXiv 2022**) [[paper](https://arxiv.org/abs/2201.01073)]
 ### 2021
 - <a name="todo"></a> Incremental Object Detection via Meta-Learning (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2003.08798)] [[code](https://github.com/JosephKJ/iOD)]
 - <a name="todo"></a> Class-Incremental Learning via Dual Augmentation (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/file/77ee3bc58ce560b86c2b59363281e914-Paper.pdf)]
