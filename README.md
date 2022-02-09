@@ -9,6 +9,20 @@
  (**Neural Networks**) [[paper](https://arxiv.org/abs/1802.07569)]
 - <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
+
+### 2022
+- <a name="todo"></a> REPRESENTATIONAL CONTINUITY FOR
+UNSUPERVISED CONTINUAL LEARNING (**ICLR2022**) [[paper](https://openreview.net/pdf?id=9Hrka5PA7LW)]
+- <a name="todo"></a> CONTINUAL LEARNING WITH FILTER ATOM SWAPPING (**ICLR2022**) [[paper](https://openreview.net/pdf?id=metRpM4Zrcb)]
+- <a name="todo"></a> CONTINUAL LEARNING WITH RECURSIVE GRADIENT
+OPTIMIZATION (**ICLR2022**) [[paper](https://openreview.net/pdf?id=7YDLgf9_zgm)]
+- <a name="todo"></a> TRGP: TRUST REGION GRADIENT PROJECTION FOR
+CONTINUAL LEARNING (**ICLR2022**) [[paper](https://openreview.net/pdf?id=iEvAf8i6JjO)]
+- <a name="todo"></a> LOOKING BACK ON LEARNED EXPERIENCES
+FOR CLASS/TASK INCREMENTAL LEARNING (**ICLR2022**) [[paper](https://openreview.net/pdf?id=RxplU3vmBx)]
+- <a name="todo"></a> Continual Normalization: Rethinking Batch Normalization for Online Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=vwLLQ-HwqhZ)]
+
+
 ### 2021
 - <a name="todo"></a> Class-Incremental Learning via Dual Augmentation (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/file/77ee3bc58ce560b86c2b59363281e914-Paper.pdf)]
 - <a name="todo"></a> SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (**NeurIPS2021**) [[paper](https://proceedings.neurips.cc/paper/2021/file/5a9542c773018268fc6271f7afeea969-Paper.pdf)]
