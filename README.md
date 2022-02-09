@@ -22,7 +22,13 @@
 - <a name="todo"></a> Learning curves for continual learning in neural networks: Self-knowledge transfer and forgetting (**ICLR2022**) [[paper](https://openreview.net/pdf?id=tFgdrQbbaa)]
 - <a name="todo"></a> Memory Replay with Data Compression for Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=a7H7OucbWaU)]
 - <a name="todo"></a> Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System (**ICLR2022**) [[paper](https://openreview.net/pdf?id=uxxFrDwrE7Y)]
-- <a name="todo"></a> Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System (**ICLR2022**) [[paper](hhttps://openreview.net/pdf?id=uxxFrDwrE7Y)]
+- <a name="todo"></a> Online Coreset Selection for Rehearsal-based Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=f9D-5WNG4Nv)]
+- <a name="todo"></a> Pretrained Language Model in Continual Learning: A Comparative Study (**ICLR2022**) [[paper](https://openreview.net/pdf?id=figzpGMrdD)]
+- <a name="todo"></a> Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference (**ICLR2022**) [[paper](https://openreview.net/pdf?id=nrGGfMbY_qK)]
+- <a name="todo"></a> New Insights on Reducing Abrupt Representation Change in Online Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=N8MaByOzUfb)]
+- <a name="todo"></a> Towards Continual Knowledge Learning of Language Models  (**ICLR2022**) [[paper](https://openreview.net/pdf?id=vfsRB5MImo9)]
+- <a name="todo"></a> CLEVA-Compass: A Continual Learning Evaluation Assessment Compass to Promote Research Transparency and Comparability  (**ICLR2022**) [[paper](https://openreview.net/pdf?id=rHMaBYbkkRJ)]
+- <a name="todo"></a> CoMPS: Continual Meta Policy Search (**ICLR2022**) [[paper](https://openreview.net/pdf?id=PVJ6j87gOHz)]
 
 
 
