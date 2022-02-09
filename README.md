@@ -11,6 +11,7 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> Learngene: From Open-World to Your Learning Task (**AAAI2022**) [[paper](https://arxiv.org/pdf/2106.06788.pdf)]
 - <a name="todo"></a> Rethinking the Representational Continuity: Towards Unsupervised Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=9Hrka5PA7LW)]
 - <a name="todo"></a> Continual Learning with Filter Atom Swapping (**ICLR2022**) [[paper](https://openreview.net/pdf?id=metRpM4Zrcb)]
 - <a name="todo"></a> Continual Learning with Recursive Gradient Optimization (**ICLR2022**) [[paper](https://openreview.net/pdf?id=7YDLgf9_zgm)]
@@ -18,6 +19,11 @@
 - <a name="todo"></a> Looking Back on Learned Experiences For Class/task Incremental Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=RxplU3vmBx)]
 - <a name="todo"></a> Continual Normalization: Rethinking Batch Normalization for Online Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=vwLLQ-HwqhZ)]
 - <a name="todo"></a> Model Zoo: A Growing Brain That Learns Continually (**ICLR2022**) [[paper](https://openreview.net/pdf?id=WfvgGBcgbE7)]
+- <a name="todo"></a> Learning curves for continual learning in neural networks: Self-knowledge transfer and forgetting (**ICLR2022**) [[paper](https://openreview.net/pdf?id=tFgdrQbbaa)]
+- <a name="todo"></a> Memory Replay with Data Compression for Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=a7H7OucbWaU)]
+- <a name="todo"></a> Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System (**ICLR2022**) [[paper](https://openreview.net/pdf?id=uxxFrDwrE7Y)]
+- <a name="todo"></a> Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System (**ICLR2022**) [[paper](hhttps://openreview.net/pdf?id=uxxFrDwrE7Y)]
+
 
 
 
