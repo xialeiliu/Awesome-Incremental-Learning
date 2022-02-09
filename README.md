@@ -11,16 +11,14 @@
 ## Papers
 
 ### 2022
-- <a name="todo"></a> REPRESENTATIONAL CONTINUITY FOR
-UNSUPERVISED CONTINUAL LEARNING (**ICLR2022**) [[paper](https://openreview.net/pdf?id=9Hrka5PA7LW)]
-- <a name="todo"></a> CONTINUAL LEARNING WITH FILTER ATOM SWAPPING (**ICLR2022**) [[paper](https://openreview.net/pdf?id=metRpM4Zrcb)]
-- <a name="todo"></a> CONTINUAL LEARNING WITH RECURSIVE GRADIENT
-OPTIMIZATION (**ICLR2022**) [[paper](https://openreview.net/pdf?id=7YDLgf9_zgm)]
-- <a name="todo"></a> TRGP: TRUST REGION GRADIENT PROJECTION FOR
-CONTINUAL LEARNING (**ICLR2022**) [[paper](https://openreview.net/pdf?id=iEvAf8i6JjO)]
-- <a name="todo"></a> LOOKING BACK ON LEARNED EXPERIENCES
-FOR CLASS/TASK INCREMENTAL LEARNING (**ICLR2022**) [[paper](https://openreview.net/pdf?id=RxplU3vmBx)]
+- <a name="todo"></a> Rethinking the Representational Continuity: Towards Unsupervised Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=9Hrka5PA7LW)]
+- <a name="todo"></a> Continual Learning with Filter Atom Swapping (**ICLR2022**) [[paper](https://openreview.net/pdf?id=metRpM4Zrcb)]
+- <a name="todo"></a> Continual Learning with Recursive Gradient Optimization (**ICLR2022**) [[paper](https://openreview.net/pdf?id=7YDLgf9_zgm)]
+- <a name="todo"></a> TRGP: Trust Region Gradient Projection for Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=iEvAf8i6JjO)]
+- <a name="todo"></a> Looking Back on Learned Experiences For Class/task Incremental Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=RxplU3vmBx)]
 - <a name="todo"></a> Continual Normalization: Rethinking Batch Normalization for Online Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=vwLLQ-HwqhZ)]
+- <a name="todo"></a> Model Zoo: A Growing Brain That Learns Continually (**ICLR2022**) [[paper](https://openreview.net/pdf?id=WfvgGBcgbE7)]
+
 
 
 ### 2021
