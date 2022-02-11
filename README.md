@@ -36,7 +36,7 @@
 
 
 ### 2021
-- <a name="todo"></a> Incremental Object Detection via Meta-Learning (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2003.08798)]  [[code](https://github.com/JosephKJ/iOD)] 
+- <a name="todo"></a> Incremental Object Detection via Meta-Learning (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2003.08798)] [[code](https://github.com/JosephKJ/iOD)]
 - <a name="todo"></a> Class-Incremental Learning via Dual Augmentation (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/file/77ee3bc58ce560b86c2b59363281e914-Paper.pdf)]
 - <a name="todo"></a> SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (**NeurIPS2021**) [[paper](https://proceedings.neurips.cc/paper/2021/file/5a9542c773018268fc6271f7afeea969-Paper.pdf)]
 - <a name="todo"></a> RMM: Reinforced Memory Management for Class-Incremental Learning (**NeurIPS2021**) [[paper](https://proceedings.neurips.cc/paper/2021/hash/1cbcaa5abbb6b70f378a3a03d0c26386-Abstract.html)]
@@ -59,7 +59,7 @@
 - <a name="todo"></a> Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/hash/bcd0049c35799cdf57d06eaf2eb3cff6-Abstract.html)]
 - <a name="todo"></a> Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection (**NeurIPS, 2021**) [[paper](https://papers.nips.cc/paper/2021/file/ffc58105bf6f8a91aba0fa2d99e6f106-Paper.pdf)]
 - <a name="todo"></a> SS-IL: Separated Softmax for Incremental Learning (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ahn_SS-IL_Separated_Softmax_for_Incremental_Learning_ICCV_2021_paper.pdf)]
-- <a name="todo"></a> Striking a Balance between Stability and Plasticity for Class-Incremental Learning (**ICCV, 2021**) [[paper](http://www.eecs.qmul.ac.uk/~sgg/papers/WuEtAl_ICCV2021.pdf)]
+- <a name="todo"></a> Striking a Balance between Stability and Plasticity for Class-Incremental Learning (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Striking_a_Balance_Between_Stability_and_Plasticity_for_Class-Incremental_Learning_ICCV_2021_paper.pdf)]
 - <a name="todo"></a> Synthesized Feature based Few-Shot Class-Incremental Learning on a Mixture of Subspaces (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.pdf)]
 - <a name="todo"></a> Class-Incremental Learning for Action Recognition in Videos (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Park_Class-Incremental_Learning_for_Action_Recognition_in_Videos_ICCV_2021_paper.pdf)]
 - <a name="todo"></a> Continual Prototype Evolution:Learning Online from Non-Stationary Data Streams (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/De_Lange_Continual_Prototype_Evolution_Learning_Online_From_Non-Stationary_Data_Streams_ICCV_2021_paper.pdf)]
