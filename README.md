@@ -12,6 +12,7 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> Self-training for class-incremental semantic segmentation (**TNNLS2022**) [[paper](https://arxiv.org/abs/2012.03362)]
 - <a name="todo"></a> Learngene: From Open-World to Your Learning Task (**AAAI2022**) [[paper](https://arxiv.org/pdf/2106.06788.pdf)]
 - <a name="todo"></a> Rethinking the Representational Continuity: Towards Unsupervised Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=9Hrka5PA7LW)]
 - <a name="todo"></a> Continual Learning with Filter Atom Swapping (**ICLR2022**) [[paper](https://openreview.net/pdf?id=metRpM4Zrcb)]
