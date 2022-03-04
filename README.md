@@ -13,8 +13,8 @@
 
 ### 2022
 - <a name="todo"></a> Self-training for class-incremental semantic segmentation (**TNNLS2022**) [[paper](https://arxiv.org/abs/2012.03362)]
+- <a name="todo"></a> Learngene: From Open-World to Your Learning Task (**AAAI2022**) [[paper](https://arxiv.org/pdf/2106.06788.pdf)] [[code](https://github.com/BruceQFWang/learngene)]
 - <a name="todo"></a> MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning (**TPAMI2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9645290)]
-- <a name="todo"></a> Learngene: From Open-World to Your Learning Task (**AAAI2022**) [[paper](https://arxiv.org/pdf/2106.06788.pdf)]
 - <a name="todo"></a> Rethinking the Representational Continuity: Towards Unsupervised Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=9Hrka5PA7LW)]
 - <a name="todo"></a> Continual Learning with Filter Atom Swapping (**ICLR2022**) [[paper](https://openreview.net/pdf?id=metRpM4Zrcb)]
 - <a name="todo"></a> Continual Learning with Recursive Gradient Optimization (**ICLR2022**) [[paper](https://openreview.net/pdf?id=7YDLgf9_zgm)]
@@ -62,7 +62,7 @@
 - <a name="todo"></a> BooVAE: Boosting Approach for Continual Learning of VAE (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html)]
 - <a name="todo"></a> Generative vs. Discriminative: Rethinking The Meta-Continual Learning (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/hash/b4e267d84075f66ebd967d95331fcc03-Abstract.html)]
 - <a name="todo"></a> Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/hash/bcd0049c35799cdf57d06eaf2eb3cff6-Abstract.html)]
-- <a name="todo"></a> Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection (**NeurIPS, 2021**) [[paper](https://papers.nips.cc/paper/2021/file/ffc58105bf6f8a91aba0fa2d99e6f106-Paper.pdf)]
+- <a name="todo"></a> Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection (**NeurIPS, 2021**) [[paper](https://papers.nips.cc/paper/2021/file/ffc58105bf6f8a91aba0fa2d99e6f106-Paper.pdf)] [[code](https://github.com/dongnana777/Bridging-Non-Co-occurrence)]
 - <a name="todo"></a> SS-IL: Separated Softmax for Incremental Learning (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ahn_SS-IL_Separated_Softmax_for_Incremental_Learning_ICCV_2021_paper.pdf)]
 - <a name="todo"></a> Striking a Balance between Stability and Plasticity for Class-Incremental Learning (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Striking_a_Balance_Between_Stability_and_Plasticity_for_Class-Incremental_Learning_ICCV_2021_paper.pdf)]
 - <a name="todo"></a> Synthesized Feature based Few-Shot Class-Incremental Learning on a Mixture of Subspaces (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.pdf)]
