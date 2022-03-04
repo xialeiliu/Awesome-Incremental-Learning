@@ -35,6 +35,7 @@
 - <a name="todo"></a> Subspace Regularizers for Few-Shot Class Incremental Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=boJy41J-tnQ)]
 - <a name="todo"></a> LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5 (**ICLR2022**) [[paper](https://openreview.net/pdf?id=HCRVf71PMF)]
 - <a name="todo"></a> Effect of scale on catastrophic forgetting in neural networks (**ICLR2022**) [[paper]( https://openreview.net/pdf?id=GhVS8_yPeEa)]
+- <a name="todo"></a> Dataset Knowledge Transfer for Class-Incremental Learning without Memory (**WACV2022**) [[paper](https://arxiv.org/pdf/2110.08421.pdf)]
 
 
 ### 2021
