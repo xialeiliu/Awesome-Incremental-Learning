@@ -13,6 +13,7 @@
 
 ### 2022
 - <a name="todo"></a> Self-training for class-incremental semantic segmentation (**TNNLS2022**) [[paper](https://arxiv.org/abs/2012.03362)]
+- <a name="todo"></a> MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning (**TPAMI2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9645290)]
 - <a name="todo"></a> Learngene: From Open-World to Your Learning Task (**AAAI2022**) [[paper](https://arxiv.org/pdf/2106.06788.pdf)]
 - <a name="todo"></a> Rethinking the Representational Continuity: Towards Unsupervised Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=9Hrka5PA7LW)]
 - <a name="todo"></a> Continual Learning with Filter Atom Swapping (**ICLR2022**) [[paper](https://openreview.net/pdf?id=metRpM4Zrcb)]
@@ -39,6 +40,7 @@
 
 ### 2021
 - <a name="todo"></a> Incremental Object Detection via Meta-Learning (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2003.08798)] [[code](https://github.com/JosephKJ/iOD)]
+- <a name="todo"></a> Memory efficient class-incremental learning for image classification (**TNNLS 2021**) [[paper](https://ieeexplore.ieee.org/abstract/document/9422177)] 
 - <a name="todo"></a> Class-Incremental Learning via Dual Augmentation (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/file/77ee3bc58ce560b86c2b59363281e914-Paper.pdf)]
 - <a name="todo"></a> SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (**NeurIPS2021**) [[paper](https://proceedings.neurips.cc/paper/2021/file/5a9542c773018268fc6271f7afeea969-Paper.pdf)]
 - <a name="todo"></a> RMM: Reinforced Memory Management for Class-Incremental Learning (**NeurIPS2021**) [[paper](https://proceedings.neurips.cc/paper/2021/hash/1cbcaa5abbb6b70f378a3a03d0c26386-Abstract.html)]
