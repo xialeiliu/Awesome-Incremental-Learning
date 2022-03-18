@@ -12,6 +12,8 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion (**CVPR2022**) [[paper](https://arxiv.org/abs/2111.11326)]
+- <a name="todo"></a> Representation Compensation Networks for Continual Semantic Segmentation (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.05402)]
 - <a name="todo"></a> Self-training for class-incremental semantic segmentation (**TNNLS2022**) [[paper](https://arxiv.org/abs/2012.03362)]
 - <a name="todo"></a> Learngene: From Open-World to Your Learning Task (**AAAI2022**) [[paper](https://arxiv.org/pdf/2106.06788.pdf)] [[code](https://github.com/BruceQFWang/learngene)]
 - <a name="todo"></a> MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning (**TPAMI2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9645290)]
