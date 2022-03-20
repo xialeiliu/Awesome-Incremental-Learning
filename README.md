@@ -39,6 +39,8 @@
 - <a name="todo"></a> LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5 (**ICLR2022**) [[paper](https://openreview.net/pdf?id=HCRVf71PMF)]
 - <a name="todo"></a> Effect of scale on catastrophic forgetting in neural networks (**ICLR2022**) [[paper]( https://openreview.net/pdf?id=GhVS8_yPeEa)]
 - <a name="todo"></a> Dataset Knowledge Transfer for Class-Incremental Learning without Memory (**WACV2022**) [[paper](https://arxiv.org/pdf/2110.08421.pdf)]
+- <a name="todo"></a> Knowledge Capture and Replay for Continual Learning (**WACV2022**) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.pdf)]
+- <a name="todo"></a> Online Continual Learning via Candidates Voting (**WACV2022**) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/He_Online_Continual_Learning_via_Candidates_Voting_WACV_2022_paper.pdf)]
 
 
 ### 2021
