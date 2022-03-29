@@ -12,6 +12,10 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> Meta-attention for ViT-backed Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.11684)] [[code](https://github.com/zju-vipa/MEAT-TIL)]
+- <a name="todo"></a> Learning to Prompt for Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2112.08654)] [[code](https://github.com/google-research/l2p)]
+- <a name="todo"></a> On Generalizing Beyond Domains in Cross-Domain Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.03970)]
+- <a name="todo"></a> Probing Representation Forgetting in Supervised and Unsupervised Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.13381)]
 - <a name="todo"></a> Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.00867)] [[code](https://github.com/DQiaole/ZITS_inpainting)]
 - <a name="todo"></a> Mimicking the Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2112.04731)] [[code](https://github.com/Yujun-Shi/CwD)]
 - <a name="todo"></a> Forward Compatible Few-Shot Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.06953)] [[code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
