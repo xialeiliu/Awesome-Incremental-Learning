@@ -12,8 +12,12 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.00867)] [[code](https://github.com/DQiaole/ZITS_inpainting)]
+- <a name="todo"></a> Mimicking the Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2112.04731)] [[code](https://github.com/Yujun-Shi/CwD)]
+- <a name="todo"></a> Forward Compatible Few-Shot Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.06953)] [[code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
+- <a name="todo"></a> Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.06359)]
 - <a name="todo"></a> DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion (**CVPR2022**) [[paper](https://arxiv.org/abs/2111.11326)]
-- <a name="todo"></a> Federated Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.11473)]
+- <a name="todo"></a> Federated Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.11473)] [[code](https://github.com/conditionWang/FCIL)]
 - <a name="todo"></a> Representation Compensation Networks for Continual Semantic Segmentation (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.05402)]
 - <a name="todo"></a> Self-training for class-incremental semantic segmentation (**TNNLS2022**) [[paper](https://arxiv.org/abs/2012.03362)]
 - <a name="todo"></a> Learngene: From Open-World to Your Learning Task (**AAAI2022**) [[paper](https://arxiv.org/pdf/2106.06788.pdf)] [[code](https://github.com/BruceQFWang/learngene)]
