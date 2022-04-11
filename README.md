@@ -12,6 +12,7 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> General Incremental Learning with Domain-aware Categorical Representations (**CVPR2022**) [[paper](https://arxiv.org/abs/2204.04078)]
 - <a name="todo"></a> Constrained Few-shot Class-incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.16588)]
 - <a name="todo"></a> Overcoming Catastrophic Forgetting in Incremental Object Detectionvia Elastic Response Distillation (**CVPR2022**) [[paper](https://arxiv.org/abs/2204.02136)]
 - <a name="todo"></a> Class-Incremental Learning with Strong Pre-trained Models (**CVPR2022**) [[paper](https://arxiv.org/abs/2204.03634)] 
