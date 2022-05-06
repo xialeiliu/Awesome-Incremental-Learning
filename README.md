@@ -30,6 +30,7 @@
 - <a name="todo"></a> Federated Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.11473)] [[code](https://github.com/conditionWang/FCIL)]
 - <a name="todo"></a> Representation Compensation Networks for Continual Semantic Segmentation (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.05402)]
 - <a name="todo"></a> Self-training for class-incremental semantic segmentation (**TNNLS2022**) [[paper](https://arxiv.org/abs/2012.03362)]
+- <a name="todo"></a>Continual Sequence Generation with Adaptive Compositional Modules (**ACL2022**) [[paper](https://arxiv.org/pdf/2203.10652.pdf)]
 - <a name="todo"></a> Learngene: From Open-World to Your Learning Task (**AAAI2022**) [[paper](https://arxiv.org/pdf/2106.06788.pdf)] [[code](https://github.com/BruceQFWang/learngene)]
 - <a name="todo"></a> MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning (**TPAMI2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9645290)]
 - <a name="todo"></a> Rethinking the Representational Continuity: Towards Unsupervised Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=9Hrka5PA7LW)]
