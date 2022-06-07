@@ -12,6 +12,9 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> Self-Supervised Models are Continual Learners (**CVPR2022**) [[paper](https://arxiv.org/abs/2112.04215)] [[code](https://github.com/DonkeyShot21/cassle)]
+- <a name="todo"></a> Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation (**TPAMI 2022**) [[paper](https://arxiv.org/abs/2203.14098)]
+- <a name="todo"></a> Continual Attentive Fusion for Incremental Learning in Semantic Segmentation (**TMM 2022**) [[paper](https://arxiv.org/abs/2202.00432)]
 - <a name="todo"></a> Learning to Imagine: Diversify Memory for Incremental Learning using Unlabeled Data (**CVPR2022**) [[paper](https://arxiv.org/abs/2204.08932)]
 - <a name="todo"></a> General Incremental Learning with Domain-aware Categorical Representations (**CVPR2022**) [[paper](https://arxiv.org/abs/2204.04078)]
 - <a name="todo"></a> Constrained Few-shot Class-incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.16588)]
