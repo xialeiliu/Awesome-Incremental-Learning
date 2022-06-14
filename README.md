@@ -12,6 +12,7 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> Effects of Auxiliary Knowledge on Continual Learning (**ICPR2022**) [[paper](https://arxiv.org/abs/2206.02577)]
 - <a name="todo"></a> Self-Supervised Models are Continual Learners (**CVPR2022**) [[paper](https://arxiv.org/abs/2112.04215)] [[code](https://github.com/DonkeyShot21/cassle)]
 - <a name="todo"></a> Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation (**TPAMI 2022**) [[paper](https://arxiv.org/abs/2203.14098)]
 - <a name="todo"></a> Continual Attentive Fusion for Incremental Learning in Semantic Segmentation (**TMM 2022**) [[paper](https://arxiv.org/abs/2202.00432)]
