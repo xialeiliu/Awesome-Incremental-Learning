@@ -12,6 +12,7 @@
 ## Papers
 
 ### 2022
+
 - <a name="todo"></a>GCR: Gradient Coreset Based Replay Buffer Selection for Continual Learning (**CVPR22**) [[paper](https://arxiv.org/abs/2111.11210)]
 - <a name="todo"></a>Learning Bayesian Sparse Networks With Full Experience Replay for Continual Learning (**CVPR22**) [[paper](https://arxiv.org/abs/2202.10203)]
 - <a name="todo"></a>Continual Learning With Lifelong Vision Transformer (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.pdf)]
@@ -49,6 +50,7 @@
 - <a name="todo"></a> Federated Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.11473)] [[code](https://github.com/conditionWang/FCIL)]
 - <a name="todo"></a> Representation Compensation Networks for Continual Semantic Segmentation (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.05402)]
 - <a name="todo"></a> Self-training for class-incremental semantic segmentation (**TNNLS2022**) [[paper](https://arxiv.org/abs/2012.03362)]
+- <a name="todo"></a> Effects of Auxiliary Knowledge on Continual Learning (**ICPR2022**) [[paper](https://arxiv.org/abs/2206.02577)]
 - <a name="todo"></a>Continual Sequence Generation with Adaptive Compositional Modules (**ACL2022**) [[paper](https://arxiv.org/pdf/2203.10652.pdf)]
 - <a name="todo"></a> Learngene: From Open-World to Your Learning Task (**AAAI2022**) [[paper](https://arxiv.org/pdf/2106.06788.pdf)] [[code](https://github.com/BruceQFWang/learngene)]
 - <a name="todo"></a> MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning (**TPAMI2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9645290)]
