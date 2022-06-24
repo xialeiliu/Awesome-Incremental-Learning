@@ -12,6 +12,22 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a>GCR: Gradient Coreset Based Replay Buffer Selection for Continual Learning(**CVPR22**) [[paper](https://arxiv.org/abs/2111.11210)]
+- <a name="todo"></a>Learning Bayesian Sparse Networks With Full Experience Replay for Continual Learning(**CVPR22**) [[paper](https://arxiv.org/abs/2202.10203)]
+- <a name="todo"></a>Continual Learning With Lifelong Vision Transformer(**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.pdf)]
+- <a name="todo"></a>Towards Better Plasticity-Stability Trade-Off in Incremental Learning: A Simple Linear Connector(**CVPR22**) [[paper](https://arxiv.org/abs/2110.07905)]
+- <a name="todo"></a>Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches(**CVPR22**) [[paper](https://arxiv.org/abs/2203.14843)]
+- <a name="todo"></a>Continual Learning for Visual Search with Backward Consistent Feature Embedding(**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wan_Continual_Learning_for_Visual_Search_With_Backward_Consistent_Feature_Embedding_CVPR_2022_paper.pdf)]
+- <a name="todo"></a>Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries(**CVPR22**) [[paper](https://arxiv.org/abs/2203.15355)]
+- <a name="todo"></a>Not Just Selection, but Exploration: Online Class-Incremental Continual Learning via Dual View Consistency(**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Not_Just_Selection_but_Exploration_Online_Class-Incremental_Continual_Learning_via_CVPR_2022_paper.pdf)]
+- <a name="todo"></a>Bring Evanescent Representations to Life in Lifelong Class Incremental Learning(**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Toldo_Bring_Evanescent_Representations_to_Life_in_Lifelong_Class_Incremental_Learning_CVPR_2022_paper.pdf)]
+- <a name="todo"></a>Lifelong Graph Learning(**CVPR22**) [[paper](https://arxiv.org/abs/2009.00647)]
+- <a name="todo"></a>Lifelong Unsupervised Domain Adaptive Person Re-identification with Coordinated Anti-forgetting and Adaptation(**CVPR22**) [[paper](https://arxiv.org/abs/2112.06632)]
+- <a name="todo"></a>vCLIMB: A Novel Video Class Incremental Learning Benchmark(**CVPR22**) [[paper](https://arxiv.org/abs/2201.09381)]
+- <a name="todo"></a>Class-Incremental Learning by Knowledge Distillation with Adaptive Feature Consolidation(**CVPR22**) [[paper](https://arxiv.org/abs/2204.00895)]
+- <a name="todo"></a>Few-Shot Incremental Learning for Label-to-Image Translation(**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Few-Shot_Incremental_Learning_for_Label-to-Image_Translation_CVPR_2022_paper.pdf)]
+- <a name="todo"></a> MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf)]
+- <a name="todo"></a> Incremental Learning in Semantic Segmentation from Image Labels (**CVPR22**) [[paper](https://arxiv.org/abs/2112.01882)]
 - <a name="todo"></a> Self-Supervised Models are Continual Learners (**CVPR2022**) [[paper](https://arxiv.org/abs/2112.04215)] [[code](https://github.com/DonkeyShot21/cassle)]
 - <a name="todo"></a> Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation (**TPAMI 2022**) [[paper](https://arxiv.org/abs/2203.14098)]
 - <a name="todo"></a> Continual Attentive Fusion for Incremental Learning in Semantic Segmentation (**TMM 2022**) [[paper](https://arxiv.org/abs/2202.00432)]
