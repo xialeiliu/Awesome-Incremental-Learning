@@ -12,7 +12,10 @@
 ## Papers
 
 ### 2022
-
+- <a name="todo"></a>Few-Shot Class Incremental Learning From an Open-Set Perspective(**ECCV2022**)[[paper](https://arxiv.org/pdf/2208.00147.pdf)]
+- <a name="todo"></a>Incremental Task Learning with Incremental Rank Updates(**ECCV2022**)[[paper](https://arxiv.org/pdf/2207.09074.pdf)]
+- <a name="todo"></a>Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay(**ECCV2022**)[[paper](https://arxiv.org/pdf/2207.11213.pdf)]
+- <a name="todo"></a>Online Continual Learning with Contrastive Vision Transformer (**ECCV2022**)[[paper](https://arxiv.org/pdf/2207.13516.pdf)]
 - <a name="todo"></a>Transfer without Forgetting (**ECCV2022**) [[paper](https://arxiv.org/abs/2206.00388)][[code](https://github.com/mbosc/twf)]
 - <a name="todo"></a>GCR: Gradient Coreset Based Replay Buffer Selection for Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2111.11210)]
 - <a name="todo"></a>Learning Bayesian Sparse Networks With Full Experience Replay for Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2202.10203)]
