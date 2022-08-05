@@ -12,6 +12,7 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a>Novel Class Discovery without Forgetting (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.10595)]
 - <a name="todo"></a>Few-Shot Class Incremental Learning From an Open-Set Perspective(**ECCV2022**)[[paper](https://arxiv.org/pdf/2208.00147.pdf)]
 - <a name="todo"></a>Incremental Task Learning with Incremental Rank Updates(**ECCV2022**)[[paper](https://arxiv.org/pdf/2207.09074.pdf)]
 - <a name="todo"></a>Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay(**ECCV2022**)[[paper](https://arxiv.org/pdf/2207.11213.pdf)]
