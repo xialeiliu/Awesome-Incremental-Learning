@@ -13,6 +13,7 @@
 
 ### 2022
 
+- <a name="todo"></a>Transfer without Forgetting (**ECCV2022**) [[paper](https://arxiv.org/abs/2206.00388)][[code](https://github.com/mbosc/twf)]
 - <a name="todo"></a>GCR: Gradient Coreset Based Replay Buffer Selection for Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2111.11210)]
 - <a name="todo"></a>Learning Bayesian Sparse Networks With Full Experience Replay for Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2202.10203)]
 - <a name="todo"></a>Continual Learning With Lifelong Vision Transformer (**CVPR2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.pdf)]
