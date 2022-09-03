@@ -9,6 +9,7 @@
 - <a name="todo"></a> Continual Lifelong Learning with Neural Networks: A Review
  (**Neural Networks**) [[paper](https://arxiv.org/abs/1802.07569)]
 - <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
+- <a name="todo"></a> Recent Advances of Continual Learning in Computer Vision: An Overview (**arXiv 2021**)  [[paper](https://arxiv.org/abs/2109.11369)]
 ## Papers
 
 ### 2022
