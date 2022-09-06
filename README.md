@@ -16,6 +16,7 @@
 - <a name="todo"></a>Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks (**TPAMI2022**) [[paper](https://arxiv.org/abs/2203.17030)] [[code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
 - <a name="todo"></a>Feature Boosting and Compression for Class-Incremental Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04662)] [[code](https://github.com/G-U-N/ECCV22-FOSTER)]
 - <a name="todo"></a>Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer (**ECCV2022**) [[paper](https://arxiv.org/abs/2208.03767)] [[code](https://github.com/ashok-arjun/CSCCT)]
+- <a name="todo"></a>Anti-Retroactive Interference for Lifelong Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2208.12967)]
 - <a name="todo"></a>Novel Class Discovery without Forgetting (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.10659)]
 - <a name="todo"></a>Class-incremental Novel Class Discovery (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.08605)]
 - <a name="todo"></a>Few-Shot Class Incremental Learning From an Open-Set Perspective(**ECCV2022**)[[paper](https://arxiv.org/pdf/2208.00147.pdf)]
