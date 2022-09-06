@@ -1,5 +1,6 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
+- <a name="todo"></a> Continual Learning for Real-World Autonomous Systems: Algorithms, Challenges and Frameworks (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2105.12374)]
 - <a name="todo"></a> Recent Advances of Continual Learning in Computer Vision: An Overview (**arXiv 2021**)  [[paper](https://arxiv.org/abs/2109.11369)]
 - <a name="todo"></a> Replay in Deep Learning: Current Approaches and Missing Biological Elements (**Neural Computation 2021**) [[paper](https://arxiv.org/abs/2104.04132)]
 - <a name="todo"></a> Online Continual Learning in Image Classification: An Empirical Survey (**Neurocomputing 2021**) [[paper](https://arxiv.org/abs/2101.10423)] [[code](https://github.com/RaptorMai/online-continual-learning)]
