@@ -5,7 +5,7 @@
 - <a name="todo"></a> Replay in Deep Learning: Current Approaches and Missing Biological Elements (**Neural Computation 2021**) [[paper](https://arxiv.org/abs/2104.04132)]
 - <a name="todo"></a> Online Continual Learning in Image Classification: An Empirical Survey (**Neurocomputing 2021**) [[paper](https://arxiv.org/abs/2101.10423)] [[code](https://github.com/RaptorMai/online-continual-learning)]
 - <a name="todo"></a> Continual Lifelong Learning in Natural Language Processing: A Survey (**COLING 2020**) [[paper](https://www.aclweb.org/anthology/2020.coling-main.574/)]
-- <a name="todo"></a> Class-incremental learning: survey and performance evaluation (**arXiv 2020**) [[paper](https://arxiv.org/abs/2010.15277)] [[code](https://github.com/mmasana/FACIL)]
+- <a name="todo"></a> Class-incremental learning: survey and performance evaluation (**TPAMI 2022**) [[paper](https://arxiv.org/abs/2010.15277)] [[code](https://github.com/mmasana/FACIL)]
 - <a name="todo"></a> A Comprehensive Study of Class Incremental Learning Algorithms for Visual Tasks (**Neural Networks**) [[paper](https://arxiv.org/abs/2011.01844)] [[code](https://github.com/EdenBelouadah/class-incremental-learning/tree/master/cil)]
 - <a name="todo"></a> A continual learning survey: Defying forgetting in classification tasks (**TPAMI 2021**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9349197) [[arxiv](https://arxiv.org/pdf/1909.08383.pdf)]
 - <a name="todo"></a> Continual Lifelong Learning with Neural Networks: A Review
