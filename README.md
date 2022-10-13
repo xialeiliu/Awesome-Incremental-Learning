@@ -14,6 +14,7 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a>On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.06443)] [[code](https://github.com/aimagelab/LiDER)]
 - <a name="todo"></a>Class-Incremental Continual Learning into the eXtended DER-verse (**TPAMI2022**) [[paper](https://arxiv.org/abs/2201.00766)] [[code](https://github.com/aimagelab/mammoth)]
 - <a name="todo"></a>Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks (**TPAMI2022**) [[paper](https://arxiv.org/abs/2203.17030)] [[code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
 - <a name="todo"></a>Feature Boosting and Compression for Class-Incremental Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04662)] [[code](https://github.com/G-U-N/ECCV22-FOSTER)]
