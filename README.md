@@ -14,14 +14,6 @@
 ## Papers
 
 ### 2022
-
-- <a name="todo"></a> The Challenges of Continuous Self-Supervised Learning (**ECCV2022**)[[paper](https://arxiv.org/abs/2203.12710)] 
-- <a name="todo"></a> Helpful or Harmful: Inter-Task Association in Continual Learning (**ECCV2022**)
-- <a name="todo"></a> incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection (**ECCV2022**)
-- <a name="todo"></a> S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning (**ECCV2022**)
-- <a name="todo"></a> Online Task-free Continual Learning with Dynamic Sparse Distributed Memory (**ECCV2022**)
-
-- <a name="todo"></a> Balancing between Forgetting and Acquisition in Incremental Subpopulation Learning (**ECCV2022**)
 - <a name="todo"></a> On Solving Class Incremental Learning in Continual Learning (**NeurIPS2022**)
 - <a name="todo"></a> Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer (**NeurIPS2022**)
 - <a name="todo"></a> Memory Efficient Continual Learning with Transformers (**NeurIPS2022**)
@@ -42,6 +34,14 @@
 - <a name="todo"></a> On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting (**NeurIPS2022**)[[paper](https://arxiv.org/abs/2206.00761)] 
 - <a name="todo"></a> CGLB: Benchmark Tasks for Continual Graph Learning (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=5wNiiIDynDF)] [[code](https://github.com/QueuQ/CGLB)]
 - <a name="todo"></a> How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning? (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=c0l2YolqD2T)] 
+- <a name="todo"></a>On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.06443)] [[code](https://github.com/aimagelab/LiDER)]
+
+- <a name="todo"></a> The Challenges of Continuous Self-Supervised Learning (**ECCV2022**)[[paper](https://arxiv.org/abs/2203.12710)] 
+- <a name="todo"></a> Helpful or Harmful: Inter-Task Association in Continual Learning (**ECCV2022**)
+- <a name="todo"></a> incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection (**ECCV2022**)
+- <a name="todo"></a> S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning (**ECCV2022**)
+- <a name="todo"></a> Online Task-free Continual Learning with Dynamic Sparse Distributed Memory (**ECCV2022**)
+- <a name="todo"></a> Balancing between Forgetting and Acquisition in Incremental Subpopulation Learning (**ECCV2022**)
 - <a name="todo"></a> Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer (**ECCV2022**) [[paper](https://arxiv.org/abs/2208.03767)] [[code](https://github.com/ashok-arjun/CSCCT)]
 - <a name="todo"></a> FOSTER: Feature Boosting and Compression for Class-Incremental Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04662)] [[code](https://github.com/G-U-N/ECCV22-FOSTER)]
 - <a name="todo"></a> Meta-Learning with Less Forgetting on Large-Scale Non-Stationary Task Distributions (**ECCV2022**) [[paper](https://arxiv.org/abs/2209.01501)] 
@@ -50,13 +50,9 @@
 - <a name="todo"></a> Learning with Recoverable Forgetting (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.08224)] 
 - <a name="todo"></a> Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.10856)] [[code](https://github.com/hongbin98/proca)]
 - <a name="todo"></a> Balancing Stability and Plasticity through Advanced Null Space in Continual Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.12061)] 
-- <a name="todo"></a> Continual Training of Language Models for Few-Shot Learning (**EMNLP2022**) [[paper](https://arxiv.org/abs/2210.05549)] [[code](https://github.com/UIC-Liu-Lab/CPT)]
-- <a name="todo"></a>On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.06443)] [[code](https://github.com/aimagelab/LiDER)]
-- <a name="todo"></a>Class-Incremental Continual Learning into the eXtended DER-verse (**TPAMI2022**) [[paper](https://arxiv.org/abs/2201.00766)] [[code](https://github.com/aimagelab/mammoth)]
-- <a name="todo"></a>Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks (**TPAMI2022**) [[paper](https://arxiv.org/abs/2203.17030)] [[code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
+
 - <a name="todo"></a>Long-Tailed Class Incremental Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2210.00266)]
 - <a name="todo"></a>Feature Boosting and Compression for Class-Incremental Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04662)] [[code](https://github.com/G-U-N/ECCV22-FOSTER)]
-- <a name="todo"></a>Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer (**ECCV2022**) [[paper](https://arxiv.org/abs/2208.03767)] [[code](https://github.com/ashok-arjun/CSCCT)]
 - <a name="todo"></a>Anti-Retroactive Interference for Lifelong Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2208.12967)]
 - <a name="todo"></a>Novel Class Discovery without Forgetting (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.10659)]
 - <a name="todo"></a>Class-incremental Novel Class Discovery (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.08605)]
@@ -65,7 +61,14 @@
 - <a name="todo"></a>Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay(**ECCV2022**)[[paper](https://arxiv.org/pdf/2207.11213.pdf)]
 - <a name="todo"></a>Online Continual Learning with Contrastive Vision Transformer (**ECCV2022**)[[paper](https://arxiv.org/pdf/2207.13516.pdf)]
 - <a name="todo"></a>Transfer without Forgetting (**ECCV2022**) [[paper](https://arxiv.org/abs/2206.00388)][[code](https://github.com/mbosc/twf)]
-- <a name="todo"></a>Continual Semi-Supervised Learning through Contrastive Interpolation Consistency (**PRL 2022**) [[paper](https://arxiv.org/abs/2108.06552)][[code](https://github.com/aimagelab/CSSL)]
+
+
+- <a name="todo"></a> Continual Training of Language Models for Few-Shot Learning (**EMNLP2022**) [[paper](https://arxiv.org/abs/2210.05549)] [[code](https://github.com/UIC-Liu-Lab/CPT)]
+- <a name="todo"></a> Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation (**TPAMI2022**) [[paper](https://arxiv.org/abs/2203.14098)]
+- <a name="todo"></a> MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning (**TPAMI2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9645290)]
+- <a name="todo"></a>Class-Incremental Continual Learning into the eXtended DER-verse (**TPAMI2022**) [[paper](https://arxiv.org/abs/2201.00766)] [[code](https://github.com/aimagelab/mammoth)]
+- <a name="todo"></a>Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks (**TPAMI2022**) [[paper](https://arxiv.org/abs/2203.17030)] [[code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
+- <a name="todo"></a>Continual Semi-Supervised Learning through Contrastive Interpolation Consistency (**PRL2022**) [[paper](https://arxiv.org/abs/2108.06552)][[code](https://github.com/aimagelab/CSSL)]
 - <a name="todo"></a>GCR: Gradient Coreset Based Replay Buffer Selection for Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2111.11210)]
 - <a name="todo"></a>Learning Bayesian Sparse Networks With Full Experience Replay for Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2202.10203)]
 - <a name="todo"></a>Continual Learning With Lifelong Vision Transformer (**CVPR2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.pdf)]
@@ -83,8 +86,6 @@
 - <a name="todo"></a> MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning (**CVPR2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf)]
 - <a name="todo"></a> Incremental Learning in Semantic Segmentation from Image Labels (**CVPR2022**) [[paper](https://arxiv.org/abs/2112.01882)]
 - <a name="todo"></a> Self-Supervised Models are Continual Learners (**CVPR2022**) [[paper](https://arxiv.org/abs/2112.04215)] [[code](https://github.com/DonkeyShot21/cassle)]
-- <a name="todo"></a> Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation (**TPAMI 2022**) [[paper](https://arxiv.org/abs/2203.14098)]
-- <a name="todo"></a> Continual Attentive Fusion for Incremental Learning in Semantic Segmentation (**TMM 2022**) [[paper](https://arxiv.org/abs/2202.00432)]
 - <a name="todo"></a> Learning to Imagine: Diversify Memory for Incremental Learning using Unlabeled Data (**CVPR2022**) [[paper](https://arxiv.org/abs/2204.08932)]
 - <a name="todo"></a> General Incremental Learning with Domain-aware Categorical Representations (**CVPR2022**) [[paper](https://arxiv.org/abs/2204.04078)]
 - <a name="todo"></a> Constrained Few-shot Class-incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.16588)]
@@ -102,11 +103,12 @@
 - <a name="todo"></a> DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion (**CVPR2022**) [[paper](https://arxiv.org/abs/2111.11326)]
 - <a name="todo"></a> Federated Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.11473)] [[code](https://github.com/conditionWang/FCIL)]
 - <a name="todo"></a> Representation Compensation Networks for Continual Semantic Segmentation (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.05402)]
+- <a name="todo"></a> Continual Attentive Fusion for Incremental Learning in Semantic Segmentation (**TMM2022**) [[paper](https://arxiv.org/abs/2202.00432)]
 - <a name="todo"></a> Self-training for class-incremental semantic segmentation (**TNNLS2022**) [[paper](https://arxiv.org/abs/2012.03362)]
 - <a name="todo"></a> Effects of Auxiliary Knowledge on Continual Learning (**ICPR2022**) [[paper](https://arxiv.org/abs/2206.02577)]
 - <a name="todo"></a>Continual Sequence Generation with Adaptive Compositional Modules (**ACL2022**) [[paper](https://arxiv.org/pdf/2203.10652.pdf)]
 - <a name="todo"></a> Learngene: From Open-World to Your Learning Task (**AAAI2022**) [[paper](https://arxiv.org/pdf/2106.06788.pdf)] [[code](https://github.com/BruceQFWang/learngene)]
-- <a name="todo"></a> MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning (**TPAMI2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9645290)]
+
 - <a name="todo"></a> Rethinking the Representational Continuity: Towards Unsupervised Continual Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=9Hrka5PA7LW)]
 - <a name="todo"></a> Continual Learning with Filter Atom Swapping (**ICLR2022**) [[paper](https://openreview.net/pdf?id=metRpM4Zrcb)]
 - <a name="todo"></a> Continual Learning with Recursive Gradient Optimization (**ICLR2022**) [[paper](https://openreview.net/pdf?id=7YDLgf9_zgm)]
