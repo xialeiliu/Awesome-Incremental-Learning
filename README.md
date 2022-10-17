@@ -14,6 +14,42 @@
 ## Papers
 
 ### 2022
+
+- <a name="todo"></a> The Challenges of Continuous Self-Supervised Learning (**ECCV2022**)[[paper](https://arxiv.org/abs/2203.12710)] 
+- <a name="todo"></a> Helpful or Harmful: Inter-Task Association in Continual Learning (**ECCV2022**)
+- <a name="todo"></a> incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection (**ECCV2022**)
+- <a name="todo"></a> S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning (**ECCV2022**)
+- <a name="todo"></a> Online Task-free Continual Learning with Dynamic Sparse Distributed Memory (**ECCV2022**)
+
+- <a name="todo"></a> Balancing between Forgetting and Acquisition in Incremental Subpopulation Learning (**ECCV2022**)
+- <a name="todo"></a> On Solving Class Incremental Learning in Continual Learning (**NeurIPS2022**)
+- <a name="todo"></a> Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer (**NeurIPS2022**)
+- <a name="todo"></a> Memory Efficient Continual Learning with Transformers (**NeurIPS2022**)
+- <a name="todo"></a> Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.04524)] [[code](https://github.com/zoilsen/clom)]
+- <a name="todo"></a> Disentangling Transfer in Continual Reinforcement Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2209.13900)]
+- <a name="todo"></a> Task-Free Continual Learning via Online Discrepancy Distance Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.06579)]
+- <a name="todo"></a> A simple but strong baseline for online continual learning: Repeated Augmented Rehearsal (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2209.13917)]
+- <a name="todo"></a> S-Prompts Learning with Pre-trained Transformers: An Occam’s Razor for Domain Incremental Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2207.12819)]
+- <a name="todo"></a> Lifelong Neural Predictive Coding: Learning Cumulatively Online without Forgetting (**NeurIPS2022**) [[paper](https://arxiv.org/abs/1905.10696)]
+- <a name="todo"></a> Few-Shot Continual Active Learning by a Robot (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.04137)]
+- <a name="todo"></a> Continual learning: a feature extraction formalization, an efficient algorithm, and fundamental obstructions(**NeurIPS2022**) [[paper](https://arxiv.org/abs/2203.14383)]
+- <a name="todo"></a> SparCL: Sparse Continual Learning on the Edge(**NeurIPS2022**) [[paper](https://arxiv.org/abs/2209.09476)]
+- <a name="todo"></a> CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks (**NeurIPS2022**) [[paper](https://openreview.net/forum?id=FhqzyGoTSH)] [[code](https://github.com/GLAMOR-USC/CLiMB)]
+- <a name="todo"></a> Continual Learning In Environments With Polynomial Mixing Times (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2112.07066)] [[code](https://github.com/sharathraparthy/polynomial-mixing-times)]
+- <a name="todo"></a> Exploring Example Influence in Continual Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2209.12241)] [[code](https://github.com/sssunqing/example_influence_cl)]
+- <a name="todo"></a> ALIFE: Adaptive Logit Regularizer and Feature Replay for Incremental Semantic Segmentation (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.06816)]
+- <a name="todo"></a> On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.06443)] [[code](https://github.com/aimagelab/lider)]
+- <a name="todo"></a> On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting (**NeurIPS2022**)[[paper](https://arxiv.org/abs/2206.00761)] 
+- <a name="todo"></a> CGLB: Benchmark Tasks for Continual Graph Learning (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=5wNiiIDynDF)] [[code](https://github.com/QueuQ/CGLB)]
+- <a name="todo"></a> How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning? (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=c0l2YolqD2T)] 
+- <a name="todo"></a> Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer (**ECCV2022**) [[paper](https://arxiv.org/abs/2208.03767)] [[code](https://github.com/ashok-arjun/CSCCT)]
+- <a name="todo"></a> FOSTER: Feature Boosting and Compression for Class-Incremental Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04662)] [[code](https://github.com/G-U-N/ECCV22-FOSTER)]
+- <a name="todo"></a> Meta-Learning with Less Forgetting on Large-Scale Non-Stationary Task Distributions (**ECCV2022**) [[paper](https://arxiv.org/abs/2209.01501)] 
+- <a name="todo"></a> R-DFCIL: Relation-Guided Representation Learning for Data-Free Class Incremental Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2203.13104)] [[code](https://github.com/jianzhangcs/r-dfcil)]
+- <a name="todo"></a> DLCFT: Deep Linear Continual Fine-Tuning for General Incremental Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2208.08112)] 
+- <a name="todo"></a> Learning with Recoverable Forgetting (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.08224)] 
+- <a name="todo"></a> Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.10856)] [[code](https://github.com/hongbin98/proca)]
+- <a name="todo"></a> Balancing Stability and Plasticity through Advanced Null Space in Continual Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.12061)] 
 - <a name="todo"></a> Continual Training of Language Models for Few-Shot Learning (**EMNLP2022**) [[paper](https://arxiv.org/abs/2210.05549)] [[code](https://github.com/UIC-Liu-Lab/CPT)]
 - <a name="todo"></a>On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.06443)] [[code](https://github.com/aimagelab/LiDER)]
 - <a name="todo"></a>Class-Incremental Continual Learning into the eXtended DER-verse (**TPAMI2022**) [[paper](https://arxiv.org/abs/2201.00766)] [[code](https://github.com/aimagelab/mammoth)]
