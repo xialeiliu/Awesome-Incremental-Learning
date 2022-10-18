@@ -34,7 +34,6 @@
 - <a name="todo"></a> On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting (**NeurIPS2022**)[[paper](https://arxiv.org/abs/2206.00761)] 
 - <a name="todo"></a> CGLB: Benchmark Tasks for Continual Graph Learning (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=5wNiiIDynDF)] [[code](https://github.com/QueuQ/CGLB)]
 - <a name="todo"></a> How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning? (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=c0l2YolqD2T)] 
-- <a name="todo"></a>On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.06443)] [[code](https://github.com/aimagelab/LiDER)]
 
 - <a name="todo"></a> The Challenges of Continuous Self-Supervised Learning (**ECCV2022**)[[paper](https://arxiv.org/abs/2203.12710)] 
 - <a name="todo"></a> Helpful or Harmful: Inter-Task Association in Continual Learning (**ECCV2022**)
@@ -50,9 +49,7 @@
 - <a name="todo"></a> Learning with Recoverable Forgetting (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.08224)] 
 - <a name="todo"></a> Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.10856)] [[code](https://github.com/hongbin98/proca)]
 - <a name="todo"></a> Balancing Stability and Plasticity through Advanced Null Space in Continual Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.12061)] 
-
 - <a name="todo"></a>Long-Tailed Class Incremental Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2210.00266)]
-- <a name="todo"></a>Feature Boosting and Compression for Class-Incremental Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04662)] [[code](https://github.com/G-U-N/ECCV22-FOSTER)]
 - <a name="todo"></a>Anti-Retroactive Interference for Lifelong Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2208.12967)]
 - <a name="todo"></a>Novel Class Discovery without Forgetting (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.10659)]
 - <a name="todo"></a>Class-incremental Novel Class Discovery (**ECCV2022**) [[paper](https://arxiv.org/abs/2207.08605)]
@@ -61,7 +58,6 @@
 - <a name="todo"></a>Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay(**ECCV2022**)[[paper](https://arxiv.org/pdf/2207.11213.pdf)]
 - <a name="todo"></a>Online Continual Learning with Contrastive Vision Transformer (**ECCV2022**)[[paper](https://arxiv.org/pdf/2207.13516.pdf)]
 - <a name="todo"></a>Transfer without Forgetting (**ECCV2022**) [[paper](https://arxiv.org/abs/2206.00388)][[code](https://github.com/mbosc/twf)]
-
 
 - <a name="todo"></a> Continual Training of Language Models for Few-Shot Learning (**EMNLP2022**) [[paper](https://arxiv.org/abs/2210.05549)] [[code](https://github.com/UIC-Liu-Lab/CPT)]
 - <a name="todo"></a> Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation (**TPAMI2022**) [[paper](https://arxiv.org/abs/2203.14098)]
