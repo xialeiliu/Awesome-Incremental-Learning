@@ -35,6 +35,7 @@
 - <a name="todo"></a> CGLB: Benchmark Tasks for Continual Graph Learning (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=5wNiiIDynDF)] [[code](https://github.com/QueuQ/CGLB)]
 - <a name="todo"></a> How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning? (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=c0l2YolqD2T)] 
 
+- <a name="todo"></a> DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04799)] [[code](https://github.com/google-research/l2p)]
 - <a name="todo"></a> The Challenges of Continuous Self-Supervised Learning (**ECCV2022**)[[paper](https://arxiv.org/abs/2203.12710)] 
 - <a name="todo"></a> Helpful or Harmful: Inter-Task Association in Continual Learning (**ECCV2022**)
 - <a name="todo"></a> incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection (**ECCV2022**)
