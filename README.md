@@ -36,11 +36,11 @@
 - <a name="todo"></a> How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning? (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=c0l2YolqD2T)] 
 
 - <a name="todo"></a> The Challenges of Continuous Self-Supervised Learning (**ECCV2022**)[[paper](https://arxiv.org/abs/2203.12710)] 
-- <a name="todo"></a> Helpful or Harmful: Inter-Task Association in Continual Learning (**ECCV2022**)
-- <a name="todo"></a> incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection (**ECCV2022**)
-- <a name="todo"></a> S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning (**ECCV2022**)
-- <a name="todo"></a> Online Task-free Continual Learning with Dynamic Sparse Distributed Memory (**ECCV2022**)
-- <a name="todo"></a> Balancing between Forgetting and Acquisition in Incremental Subpopulation Learning (**ECCV2022**)
+- <a name="todo"></a> Helpful or Harmful: Inter-Task Association in Continual Learning (**ECCV2022**)[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf)]
+- <a name="todo"></a> incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection (**ECCV2022**)[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850581.pdf)]
+- <a name="todo"></a> S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning (**ECCV2022**)[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850427.pdf)]
+- <a name="todo"></a> Online Task-free Continual Learning with Dynamic Sparse Distributed Memory (**ECCV2022**)[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850721.pdf)][[code](https://github.com/Julien-pour/Dynamic-Sparse-Distributed-Memory)]
+- <a name="todo"></a> Balancing between Forgetting and Acquisition in Incremental Subpopulation Learning (**ECCV2022**)[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860354.pdf)]
 - <a name="todo"></a> Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer (**ECCV2022**) [[paper](https://arxiv.org/abs/2208.03767)] [[code](https://github.com/ashok-arjun/CSCCT)]
 - <a name="todo"></a> FOSTER: Feature Boosting and Compression for Class-Incremental Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04662)] [[code](https://github.com/G-U-N/ECCV22-FOSTER)]
 - <a name="todo"></a> Meta-Learning with Less Forgetting on Large-Scale Non-Stationary Task Distributions (**ECCV2022**) [[paper](https://arxiv.org/abs/2209.01501)] 
