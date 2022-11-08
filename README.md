@@ -35,6 +35,7 @@
 - <a name="todo"></a> CGLB: Benchmark Tasks for Continual Graph Learning (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=5wNiiIDynDF)] [[code](https://github.com/QueuQ/CGLB)]
 - <a name="todo"></a> How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning? (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=c0l2YolqD2T)] 
 
+- <a name="todo"></a> CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One (**ECCV2022**)[[paper](https://arxiv.org/abs/2207.06543)] [[code](https://github.com/lywang3081/CoSCL)]
 - <a name="todo"></a> DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04799)] [[code](https://github.com/google-research/l2p)]
 - <a name="todo"></a> The Challenges of Continuous Self-Supervised Learning (**ECCV2022**)[[paper](https://arxiv.org/abs/2203.12710)] 
 - <a name="todo"></a> Helpful or Harmful: Inter-Task Association in Continual Learning (**ECCV2022**)[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf)]
@@ -134,6 +135,7 @@
 
 ### 2021
 - <a name="todo"></a> Incremental Object Detection via Meta-Learning (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2003.08798)] [[code](https://github.com/JosephKJ/iOD)]
+- <a name="todo"></a> Triple-Memory Networks: A Brain-Inspired Method for Continual Learning (**TNNLS 2021**) [[paper](https://ieeexplore.ieee.org/document/9540230)] 
 - <a name="todo"></a> Memory efficient class-incremental learning for image classification (**TNNLS 2021**) [[paper](https://ieeexplore.ieee.org/abstract/document/9422177)] 
 - <a name="todo"></a> Class-Incremental Learning via Dual Augmentation (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/file/77ee3bc58ce560b86c2b59363281e914-Paper.pdf)]
 - <a name="todo"></a> SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (**NeurIPS2021**) [[paper](https://proceedings.neurips.cc/paper/2021/file/5a9542c773018268fc6271f7afeea969-Paper.pdf)]
