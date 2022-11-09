@@ -36,6 +36,7 @@
 - <a name="todo"></a> How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning? (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=c0l2YolqD2T)] 
 
 - <a name="todo"></a> CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One (**ECCV2022**)[[paper](https://arxiv.org/abs/2207.06543)] [[code](https://github.com/lywang3081/CoSCL)]
+- <a name="todo"></a>Generative Negative Text Replay for Continual Vision-Language Pretraining (**ECCV2022**) [[paper](https://arxiv.org/abs/2210.17322)]
 - <a name="todo"></a> DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04799)] [[code](https://github.com/google-research/l2p)]
 - <a name="todo"></a> The Challenges of Continuous Self-Supervised Learning (**ECCV2022**)[[paper](https://arxiv.org/abs/2203.12710)] 
 - <a name="todo"></a> Helpful or Harmful: Inter-Task Association in Continual Learning (**ECCV2022**)[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf)]
