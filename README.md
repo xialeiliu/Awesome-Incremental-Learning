@@ -14,6 +14,11 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> Online Continual Learning through Mutual Information Maximization (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/guo22g/guo22g.pdf)] 
+- <a name="todo"></a> Improving Task-free Continual Learning by Distributionally Robust Memory Evolution (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf)] 
+- <a name="todo"></a> Forget-free Continual Learning with Winning Subnetworks (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf)] 
+- <a name="todo"></a> NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/gurbuz22a/gurbuz22a.pdf)]
+- <a name="todo"></a> Continual Learning via Sequential Function-Space Variational Inference (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/rudner22a/rudner22a.pdf)]
 - <a name="todo"></a> On Solving Class Incremental Learning in Continual Learning (**NeurIPS2022**)
 - <a name="todo"></a> Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer (**NeurIPS2022**)
 - <a name="todo"></a> Memory Efficient Continual Learning with Transformers (**NeurIPS2022**)
@@ -34,7 +39,6 @@
 - <a name="todo"></a> On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting (**NeurIPS2022**)[[paper](https://arxiv.org/abs/2206.00761)] 
 - <a name="todo"></a> CGLB: Benchmark Tasks for Continual Graph Learning (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=5wNiiIDynDF)] [[code](https://github.com/QueuQ/CGLB)]
 - <a name="todo"></a> How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning? (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=c0l2YolqD2T)] 
-
 - <a name="todo"></a> CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One (**ECCV2022**)[[paper](https://arxiv.org/abs/2207.06543)] [[code](https://github.com/lywang3081/CoSCL)]
 - <a name="todo"></a>Generative Negative Text Replay for Continual Vision-Language Pretraining (**ECCV2022**) [[paper](https://arxiv.org/abs/2210.17322)]
 - <a name="todo"></a> DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04799)] [[code](https://github.com/google-research/l2p)]
