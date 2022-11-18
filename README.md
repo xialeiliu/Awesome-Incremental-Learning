@@ -14,7 +14,7 @@
 ## Papers
 
 ### 2022
-- <a name="todo"></a> On Solving Class Incremental Learning in Continual Learning (**NeurIPS2022**)
+- <a name="todo"></a> A Theoretical Study on Solving Continual Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2211.02633)] [[code](https://github.com/k-gyuhak/WPTP)]
 - <a name="todo"></a> Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer (**NeurIPS2022**)
 - <a name="todo"></a> Memory Efficient Continual Learning with Transformers (**NeurIPS2022**)
 - <a name="todo"></a> Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.04524)] [[code](https://github.com/zoilsen/clom)]
@@ -68,6 +68,7 @@
 - <a name="todo"></a>Class-Incremental Continual Learning into the eXtended DER-verse (**TPAMI2022**) [[paper](https://arxiv.org/abs/2201.00766)] [[code](https://github.com/aimagelab/mammoth)]
 - <a name="todo"></a>Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks (**TPAMI2022**) [[paper](https://arxiv.org/abs/2203.17030)] [[code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
 - <a name="todo"></a>Continual Semi-Supervised Learning through Contrastive Interpolation Consistency (**PRL2022**) [[paper](https://arxiv.org/abs/2108.06552)][[code](https://github.com/aimagelab/CSSL)]
+- <a name="todo"></a>Continual Learning Based on OOD Detection and Task Masking (**CVPRW2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Kim_Continual_Learning_Based_on_OOD_Detection_and_Task_Masking_CVPRW_2022_paper.html)][[code](https://github.com/k-gyuhak/CLOM)]
 - <a name="todo"></a>GCR: Gradient Coreset Based Replay Buffer Selection for Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2111.11210)]
 - <a name="todo"></a>Learning Bayesian Sparse Networks With Full Experience Replay for Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2202.10203)]
 - <a name="todo"></a>Continual Learning With Lifelong Vision Transformer (**CVPR2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.pdf)]
@@ -102,6 +103,7 @@
 - <a name="todo"></a> DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion (**CVPR2022**) [[paper](https://arxiv.org/abs/2111.11326)]
 - <a name="todo"></a> Federated Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.11473)] [[code](https://github.com/conditionWang/FCIL)]
 - <a name="todo"></a> Representation Compensation Networks for Continual Semantic Segmentation (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.05402)]
+- <a name="todo"></a> A Multi-Head Model for Continual Learning via Out-of-Distribution Replay (**CoLLAs2022**) [[paper](https://arxiv.org/abs/2208.09734)] [[code](https://github.com/k-gyuhak/MORE)]
 - <a name="todo"></a> Continual Attentive Fusion for Incremental Learning in Semantic Segmentation (**TMM2022**) [[paper](https://arxiv.org/abs/2202.00432)]
 - <a name="todo"></a> Self-training for class-incremental semantic segmentation (**TNNLS2022**) [[paper](https://arxiv.org/abs/2012.03362)]
 - <a name="todo"></a> Effects of Auxiliary Knowledge on Continual Learning (**ICPR2022**) [[paper](https://arxiv.org/abs/2206.02577)]
