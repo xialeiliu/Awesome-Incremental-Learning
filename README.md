@@ -14,6 +14,13 @@
 ## Papers
 
 ### 2022
+
+- <a name="todo"></a> Online Continual Learning through Mutual Information Maximization (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/guo22g/guo22g.pdf)] 
+- <a name="todo"></a> Improving Task-free Continual Learning by Distributionally Robust Memory Evolution (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf)] 
+- <a name="todo"></a> Forget-free Continual Learning with Winning Subnetworks (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf)] 
+- <a name="todo"></a> NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/gurbuz22a/gurbuz22a.pdf)]
+- <a name="todo"></a> Continual Learning via Sequential Function-Space Variational Inference (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/rudner22a/rudner22a.pdf)]
+- <a name="todo"></a> On Solving Class Incremental Learning in Continual Learning (**NeurIPS2022**)
 - <a name="todo"></a> A Theoretical Study on Solving Continual Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2211.02633)] [[code](https://github.com/k-gyuhak/WPTP)]
 - <a name="todo"></a> Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer (**NeurIPS2022**)
 - <a name="todo"></a> Memory Efficient Continual Learning with Transformers (**NeurIPS2022**)
@@ -34,7 +41,6 @@
 - <a name="todo"></a> On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting (**NeurIPS2022**)[[paper](https://arxiv.org/abs/2206.00761)] 
 - <a name="todo"></a> CGLB: Benchmark Tasks for Continual Graph Learning (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=5wNiiIDynDF)] [[code](https://github.com/QueuQ/CGLB)]
 - <a name="todo"></a> How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning? (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=c0l2YolqD2T)] 
-
 - <a name="todo"></a> CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One (**ECCV2022**)[[paper](https://arxiv.org/abs/2207.06543)] [[code](https://github.com/lywang3081/CoSCL)]
 - <a name="todo"></a>Generative Negative Text Replay for Continual Vision-Language Pretraining (**ECCV2022**) [[paper](https://arxiv.org/abs/2210.17322)]
 - <a name="todo"></a> DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04799)] [[code](https://github.com/google-research/l2p)]
@@ -68,7 +74,6 @@
 - <a name="todo"></a>Class-Incremental Continual Learning into the eXtended DER-verse (**TPAMI2022**) [[paper](https://arxiv.org/abs/2201.00766)] [[code](https://github.com/aimagelab/mammoth)]
 - <a name="todo"></a>Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks (**TPAMI2022**) [[paper](https://arxiv.org/abs/2203.17030)] [[code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
 - <a name="todo"></a>Continual Semi-Supervised Learning through Contrastive Interpolation Consistency (**PRL2022**) [[paper](https://arxiv.org/abs/2108.06552)][[code](https://github.com/aimagelab/CSSL)]
-- <a name="todo"></a>Continual Learning Based on OOD Detection and Task Masking (**CVPRW2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Kim_Continual_Learning_Based_on_OOD_Detection_and_Task_Masking_CVPRW_2022_paper.html)][[code](https://github.com/k-gyuhak/CLOM)]
 - <a name="todo"></a>GCR: Gradient Coreset Based Replay Buffer Selection for Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2111.11210)]
 - <a name="todo"></a>Learning Bayesian Sparse Networks With Full Experience Replay for Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2202.10203)]
 - <a name="todo"></a>Continual Learning With Lifelong Vision Transformer (**CVPR2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.pdf)]
