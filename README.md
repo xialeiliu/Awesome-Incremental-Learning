@@ -15,6 +15,8 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> FeTrIL: Feature Translation for Exemplar-Free Class-Incremental Learning (**WACV2023**)[[paper]( https://arxiv.org/abs/2211.13131)] 
+- <a name="todo"></a> Balanced softmax cross-entropy for incremental learning with and without memory (**CVIU**)[[paper](https://www.sciencedirect.com/science/article/pii/S1077314222001606)] 
 
 - <a name="todo"></a> Online Continual Learning through Mutual Information Maximization (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/guo22g/guo22g.pdf)] 
 - <a name="todo"></a> Improving Task-free Continual Learning by Distributionally Robust Memory Evolution (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf)] 
@@ -24,7 +26,7 @@
 - <a name="todo"></a> On Solving Class Incremental Learning in Continual Learning (**NeurIPS2022**)
 - <a name="todo"></a> A Theoretical Study on Solving Continual Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2211.02633)] [[code](https://github.com/k-gyuhak/WPTP)]
 - <a name="todo"></a> Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer (**NeurIPS2022**)
-- <a name="todo"></a> Memory Efficient Continual Learning with Transformers (**NeurIPS2022**)
+- <a name="todo"></a> Memory Efficient Continual Learning with Transformers (**NeurIPS2022**) [[paper](https://assets.amazon.science/44/6c/6d3f91ca4aa7a18149d30fa2c8a4/memory-efficient-continual-learning-with-transformers.pdf)]
 - <a name="todo"></a> Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.04524)] [[code](https://github.com/zoilsen/clom)]
 - <a name="todo"></a> Disentangling Transfer in Continual Reinforcement Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2209.13900)]
 - <a name="todo"></a> Task-Free Continual Learning via Online Discrepancy Distance Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.06579)]
