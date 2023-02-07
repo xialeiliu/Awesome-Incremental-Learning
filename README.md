@@ -15,10 +15,37 @@
 - <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 
-### 2022
+### 2023
+- <a name="todo"></a> Online Bias Correction for Task-Free Continual Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=18XzeuYZh_)]
+- <a name="todo"></a> Sparse Distributed Memory is a Continual Learner (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=JknGeelZJpHP)]
+- <a name="todo"></a> Continual Learning of Language Models (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=m_GDIItaI3o)]
+- <a name="todo"></a> Progressive Prompts: Continual Learning for Language Models without Forgetting (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=UJTgQBc91_)]
+- <a name="todo"></a> Is Forgetting Less a Good Inductive Bias for Forward Transfer? (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=dL35lx-mTEs)]
+- <a name="todo"></a> Online Boundary-Free Continual Learning by Scheduled Data Prior (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=qco4ekz2Epm)]
+- <a name="todo"></a>Incremental Learning of Structured Memory via Closed-Loop Transcription (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=XrgjF5-M3xi)]
+- <a name="todo"></a>Better Generative Replay for Continual Federated Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=cRxYWKiTan)]
+- <a name="todo"></a>3EF: Class-Incremental Learning via Efficient Energy-Based Expansion and Fusion (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=iP77_axu0h3)]
+- <a name="todo"></a>Progressive Voronoi Diagram Subdivision Enables Accurate Data-free Class-Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=zJXg_Wmob03)]
+- <a name="todo"></a>Learning without Prejudices: Continual Unbiased Learning via Benign and Malignant Forgetting (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=gfPUokHsW-)]
+- <a name="todo"></a>Building a Subspace of Policies for Scalable Continual Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=UKr0MwZM6fL)]
+- <a name="todo"></a>A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=S07feAlQHgM)]
+- <a name="todo"></a>Continual evaluation for lifelong learning: Identifying the stability gap (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=Zy350cRstc6)]
+- <a name="todo"></a>Continual Unsupervised Disentangling of Self-Organizing Representations (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=ih0uFRFhaZZ)]
+- <a name="todo"></a>Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=y5W8tpojhtJ)]
+- <a name="todo"></a>Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=kPLzOfPfA2l)]
+- <a name="todo"></a>Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=y5W8tpojhtJ)]
+- <a name="todo"></a>On the Soft-Subnetwork for Few-Shot Class Incremental LearningOn the Soft-Subnetwork for Few-Shot Class Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=z57WK5lGeHd)]
+- <a name="todo"></a>Task-Aware Information Routing from Common Representation Space in Lifelong Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=-M0TNnyWFT5)]
+- <a name="todo"></a>Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=zlbci7019Z3)]
+
+
 - <a name="todo"></a> Neural Weight Search for Scalable Task Incremental Learning (**WACV2023**)[[paper]( https://arxiv.org/abs/2211.13823)] 
 - <a name="todo"></a> Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation (**WACV2023**)[[paper]( https://arxiv.org/abs/2210.07207)] 
 - <a name="todo"></a> FeTrIL: Feature Translation for Exemplar-Free Class-Incremental Learning (**WACV2023**)[[paper]( https://arxiv.org/abs/2211.13131)] 
+- <a name="todo"></a> Sparse Coding in a Dual Memory System for Lifelong Learning (**AAAI2023**)[[paper]( https://arxiv.org/abs/2301.05058)] [[code](https://github.com/NeurAI-Lab/SCoMMER)]
+
+### 2022
+
 - <a name="todo"></a> Balanced softmax cross-entropy for incremental learning with and without memory (**CVIU**)[[paper](https://www.sciencedirect.com/science/article/pii/S1077314222001606)] 
 
 - <a name="todo"></a> Online Continual Learning through Mutual Information Maximization (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/guo22g/guo22g.pdf)] 
