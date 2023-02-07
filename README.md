@@ -1,5 +1,7 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
+- <a name="todo"></a> A Comprehensive Survey of Continual Learning: Theory, Method and Application (**arXiv 2023**)  [[paper](https://arxiv.org/abs/2302.00487)]
+- <a name="todo"></a> Continual Learning of Natural Language Processing Tasks: A Survey (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2211.12701)]
 - <a name="todo"></a> Continual Learning for Real-World Autonomous Systems: Algorithms, Challenges and Frameworks (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2105.12374)]
 - <a name="todo"></a> Recent Advances of Continual Learning in Computer Vision: An Overview (**arXiv 2021**)  [[paper](https://arxiv.org/abs/2109.11369)]
 - <a name="todo"></a> Replay in Deep Learning: Current Approaches and Missing Biological Elements (**Neural Computation 2021**) [[paper](https://arxiv.org/abs/2104.04132)]
@@ -14,9 +16,20 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> Neural Weight Search for Scalable Task Incremental Learning (**WACV2023**)[[paper]( https://arxiv.org/abs/2211.13823)] 
+- <a name="todo"></a> Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation (**WACV2023**)[[paper]( https://arxiv.org/abs/2210.07207)] 
+- <a name="todo"></a> FeTrIL: Feature Translation for Exemplar-Free Class-Incremental Learning (**WACV2023**)[[paper]( https://arxiv.org/abs/2211.13131)] 
+- <a name="todo"></a> Balanced softmax cross-entropy for incremental learning with and without memory (**CVIU**)[[paper](https://www.sciencedirect.com/science/article/pii/S1077314222001606)] 
+
+- <a name="todo"></a> Online Continual Learning through Mutual Information Maximization (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/guo22g/guo22g.pdf)] 
+- <a name="todo"></a> Improving Task-free Continual Learning by Distributionally Robust Memory Evolution (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf)] 
+- <a name="todo"></a> Forget-free Continual Learning with Winning Subnetworks (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf)] 
+- <a name="todo"></a> NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/gurbuz22a/gurbuz22a.pdf)]
+- <a name="todo"></a> Continual Learning via Sequential Function-Space Variational Inference (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/rudner22a/rudner22a.pdf)]
 - <a name="todo"></a> On Solving Class Incremental Learning in Continual Learning (**NeurIPS2022**)
+- <a name="todo"></a> A Theoretical Study on Solving Continual Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2211.02633)] [[code](https://github.com/k-gyuhak/WPTP)]
 - <a name="todo"></a> Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer (**NeurIPS2022**)
-- <a name="todo"></a> Memory Efficient Continual Learning with Transformers (**NeurIPS2022**)
+- <a name="todo"></a> Memory Efficient Continual Learning with Transformers (**NeurIPS2022**) [[paper](https://assets.amazon.science/44/6c/6d3f91ca4aa7a18149d30fa2c8a4/memory-efficient-continual-learning-with-transformers.pdf)]
 - <a name="todo"></a> Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.04524)] [[code](https://github.com/zoilsen/clom)]
 - <a name="todo"></a> Disentangling Transfer in Continual Reinforcement Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2209.13900)]
 - <a name="todo"></a> Task-Free Continual Learning via Online Discrepancy Distance Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.06579)]
@@ -34,7 +47,7 @@
 - <a name="todo"></a> On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting (**NeurIPS2022**)[[paper](https://arxiv.org/abs/2206.00761)] 
 - <a name="todo"></a> CGLB: Benchmark Tasks for Continual Graph Learning (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=5wNiiIDynDF)] [[code](https://github.com/QueuQ/CGLB)]
 - <a name="todo"></a> How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning? (**NeurIPS2022**)[[paper](https://openreview.net/forum?id=c0l2YolqD2T)] 
-
+- <a name="todo"></a> CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One (**ECCV2022**)[[paper](https://arxiv.org/abs/2207.06543)] [[code](https://github.com/lywang3081/CoSCL)]
 - <a name="todo"></a>Generative Negative Text Replay for Continual Vision-Language Pretraining (**ECCV2022**) [[paper](https://arxiv.org/abs/2210.17322)]
 - <a name="todo"></a> DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04799)] [[code](https://github.com/google-research/l2p)]
 - <a name="todo"></a> The Challenges of Continuous Self-Supervised Learning (**ECCV2022**)[[paper](https://arxiv.org/abs/2203.12710)] 
@@ -101,6 +114,7 @@
 - <a name="todo"></a> DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion (**CVPR2022**) [[paper](https://arxiv.org/abs/2111.11326)]
 - <a name="todo"></a> Federated Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.11473)] [[code](https://github.com/conditionWang/FCIL)]
 - <a name="todo"></a> Representation Compensation Networks for Continual Semantic Segmentation (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.05402)]
+- <a name="todo"></a> A Multi-Head Model for Continual Learning via Out-of-Distribution Replay (**CoLLAs2022**) [[paper](https://arxiv.org/abs/2208.09734)] [[code](https://github.com/k-gyuhak/MORE)]
 - <a name="todo"></a> Continual Attentive Fusion for Incremental Learning in Semantic Segmentation (**TMM2022**) [[paper](https://arxiv.org/abs/2202.00432)]
 - <a name="todo"></a> Self-training for class-incremental semantic segmentation (**TNNLS2022**) [[paper](https://arxiv.org/abs/2012.03362)]
 - <a name="todo"></a> Effects of Auxiliary Knowledge on Continual Learning (**ICPR2022**) [[paper](https://arxiv.org/abs/2206.02577)]
@@ -135,6 +149,7 @@
 
 ### 2021
 - <a name="todo"></a> Incremental Object Detection via Meta-Learning (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2003.08798)] [[code](https://github.com/JosephKJ/iOD)]
+- <a name="todo"></a> Triple-Memory Networks: A Brain-Inspired Method for Continual Learning (**TNNLS 2021**) [[paper](https://ieeexplore.ieee.org/document/9540230)] 
 - <a name="todo"></a> Memory efficient class-incremental learning for image classification (**TNNLS 2021**) [[paper](https://ieeexplore.ieee.org/abstract/document/9422177)] 
 - <a name="todo"></a> Class-Incremental Learning via Dual Augmentation (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/file/77ee3bc58ce560b86c2b59363281e914-Paper.pdf)]
 - <a name="todo"></a> SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (**NeurIPS2021**) [[paper](https://proceedings.neurips.cc/paper/2021/file/5a9542c773018268fc6271f7afeea969-Paper.pdf)]
