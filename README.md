@@ -16,6 +16,7 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> Neural Weight Search for Scalable Task Incremental Learning (**WACV2023**)[[paper]( https://arxiv.org/abs/2211.13823)] 
 - <a name="todo"></a> Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation (**WACV2023**)[[paper]( https://arxiv.org/abs/2210.07207)] 
 - <a name="todo"></a> FeTrIL: Feature Translation for Exemplar-Free Class-Incremental Learning (**WACV2023**)[[paper]( https://arxiv.org/abs/2211.13131)] 
 - <a name="todo"></a> Balanced softmax cross-entropy for incremental learning with and without memory (**CVIU**)[[paper](https://www.sciencedirect.com/science/article/pii/S1077314222001606)] 
