@@ -1,5 +1,6 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
+- <a name="todo"></a> Deep Class-Incremental Learning: A Survey (**arXiv 2023**)  [[paper](https://arxiv.org/abs/2302.03648)]
 - <a name="todo"></a> A Comprehensive Survey of Continual Learning: Theory, Method and Application (**arXiv 2023**)  [[paper](https://arxiv.org/abs/2302.00487)]
 - <a name="todo"></a> Continual Learning of Natural Language Processing Tasks: A Survey (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2211.12701)]
 - <a name="todo"></a> Continual Learning for Real-World Autonomous Systems: Algorithms, Challenges and Frameworks (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2105.12374)]
