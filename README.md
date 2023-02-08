@@ -14,7 +14,8 @@
  (**Neural Networks**) [[paper](https://arxiv.org/abs/1802.07569)]
 - <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
-
+### 2023
+- <a name="todo"></a> Continual Learning of Language Models (**ICLR2023**)[[paper](https://arxiv.org/abs/2302.03241)] 
 ### 2022
 - <a name="todo"></a> Neural Weight Search for Scalable Task Incremental Learning (**WACV2023**)[[paper]( https://arxiv.org/abs/2211.13823)] 
 - <a name="todo"></a> Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation (**WACV2023**)[[paper]( https://arxiv.org/abs/2210.07207)] 
