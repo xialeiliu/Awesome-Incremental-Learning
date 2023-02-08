@@ -31,7 +31,6 @@
 - <a name="todo"></a>A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=S07feAlQHgM)]
 - <a name="todo"></a>Continual evaluation for lifelong learning: Identifying the stability gap (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=Zy350cRstc6)]
 - <a name="todo"></a>Continual Unsupervised Disentangling of Self-Organizing Representations (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=ih0uFRFhaZZ)]
-- <a name="todo"></a>Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=y5W8tpojhtJ)]
 - <a name="todo"></a>Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=kPLzOfPfA2l)]
 - <a name="todo"></a>Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=y5W8tpojhtJ)]
 - <a name="todo"></a>On the Soft-Subnetwork for Few-Shot Class Incremental LearningOn the Soft-Subnetwork for Few-Shot Class Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=z57WK5lGeHd)]
