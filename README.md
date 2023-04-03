@@ -38,7 +38,7 @@
 - <a name="todo"></a>Continual Unsupervised Disentangling of Self-Organizing Representations (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=ih0uFRFhaZZ)]
 - <a name="todo"></a>Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=kPLzOfPfA2l)]
 - <a name="todo"></a>Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=y5W8tpojhtJ)]
-- <a name="todo"></a>On the Soft-Subnetwork for Few-Shot Class Incremental LearningOn the Soft-Subnetwork for Few-Shot Class Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=z57WK5lGeHd)]
+- <a name="todo"></a>On the Soft-Subnetwork for Few-Shot Class Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=z57WK5lGeHd)]
 - <a name="todo"></a>Task-Aware Information Routing from Common Representation Space in Lifelong Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=-M0TNnyWFT5)]
 - <a name="todo"></a>Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=zlbci7019Z3)]
 
