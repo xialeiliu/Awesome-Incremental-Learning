@@ -19,7 +19,7 @@
 ### 2023
 - <a name="todo"></a> CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2211.13218.pdf)][[code](https://github.com/GT-RIPL/CODA-Prompt)]
 - <a name="todo"></a> Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions (**CVPR2023**)[[paper](https://arxiv.org/pdf/2303.14115.pdf)]
-- <a name="todo"></a> Class-Incremental Exemplar Compression for Class-Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2303.14115.pdf)][[code](https://github.com/xfflzl/CIM-CIL)]
+- <a name="todo"></a> Class-Incremental Exemplar Compression for Class-Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2303.14042.pdf)][[code](https://github.com/xfflzl/CIM-CIL)]
 - <a name="todo"></a> Dense Network Expansion for Class Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2303.12696.pdf)]
 - <a name="todo"></a> Online Bias Correction for Task-Free Continual Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=18XzeuYZh_)]
 - <a name="todo"></a> Sparse Distributed Memory is a Continual Learner (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=JknGeelZJpHP)]
