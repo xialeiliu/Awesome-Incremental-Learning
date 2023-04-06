@@ -17,6 +17,7 @@
 ## Papers
 
 ### 2023
+- <a name="todo"></a> PIVOT: Prompting for Video Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2212.04842.pdf)]
 - <a name="todo"></a> CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2211.13218.pdf)][[code](https://github.com/GT-RIPL/CODA-Prompt)]
 - <a name="todo"></a> Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions (**CVPR2023**)[[paper](https://arxiv.org/pdf/2303.14115.pdf)]
 - <a name="todo"></a> Class-Incremental Exemplar Compression for Class-Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2303.14042.pdf)][[code](https://github.com/xfflzl/CIM-CIL)]
