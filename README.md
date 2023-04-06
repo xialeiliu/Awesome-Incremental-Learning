@@ -19,7 +19,7 @@
 ### 2023
 - <a name="todo"></a> CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2211.13218.pdf)][[code](https://github.com/GT-RIPL/CODA-Prompt)]
 - <a name="todo"></a> Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions (**CVPR2023**)[[paper](https://arxiv.org/pdf/2303.14115.pdf)]
-- <a name="todo"></a> Class-Incremental Exemplar Compression for Class-Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2303.14115.pdf)][[code](https://github.com/xfflzl/CIM-CIL)]
+- <a name="todo"></a> Class-Incremental Exemplar Compression for Class-Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2303.14042.pdf)][[code](https://github.com/xfflzl/CIM-CIL)]
 - <a name="todo"></a> Dense Network Expansion for Class Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2303.12696.pdf)]
 - <a name="todo"></a> Online Bias Correction for Task-Free Continual Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=18XzeuYZh_)]
 - <a name="todo"></a> Sparse Distributed Memory is a Continual Learner (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=JknGeelZJpHP)]
@@ -38,7 +38,7 @@
 - <a name="todo"></a>Continual Unsupervised Disentangling of Self-Organizing Representations (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=ih0uFRFhaZZ)]
 - <a name="todo"></a>Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=kPLzOfPfA2l)]
 - <a name="todo"></a>Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=y5W8tpojhtJ)]
-- <a name="todo"></a>On the Soft-Subnetwork for Few-Shot Class Incremental LearningOn the Soft-Subnetwork for Few-Shot Class Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=z57WK5lGeHd)]
+- <a name="todo"></a>On the Soft-Subnetwork for Few-Shot Class Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=z57WK5lGeHd)]
 - <a name="todo"></a>Task-Aware Information Routing from Common Representation Space in Lifelong Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=-M0TNnyWFT5)]
 - <a name="todo"></a>Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=zlbci7019Z3)]
 
