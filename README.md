@@ -18,6 +18,8 @@
 ## Papers
 
 ### 2023
+- <a name="todo"></a> Learning with Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.00426.pdf)][[code](https://github.com/zysong0113/SAVC)]
+- <a name="todo"></a> Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation (**CVPR2023**)[[paper](https://arxiv.org/pdf/2302.14250.pdf)]
 - <a name="todo"></a> Continual Detection Transformer for Incremental Object Detection (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.03110.pdf)][[code](https://github.com/yaoyao-liu/CL-DETR)]
 - <a name="todo"></a> PIVOT: Prompting for Video Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2212.04842.pdf)]
 - <a name="todo"></a> CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2211.13218.pdf)][[code](https://github.com/GT-RIPL/CODA-Prompt)]
