@@ -18,6 +18,8 @@
 ## Papers
 
 ### 2023
+- <a name="todo"></a> Exploring Data Geometry for Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.03931.pdf)]
+- <a name="todo"></a> PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.04408.pdf)][[code](https://github.com/FelixHuiweiLin/PCR)]
 - <a name="todo"></a> Learning with Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.00426.pdf)][[code](https://github.com/zysong0113/SAVC)]
 - <a name="todo"></a> Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation (**CVPR2023**)[[paper](https://arxiv.org/pdf/2302.14250.pdf)]
 - <a name="todo"></a> Continual Detection Transformer for Incremental Object Detection (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.03110.pdf)][[code](https://github.com/yaoyao-liu/CL-DETR)]
