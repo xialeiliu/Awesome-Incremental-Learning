@@ -18,6 +18,9 @@
 ## Papers
 
 ### 2023
+- <a name="todo"></a> Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.05288.pdf)]
+- <a name="todo"></a> A Probabilistic Framework for Lifelong Test-Time Adaptation (**CVPR2023**)[[paper](https://arxiv.org/pdf/2212.09713.pdf)][[code](https://github.com/dhanajitb/petal)]
+- <a name="todo"></a> Continual Semantic Segmentation with Automatic Memory Sample Selection (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.05015.pdf)]
 - <a name="todo"></a> Exploring Data Geometry for Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.03931.pdf)]
 - <a name="todo"></a> PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.04408.pdf)][[code](https://github.com/FelixHuiweiLin/PCR)]
 - <a name="todo"></a> Learning with Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.00426.pdf)][[code](https://github.com/zysong0113/SAVC)]
