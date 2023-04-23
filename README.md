@@ -18,6 +18,7 @@
 ## Papers
 
 ### 2023
+- <a name="todo"></a> Regularizing Second-Order Influences for Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.10177.pdf)][[code](https://github.com/feifeiobama/InfluenceCL)]
 - <a name="todo"></a> Rebalancing Batch Normalization for Exemplar-based Class-Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2201.12559.pdf)]
 - <a name="todo"></a> Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.05288.pdf)]
 - <a name="todo"></a> A Probabilistic Framework for Lifelong Test-Time Adaptation (**CVPR2023**)[[paper](https://arxiv.org/pdf/2212.09713.pdf)][[code](https://github.com/dhanajitb/petal)]
