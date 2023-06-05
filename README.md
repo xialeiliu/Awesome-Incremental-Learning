@@ -18,7 +18,7 @@
 ## Papers
 
 ### 2023
-- <a name="todo"></a> Endpoints Weight Fusion for Class Incremental Semantic Segmentation (**CVPR2023**)[[paper]([https://arxiv.org/pdf/2304.01663.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf))]
+- <a name="todo"></a> Endpoints Weight Fusion for Class Incremental Semantic Segmentation (**CVPR2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf)]
 - <a name="todo"></a> On the Stability-Plasticity Dilemma of Class-Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.01663.pdf)]
 - <a name="todo"></a> Regularizing Second-Order Influences for Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.10177.pdf)][[code](https://github.com/feifeiobama/InfluenceCL)]
 - <a name="todo"></a> Rebalancing Batch Normalization for Exemplar-based Class-Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2201.12559.pdf)]
