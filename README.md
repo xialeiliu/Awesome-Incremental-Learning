@@ -67,7 +67,7 @@
 ### 2022
 
 - <a name="todo"></a> Balanced softmax cross-entropy for incremental learning with and without memory (**CVIU**)[[paper](https://www.sciencedirect.com/science/article/pii/S1077314222001606)] 
-
+- <a name="todo"></a> Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection (**COLING2022**) [[paper](https://arxiv.org/abs/2204.07275)] [[code]( https://github.com/VT-NLP/Incremental_Prompting)]
 - <a name="todo"></a> Online Continual Learning through Mutual Information Maximization (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/guo22g/guo22g.pdf)] 
 - <a name="todo"></a> Improving Task-free Continual Learning by Distributionally Robust Memory Evolution (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf)] 
 - <a name="todo"></a> Forget-free Continual Learning with Winning Subnetworks (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf)] 
