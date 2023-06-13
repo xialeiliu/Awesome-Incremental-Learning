@@ -18,6 +18,7 @@
 ## Papers
 
 ### 2023
+- <a name="todo"></a> GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task (**CVPR2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.pdf)]
 - <a name="todo"></a> EcoTTA: Memory-Efficient Continual Test-time Adaptation via Self-distilled Regularization (**CVPR2023**)[[paper](https://arxiv.org/abs/2303.01904)]
 - <a name="todo"></a> Endpoints Weight Fusion for Class Incremental Semantic Segmentation (**CVPR2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf)]
 - <a name="todo"></a> On the Stability-Plasticity Dilemma of Class-Incremental Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2304.01663.pdf)]
@@ -72,9 +73,9 @@
 - <a name="todo"></a> Forget-free Continual Learning with Winning Subnetworks (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf)] 
 - <a name="todo"></a> NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/gurbuz22a/gurbuz22a.pdf)]
 - <a name="todo"></a> Continual Learning via Sequential Function-Space Variational Inference (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/rudner22a/rudner22a.pdf)]
-- <a name="todo"></a> On Solving Class Incremental Learning in Continual Learning (**NeurIPS2022**)
 - <a name="todo"></a> A Theoretical Study on Solving Continual Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2211.02633)] [[code](https://github.com/k-gyuhak/WPTP)]
-- <a name="todo"></a> Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer (**NeurIPS2022**)
+- <a name="todo"></a> ACIL: Analytic Class-Incremental Learning with Absolute Memorization and Privacy Protection (**NeurIPS2022**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/4b74a42fc81fc7ee252f6bcb6e26c8be-Paper-Conference.pdf)] 
+- <a name="todo"></a> Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2211.00789)]
 - <a name="todo"></a> Memory Efficient Continual Learning with Transformers (**NeurIPS2022**) [[paper](https://assets.amazon.science/44/6c/6d3f91ca4aa7a18149d30fa2c8a4/memory-efficient-continual-learning-with-transformers.pdf)]
 - <a name="todo"></a> Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.04524)] [[code](https://github.com/zoilsen/clom)]
 - <a name="todo"></a> Disentangling Transfer in Continual Reinforcement Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2209.13900)]
