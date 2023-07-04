@@ -18,6 +18,9 @@
 ## Papers
 
 ### 2023
+- <a name="todo"></a> Analyzing and Reducing the Performance Gap in Cross-Lingual Transfer with Fine-tuning Slow and Fast (**ACL2023**)[[paper](https://arxiv.org/abs/2305.11449)]
+- <a name="todo"></a> Class-Incremental Learning based on Label Generation (**ACL2023**)[[paper](https://arxiv.org/abs/2306.12619)]
+- <a name="todo"></a> Dealing With Cross-Task Class Discrimination in Online Continual Learning (**CVPR2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Dealing_With_Cross-Task_Class_Discrimination_in_Online_Continual_Learning_CVPR_2023_paper.html)][[code](https://github.com/gydpku/GSA)]
 - <a name="todo"></a> Decoupling Learning and Remembering: A Bilevel Memory Framework With Knowledge Projection for Task-Incremental Learning (**CVPR2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Decoupling_Learning_and_Remembering_A_Bilevel_Memory_Framework_With_Knowledge_CVPR_2023_paper.html)][[code](https://github.com/SunWenJu123/BMKP)]
 - <a name="todo"></a> GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task (**CVPR2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.pdf)]
 - <a name="todo"></a> EcoTTA: Memory-Efficient Continual Test-time Adaptation via Self-distilled Regularization (**CVPR2023**)[[paper](https://arxiv.org/abs/2303.01904)]
