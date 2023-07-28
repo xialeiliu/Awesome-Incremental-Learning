@@ -18,6 +18,19 @@
 ## Papers
 
 ### 2023
+- <a name="todo"></a> Learnability and Algorithm for Continual Learning (**ICML2023**)[[paper](https://arxiv.org/pdf/2306.12646.pdf)][[code](https://github.com/k-gyuhak/CLOOD)]
+- <a name="todo"></a> Parameter-Level Soft-Masking for Continual Learning (**ICML2023**)[[paper](https://arxiv.org/pdf/2306.14775.pdf)]
+- <a name="todo"></a> Continual Learning in Linear Classification on Separable Data (**ICML2023**)[[paper](https://arxiv.org/pdf/2306.03534.pdf)]
+- <a name="todo"></a> DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning (**ICML2023**)[[paper](https://arxiv.org/pdf/2305.00380.pdf)]
+- <a name="todo"></a> BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning (**ICML2023**)[[paper](https://arxiv.org/pdf/2305.04769.pdf)]
+- <a name="todo"></a> DDGR: Continual Learning with Deep Diffusion-based Generative Replay (**ICML2023**)[[paper](https://openreview.net/pdf?id=RlqgQXZx6r)]
+- <a name="todo"></a> Neuro-Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal (**ICML2023**)[[paper](http://proceedings.mlr.press/v202/marconato23a/marconato23a.pdf)]
+- <a name="todo"></a> Theory on Forgetting and Generalization of Continual Learning (**ICML2023**)[[paper](http://proceedings.mlr.press/v202/lin23f/lin23f.pdf)]
+- <a name="todo"></a> Poisoning Generative Replay in Continual Learning to Promote Forgetting (**ICML2023**)[[paper](https://proceedings.mlr.press/v202/kang23c/kang23c.pdf)]
+- <a name="todo"></a> Continual Vision-Language Representation Learning with Off-Diagonal Information (**ICML2023**)[[paper](https://arxiv.org/abs/2305.07437)]
+- <a name="todo"></a> Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning (**ICML2023**)[[paper](https://arxiv.org/abs/2303.14771)]
+- <a name="todo"></a> Does Continual Learning Equally Forget All Parameters? (**ICML2023**)[[paper](https://arxiv.org/abs/2304.04158)]
+- <a name="todo"></a> Does Continual Learning Equally Forget All Parameters? (**ICML2023**)[[paper](https://arxiv.org/abs/2304.04158)]
 - <a name="todo"></a> Analyzing and Reducing the Performance Gap in Cross-Lingual Transfer with Fine-tuning Slow and Fast (**ACL2023**)[[paper](https://arxiv.org/abs/2305.11449)]
 - <a name="todo"></a> Class-Incremental Learning based on Label Generation (**ACL2023**)[[paper](https://arxiv.org/abs/2306.12619)]
 - <a name="todo"></a> Dealing With Cross-Task Class Discrimination in Online Continual Learning (**CVPR2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Dealing_With_Cross-Task_Class_Discrimination_in_Online_Continual_Learning_CVPR_2023_paper.html)][[code](https://github.com/gydpku/GSA)]
