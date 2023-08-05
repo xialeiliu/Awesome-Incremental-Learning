@@ -70,6 +70,7 @@
 - <a name="todo"></a> Sparse Coding in a Dual Memory System for Lifelong Learning (**AAAI2023**)[[paper]( https://arxiv.org/abs/2301.05058)] [[code](https://github.com/NeurAI-Lab/SCoMMER)]
 ### 2022
 
+- <a name="todo"></a> Prototype-guided continual adaptation for class-incremental unsupervised domain adaptation (**ECCV2022**)[[paper]( https://arxiv.org/pdf/2207.10856.pdf)] [[code](https://github.com/Hongbin98/ProCA)]
 - <a name="todo"></a> Balanced softmax cross-entropy for incremental learning with and without memory (**CVIU**)[[paper](https://www.sciencedirect.com/science/article/pii/S1077314222001606)] 
 - <a name="todo"></a> Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection (**COLING2022**) [[paper](https://arxiv.org/abs/2204.07275)] [[code]( https://github.com/VT-NLP/Incremental_Prompting)]
 - <a name="todo"></a> Online Continual Learning through Mutual Information Maximization (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/guo22g/guo22g.pdf)] 
