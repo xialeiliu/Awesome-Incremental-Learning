@@ -26,7 +26,6 @@
 - <a name="todo"></a> ICICLE: Interpretable Class Incremental Continual Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2303.07811.pdf)]
 - <a name="todo"></a> Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2307.10943.pdf)]
 - <a name="todo"></a> SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2303.05118.pdf)][[code](https://github.com/GengDavid/SLCA)]
-
 - <a name="todo"></a> Online Prototype Learning for Online Continual Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2308.00301.pdf)][[code](https://github.com/weilllllls/OnPro)]
 - <a name="todo"></a> Dealing With Cross-Task Class Discrimination in Online Continual Learning (**CVPR2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Dealing_With_Cross-Task_Class_Discrimination_in_Online_Continual_Learning_CVPR_2023_paper.html)][[code](https://github.com/gydpku/GSA)]
 - <a name="todo"></a> Decoupling Learning and Remembering: A Bilevel Memory Framework With Knowledge Projection for Task-Incremental Learning (**CVPR2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Decoupling_Learning_and_Remembering_A_Bilevel_Memory_Framework_With_Knowledge_CVPR_2023_paper.html)][[code](https://github.com/SunWenJu123/BMKP)]
