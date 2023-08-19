@@ -20,6 +20,9 @@
 ### 2023
 - <a name="todo"></a> Analyzing and Reducing the Performance Gap in Cross-Lingual Transfer with Fine-tuning Slow and Fast (**ACL2023**)[[paper](https://arxiv.org/abs/2305.11449)]
 - <a name="todo"></a> Class-Incremental Learning based on Label Generation (**ACL2023**)[[paper](https://arxiv.org/abs/2306.12619)]
+- <a name="todo"></a> Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2303.06628.pdf)][[code](https://github.com/Thunderbeee/ZSCL)]
+- <a name="todo"></a> TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2303.06937.pdf)]
+- <a name="todo"></a> Heterogeneous Forgetting Compensation for Class-Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2308.03374.pdf)][[code](https://github.com/JiahuaDong/HFC)]
 - <a name="todo"></a> Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2307.12427.pdf)][[code](https://github.com/YuyangSunshine/ABR_IOD)]
 - <a name="todo"></a> MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2305.14758.pdf)][[code](https://github.com/simplify23/MRN)]
 - <a name="todo"></a> CLR: Channel-wise Lightweight Reprogramming for Continual Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2307.11386.pdf)][[code](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming)]
