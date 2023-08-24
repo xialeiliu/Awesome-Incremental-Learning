@@ -19,6 +19,7 @@
 
 ### 2023
 - <a name="todo"></a> Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2303.06628.pdf)][[code](https://github.com/Thunderbeee/ZSCL)]
+- <a name="todo"></a> LFS-GAN: Lifelong Few-Shot Image Generation (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.11917)]
 - <a name="todo"></a> TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2303.06937.pdf)]
 - <a name="todo"></a> Learning to Learn: How to Continuously Teach Humans and Machines (**ICCV 2023**)[[paper](https://arxiv.org/abs/2211.15470)]
 - <a name="todo"></a> Audio-Visual Class-Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.11073)]
