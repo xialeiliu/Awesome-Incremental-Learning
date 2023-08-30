@@ -19,6 +19,7 @@
 
 ### 2023
 - <a name="todo"></a> Masked Autoencoders are Efficient Class Incremental Learners (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.12510)]
+- <a name="todo"></a> CLNeRF: Continual Learning Meets NeRFs (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.14816)]
 - <a name="todo"></a> Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2303.06628.pdf)][[code](https://github.com/Thunderbeee/ZSCL)]
 - <a name="todo"></a> LFS-GAN: Lifelong Few-Shot Image Generation (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.11917)]
 - <a name="todo"></a> TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2303.06937.pdf)]
