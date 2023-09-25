@@ -19,6 +19,7 @@
 ## Papers
 
 ### 2023
+- <a name="todo"></a> Dynamic Residual Classifier for Class Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2308.13305.pdf)]
 - <a name="todo"></a> Masked Autoencoders are Efficient Class Incremental Learners (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.12510)]
 - <a name="todo"></a> Introducing Language Guidance in Prompt-based Continual Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.15827)]
 - <a name="todo"></a> CLNeRF: Continual Learning Meets NeRFs (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.14816)]
