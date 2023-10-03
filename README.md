@@ -19,6 +19,7 @@
 ## Papers
 
 ### 2023
+- <a name="todo"></a> FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2309.14062)]
 - <a name="todo"></a> When Prompt-based Incremental Learning Does Not Meet Strong Pretraining (**ICCV 2023**)[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_When_Prompt-based_Incremental_Learning_Does_Not_Meet_Strong_Pretraining_ICCV_2023_paper.pdf)]
 - <a name="todo"></a> Dynamic Residual Classifier for Class Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2308.13305.pdf)]
 - <a name="todo"></a> First Session Adaptation: A Strong Replay-Free Baseline for Class-Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2303.13199)]
