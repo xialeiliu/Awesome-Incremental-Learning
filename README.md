@@ -20,6 +20,7 @@
 
 ### 2023
 - <a name="todo"></a> FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2309.14062)]
+- <a name="todo"></a> Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right? (**ICCV 2023**)[[paper](https://arxiv.org/abs/2305.09275)][[code](https://github.com/drimpossible/EvalOCL)]
 - <a name="todo"></a> When Prompt-based Incremental Learning Does Not Meet Strong Pretraining (**ICCV 2023**)[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_When_Prompt-based_Incremental_Learning_Does_Not_Meet_Strong_Pretraining_ICCV_2023_paper.pdf)]
 - <a name="todo"></a> Dynamic Residual Classifier for Class Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2308.13305.pdf)]
 - <a name="todo"></a> First Session Adaptation: A Strong Replay-Free Baseline for Class-Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2303.13199)]
@@ -45,6 +46,8 @@
 - <a name="todo"></a> Online Prototype Learning for Online Continual Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2308.00301.pdf)][[code](https://github.com/weilllllls/OnPro)]
 - <a name="todo"></a> Analyzing and Reducing the Performance Gap in Cross-Lingual Transfer with Fine-tuning Slow and Fast (**ACL2023**)[[paper](https://arxiv.org/abs/2305.11449)]
 - <a name="todo"></a> Class-Incremental Learning based on Label Generation (**ACL2023**)[[paper](https://arxiv.org/abs/2306.12619)]
+- <a name="todo"></a> Computationally Budgeted Continual Learning: What Does Matter? (**CVPR2023**)[[paper](https://arxiv.org/abs/2303.11165)][[code](https://github.com/drimpossible/BudgetCL)]
+- <a name="todo"></a> Real-Time Evaluation in Online Continual Learning: A New Hope (**CVPR2023**)[[paper](https://arxiv.org/abs/2302.01047)]
 - <a name="todo"></a> Dealing With Cross-Task Class Discrimination in Online Continual Learning (**CVPR2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Dealing_With_Cross-Task_Class_Discrimination_in_Online_Continual_Learning_CVPR_2023_paper.html)][[code](https://github.com/gydpku/GSA)]
 - <a name="todo"></a> Decoupling Learning and Remembering: A Bilevel Memory Framework With Knowledge Projection for Task-Incremental Learning (**CVPR2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Decoupling_Learning_and_Remembering_A_Bilevel_Memory_Framework_With_Knowledge_CVPR_2023_paper.html)][[code](https://github.com/SunWenJu123/BMKP)]
 - <a name="todo"></a> GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task (**CVPR2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.pdf)]
