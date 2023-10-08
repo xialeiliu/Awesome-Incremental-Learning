@@ -24,6 +24,7 @@
 
 
 ### 2023
+- <a name="todo"></a> FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2309.14062)]
 - <a name="todo"></a> Continual Learners are Incremental Model Generalizers (**ICML2023**)[[paper](http://arxiv.org/abs/2306.12026)]
 - <a name="todo"></a> Learnability and Algorithm for Continual Learning (**ICML2023**)[[paper](https://arxiv.org/pdf/2306.12646.pdf)][[code](https://github.com/k-gyuhak/CLOOD)]
 - <a name="todo"></a> Parameter-Level Soft-Masking for Continual Learning (**ICML2023**)[[paper](https://arxiv.org/pdf/2306.14775.pdf)]
@@ -37,7 +38,6 @@
 - <a name="todo"></a> Continual Vision-Language Representation Learning with Off-Diagonal Information (**ICML2023**)[[paper](https://arxiv.org/abs/2305.07437)]
 - <a name="todo"></a> Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning (**ICML2023**)[[paper](https://arxiv.org/abs/2303.14771)]
 - <a name="todo"></a> Does Continual Learning Equally Forget All Parameters? (**ICML2023**)[[paper](https://arxiv.org/abs/2304.04158)]
-- <a name="todo"></a> FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2309.14062)]
 - <a name="todo"></a> Self-regulating Prompts: Foundational Model Adaptation without Forgetting (**ICCV 2023**)[[paper](https://arxiv.org/abs/2307.06948)][[code](https://github.com/muzairkhattak/PromptSRC)]
 - <a name="todo"></a> Tangent Model Composition for Ensembling and Continual Fine-tuning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2307.08114)][[code](https://github.com/tianyu139/tangent-model-composition)]
 - <a name="todo"></a> CBA: Improving Online Continual Learning via Continual Bias Adaptor (**ICCV 2023**)[[paper](https://browse.arxiv.org/pdf/2308.06925.pdf)]
@@ -47,6 +47,7 @@
 - <a name="todo"></a> Class-Incremental Grouping Network for Continual Audio-Visual Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2309.05281)][[code](https://github.com/stoneMo/CIGN)]
 - <a name="todo"></a> Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right? (**ICCV 2023**)[[paper](https://arxiv.org/abs/2305.09275)][[code](https://github.com/drimpossible/EvalOCL)]
 - <a name="todo"></a> When Prompt-based Incremental Learning Does Not Meet Strong Pretraining (**ICCV 2023**)[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_When_Prompt-based_Incremental_Learning_Does_Not_Meet_Strong_Pretraining_ICCV_2023_paper.pdf)]
+- <a name="todo"></a> Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.09303)][[code](https://github.com/moonjunyyy/si-blurry)]
 - <a name="todo"></a> Dynamic Residual Classifier for Class Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2308.13305.pdf)]
 - <a name="todo"></a> First Session Adaptation: A Strong Replay-Free Baseline for Class-Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2303.13199)]
 - <a name="todo"></a> Masked Autoencoders are Efficient Class Incremental Learners (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.12510)]
