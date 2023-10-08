@@ -19,7 +19,12 @@
 - <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 
+### 2024
+- <a name="todo"></a> Plasticity-Optimized Complementary Networks for Unsupervised Continual (**WACV2024**)[[paper]( https://arxiv.org/abs/2309.06086)] 
+
+
 ### 2023
+- <a name="todo"></a> Continual Learners are Incremental Model Generalizers (**ICML2023**)[[paper](http://arxiv.org/abs/2306.12026)]
 - <a name="todo"></a> Learnability and Algorithm for Continual Learning (**ICML2023**)[[paper](https://arxiv.org/pdf/2306.12646.pdf)][[code](https://github.com/k-gyuhak/CLOOD)]
 - <a name="todo"></a> Parameter-Level Soft-Masking for Continual Learning (**ICML2023**)[[paper](https://arxiv.org/pdf/2306.14775.pdf)]
 - <a name="todo"></a> Continual Learning in Linear Classification on Separable Data (**ICML2023**)[[paper](https://arxiv.org/pdf/2306.03534.pdf)]
@@ -33,6 +38,13 @@
 - <a name="todo"></a> Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning (**ICML2023**)[[paper](https://arxiv.org/abs/2303.14771)]
 - <a name="todo"></a> Does Continual Learning Equally Forget All Parameters? (**ICML2023**)[[paper](https://arxiv.org/abs/2304.04158)]
 - <a name="todo"></a> FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2309.14062)]
+- <a name="todo"></a> Self-regulating Prompts: Foundational Model Adaptation without Forgetting (**ICCV 2023**)[[paper](https://arxiv.org/abs/2307.06948)][[code](https://github.com/muzairkhattak/PromptSRC)]
+- <a name="todo"></a> Tangent Model Composition for Ensembling and Continual Fine-tuning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2307.08114)][[code](https://github.com/tianyu139/tangent-model-composition)]
+- <a name="todo"></a> CBA: Improving Online Continual Learning via Continual Bias Adaptor (**ICCV 2023**)[[paper](https://browse.arxiv.org/pdf/2308.06925.pdf)]
+- <a name="todo"></a> CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation (**ICCV 2023**)[[paper](https://browse.arxiv.org/pdf/2308.07146.pdf)][[code](https://github.com/KevinLight831/CTP)]
+- <a name="todo"></a> NAPA-VQ: Neighborhood Aware Prototype Augmentation with Vector Quantization for Continual Learning (**ICCV 2023**)[[paper](https://browse.arxiv.org/pdf/2308.09297.pdf)][[code](https://github.com/TamashaM/NAPA-VQ.git)]
+- <a name="todo"></a> Online Continual Learning on Hierarchical Label Expansion (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.14374)]
+- <a name="todo"></a> Class-Incremental Grouping Network for Continual Audio-Visual Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2309.05281)][[code](https://github.com/stoneMo/CIGN)]
 - <a name="todo"></a> Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right? (**ICCV 2023**)[[paper](https://arxiv.org/abs/2305.09275)][[code](https://github.com/drimpossible/EvalOCL)]
 - <a name="todo"></a> When Prompt-based Incremental Learning Does Not Meet Strong Pretraining (**ICCV 2023**)[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_When_Prompt-based_Incremental_Learning_Does_Not_Meet_Strong_Pretraining_ICCV_2023_paper.pdf)]
 - <a name="todo"></a> Dynamic Residual Classifier for Class Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2308.13305.pdf)]
@@ -44,7 +56,7 @@
 - <a name="todo"></a> LFS-GAN: Lifelong Few-Shot Image Generation (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.11917)]
 - <a name="todo"></a> TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2303.06937.pdf)]
 - <a name="todo"></a> Learning to Learn: How to Continuously Teach Humans and Machines (**ICCV 2023**)[[paper](https://arxiv.org/abs/2211.15470)]
-- <a name="todo"></a> Audio-Visual Class-Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.11073)]
+- <a name="todo"></a> Audio-Visual Class-Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.11073)][[code](https://github.com/weiguoPian/AV-CIL_ICCV2023)]
 - <a name="todo"></a> MetaGCD: Learning to Continually Learn in Generalized Category Discovery (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.11063)]
 - <a name="todo"></a> Exemplar-Free Continual Transformer with Convolutions (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.11357)]
 - <a name="todo"></a> A Unified Continual Learning Framework with General Parameter-Efficient Tuning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2303.10070)]
