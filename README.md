@@ -26,6 +26,7 @@
 ### 2023
 - <a name="todo"></a> Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2310.07234)]
 - <a name="todo"></a> FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2309.14062)]
+- <a name="todo"></a> The Ideal Continual Learner: An Agent That Never Forgets (**ICML2023**)[[paper](https://arxiv.org/abs/2305.00316)]
 - <a name="todo"></a> Continual Learners are Incremental Model Generalizers (**ICML2023**)[[paper](http://arxiv.org/abs/2306.12026)]
 - <a name="todo"></a> Learnability and Algorithm for Continual Learning (**ICML2023**)[[paper](https://arxiv.org/pdf/2306.12646.pdf)][[code](https://github.com/k-gyuhak/CLOOD)]
 - <a name="todo"></a> Parameter-Level Soft-Masking for Continual Learning (**ICML2023**)[[paper](https://arxiv.org/pdf/2306.14775.pdf)]
