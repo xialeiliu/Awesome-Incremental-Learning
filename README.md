@@ -24,6 +24,7 @@
 
 
 ### 2023
+- <a name="todo"></a> Sub-network Discovery and Soft-masking for Continual Learning of Mixed Tasks (**EMNLP 2023**)[[paper](https://arxiv.org/abs/2310.09436)]
 - <a name="todo"></a> Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2310.07234)]
 - <a name="todo"></a> FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2309.14062)]
 - <a name="todo"></a> Continual Learners are Incremental Model Generalizers (**ICML2023**)[[paper](http://arxiv.org/abs/2306.12026)]
