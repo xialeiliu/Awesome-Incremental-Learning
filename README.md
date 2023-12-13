@@ -24,7 +24,7 @@
 
 
 ### 2023
-- <a name="todo"></a > Loss Decoupling for Task-Agnostic Continual Learning (**NeurIPS 2023**) [[paper](https://arxiv.org/pdf/2310.04801.pdf)]
+- <a name="todo"></a > Loss Decoupling for Task-Agnostic Continual Learning (**NeurIPS 2023**) [[paper](https://openreview.net/pdf?id=9Oi3YxIBSa)]
 - <a name="todo"></a > Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=2dtU9ZbgSN)]
 - <a name="todo"></a > Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments  (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2305.15700)]
 - <a name="todo"></a > An Efficient Dataset Condensation Plugin and Its Application to Continual Learning  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=Murj6wcjRw)]
