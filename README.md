@@ -20,6 +20,7 @@
 ## Papers
 
 ### 2024
+- <a name="todo"></a> Learning a Low-Rank Feature Representation: Achieving Better Trade-Off between Stability and Plasticity in Continual Learning (**ICASSP2024**) [[paper](https://arxiv.org/abs/2312.08740)] [[code](https://github.com/Dacaidi/LRFR)]
 - <a name="todo"></a> Plasticity-Optimized Complementary Networks for Unsupervised Continual (**WACV2024**)[[paper]( https://arxiv.org/abs/2309.06086)] 
 
 
