@@ -1,6 +1,7 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
 - <a name="todo"></a> A Comprehensive Empirical Evaluation on Online Continual Learning (**ICCV Workshop 2023**)  [[paper](https://arxiv.org/abs/2308.10328)][[code](https://github.com/AlbinSou/ocl_survey)]
+- <a name="todo"></a> A wholistic view of continual learning with deep neural networks: Forgotten lessons and the bridge to active and open world learning (**Neural Networks 2023**)  [[paper](https://www.sciencedirect.com/science/article/pii/S089360802300014X)]
 - <a name="todo"></a>An Introduction to Lifelong Supervised Learning (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2207.04354)]
 - <a name="todo"></a> A Survey on Incremental Update for Neural Recommender Systems (**arXiv 2023**)  [[paper](https://arxiv.org/abs/2303.02851#)]
 - <a name="todo"></a> Deep Class-Incremental Learning: A Survey (**arXiv 2023**)  [[paper](https://arxiv.org/abs/2302.03648)]
@@ -273,11 +274,13 @@
 - <a name="todo"></a> Knowledge Capture and Replay for Continual Learning (**WACV2022**) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.pdf)]
 - <a name="todo"></a> Online Continual Learning via Candidates Voting (**WACV2022**) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/He_Online_Continual_Learning_via_Candidates_Voting_WACV_2022_paper.pdf)]
 - <a name="todo"></a> lpSpikeCon: Enabling Low-Precision Spiking Neural Network Processing for Efficient Unsupervised Continual Learning on Autonomous Agents (**IJCNN2022**) [[paper](https://doi.org/10.1109/IJCNN55064.2022.9892948)]
+- <a name="todo"></a> Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition (**Journal of Imaging 2022**) [[paper](https://www.mdpi.com/2313-433X/8/4/93)]
 
 ### 2021
 - <a name="todo"></a> Incremental Object Detection via Meta-Learning (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2003.08798)] [[code](https://github.com/JosephKJ/iOD)]
 - <a name="todo"></a> Triple-Memory Networks: A Brain-Inspired Method for Continual Learning (**TNNLS 2021**) [[paper](https://ieeexplore.ieee.org/document/9540230)] 
 - <a name="todo"></a> Memory efficient class-incremental learning for image classification (**TNNLS 2021**) [[paper](https://ieeexplore.ieee.org/abstract/document/9422177)] 
+- <a name="todo"></a> A Procedural World Generation Framework for Systematic Evaluation of Continual Learning (**NeurIPS2021**) [[paper](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/d645920e395fedad7bbbed0eca3fe2e0-Abstract-round1.html)]
 - <a name="todo"></a> Class-Incremental Learning via Dual Augmentation (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/file/77ee3bc58ce560b86c2b59363281e914-Paper.pdf)]
 - <a name="todo"></a> SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (**NeurIPS2021**) [[paper](https://proceedings.neurips.cc/paper/2021/file/5a9542c773018268fc6271f7afeea969-Paper.pdf)]
 - <a name="todo"></a> RMM: Reinforced Memory Management for Class-Incremental Learning (**NeurIPS2021**) [[paper](https://proceedings.neurips.cc/paper/2021/hash/1cbcaa5abbb6b70f378a3a03d0c26386-Abstract.html)]
