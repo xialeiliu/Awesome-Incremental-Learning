@@ -17,7 +17,7 @@
 - <a name="todo"></a> A continual learning survey: Defying forgetting in classification tasks (**TPAMI 2021**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9349197) [[arxiv](https://arxiv.org/pdf/1909.08383.pdf)]
 - <a name="todo"></a> Continual Lifelong Learning with Neural Networks: A Review
  (**Neural Networks**) [[paper](https://arxiv.org/abs/1802.07569)]
-- <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
+- <a name="todo"></a> Three scenarios for continual learning (**Nature Machine Intelligence 2022**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 
 ### 2024
@@ -25,6 +25,7 @@
 
 
 ### 2023
+- <a name="todo"></a > Incorporating neuro-inspired adaptability for continual learning in artificial intelligence (**Nature Machine Intelligence 2023**) [[paper](https://www.nature.com/articles/s42256-023-00747-w)]
 - <a name="todo"></a > Loss Decoupling for Task-Agnostic Continual Learning (**NeurIPS 2023**) [[paper](https://openreview.net/pdf?id=9Oi3YxIBSa)]
 - <a name="todo"></a > Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=2dtU9ZbgSN)]
 - <a name="todo"></a > Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments  (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2305.15700)]
