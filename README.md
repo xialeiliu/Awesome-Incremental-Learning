@@ -32,7 +32,7 @@
 - <a name="todo"></a > An Efficient Dataset Condensation Plugin and Its Application to Continual Learning  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=Murj6wcjRw)]
 - <a name="todo"></a > Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=Ph65E1bE6A)]
 - <a name="todo"></a > Prediction and Control in Continual Reinforcement Learning  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=KakzVASqul)]
-- <a name="todo"></a > On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2304.01663.pdf)]
+- <a name="todo"></a > On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=DNHGKeOhLl)]
 - <a name="todo"></a > Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=Ct0zPIe3xs)]
 - <a name="todo"></a > A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2311.07784.pdf)]
 - <a name="todo"></a > Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2312.05229.pdf)]
