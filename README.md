@@ -21,8 +21,9 @@
 ## Papers
 
 ### 2024
+- <a name="todo"></a> Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2312.12722)] 
 - <a name="todo"></a> Adapt Your Teacher: Improving Knowledge Distillation for Exemplar-free Continual Learning (**WACV2024**)[[paper](https://arxiv.org/abs/2308.09544)][[code](https://github.com/fszatkowski/cl-teacher-adaptation)]
-- <a name="todo"></a> Plasticity-Optimized Complementary Networks for Unsupervised Continual (**WACV2024**)[[paper]( https://arxiv.org/abs/2309.06086)] 
+- <a name="todo"></a> Plasticity-Optimized Complementary Networks for Unsupervised Continual (**WACV2024**)[[paper](https://arxiv.org/abs/2309.06086)] 
 
 
 ### 2023
