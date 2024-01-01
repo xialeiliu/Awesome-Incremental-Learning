@@ -1,6 +1,7 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
 - <a name="todo"></a> A Comprehensive Empirical Evaluation on Online Continual Learning (**ICCV Workshop 2023**)  [[paper](https://arxiv.org/abs/2308.10328)][[code](https://github.com/AlbinSou/ocl_survey)]
+- <a name="todo"></a> A wholistic view of continual learning with deep neural networks: Forgotten lessons and the bridge to active and open world learning (**Neural Networks 2023**)  [[paper](https://www.sciencedirect.com/science/article/pii/S089360802300014X)]
 - <a name="todo"></a>An Introduction to Lifelong Supervised Learning (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2207.04354)]
 - <a name="todo"></a> A Survey on Incremental Update for Neural Recommender Systems (**arXiv 2023**)  [[paper](https://arxiv.org/abs/2303.02851#)]
 - <a name="todo"></a> Deep Class-Incremental Learning: A Survey (**arXiv 2023**)  [[paper](https://arxiv.org/abs/2302.03648)]
@@ -16,17 +17,40 @@
 - <a name="todo"></a> A continual learning survey: Defying forgetting in classification tasks (**TPAMI 2021**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9349197) [[arxiv](https://arxiv.org/pdf/1909.08383.pdf)]
 - <a name="todo"></a> Continual Lifelong Learning with Neural Networks: A Review
  (**Neural Networks**) [[paper](https://arxiv.org/abs/1802.07569)]
-- <a name="todo"></a> Three scenarios for continual learning (**arXiv 2019**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
+- <a name="todo"></a> Three scenarios for continual learning (**Nature Machine Intelligence 2022**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 
 ### 2024
+- <a name="todo"></a> Adapt Your Teacher: Improving Knowledge Distillation for Exemplar-free Continual Learning (**WACV2024**)[[paper](https://arxiv.org/abs/2308.09544)][[code](https://github.com/fszatkowski/cl-teacher-adaptation)]
 - <a name="todo"></a> Plasticity-Optimized Complementary Networks for Unsupervised Continual (**WACV2024**)[[paper]( https://arxiv.org/abs/2309.06086)] 
 
 
 ### 2023
 - <a name="todo"></a> Sub-network Discovery and Soft-masking for Continual Learning of Mixed Tasks (**EMNLP 2023**)[[paper](https://arxiv.org/abs/2310.09436)]
+- <a name="todo"></a > Incorporating neuro-inspired adaptability for continual learning in artificial intelligence (**Nature Machine Intelligence 2023**) [[paper](https://www.nature.com/articles/s42256-023-00747-w)]
+- <a name="todo"></a > Loss Decoupling for Task-Agnostic Continual Learning (**NeurIPS 2023**) [[paper](https://openreview.net/pdf?id=9Oi3YxIBSa)]
+- <a name="todo"></a > Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=2dtU9ZbgSN)]
+- <a name="todo"></a > Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments  (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2305.15700)]
+- <a name="todo"></a > An Efficient Dataset Condensation Plugin and Its Application to Continual Learning  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=Murj6wcjRw)]
+- <a name="todo"></a > Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=Ph65E1bE6A)]
+- <a name="todo"></a > Prediction and Control in Continual Reinforcement Learning  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=KakzVASqul)]
+- <a name="todo"></a > On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=DNHGKeOhLl)]
+- <a name="todo"></a > Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=Ct0zPIe3xs)]
+- <a name="todo"></a > A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2311.07784.pdf)]
+- <a name="todo"></a > Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2312.05229.pdf)]
+- <a name="todo"></a > A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2310.12244.pdf)]
+- <a name="todo"></a> Minimax Forward and Backward Learning of Evolving Tasks with Performance Guarantees (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2310.15974.pdf)]
+- <a name="todo"></a> Recasting Continual Learning as Sequence Modeling (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2310.11952.pdf)]
+- <a name="todo"></a> Augmented Memory Replay-based Continual Learning Approaches for Network Intrusion Detection (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=yGLokEhdh9)]
+- <a name="todo"></a> Does Continual Learning Meet Compositionality? New Benchmarks and An Evaluation Framework (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=38bZuqQOhC)]
+- <a name="todo"></a> CL-NeRF: Continual Learning of Neural Radiance Fields for Evolving Scene Representation (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=uZjpSBTPik)]
+- <a name="todo"></a> TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2310.08217.pdf)]
+- <a name="todo"></a> Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2305.10120.pdf)]
+- <a name="todo"></a> A Definition of Continual Reinforcement Learning (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2307.11046.pdf)]
+- <a name="todo"></a> RanPAC: Random Projections and Pre-trained Models for Continual Learning (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2307.02251.pdf)]
 - <a name="todo"></a> Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2310.07234)]
 - <a name="todo"></a> FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2309.14062)]
+- <a name="todo"></a> The Ideal Continual Learner: An Agent That Never Forgets (**ICML2023**) [[paper](https://arxiv.org/abs/2305.00316)]
 - <a name="todo"></a> Continual Learners are Incremental Model Generalizers (**ICML2023**)[[paper](http://arxiv.org/abs/2306.12026)]
 - <a name="todo"></a> Learnability and Algorithm for Continual Learning (**ICML2023**)[[paper](https://arxiv.org/pdf/2306.12646.pdf)][[code](https://github.com/k-gyuhak/CLOOD)]
 - <a name="todo"></a> Parameter-Level Soft-Masking for Continual Learning (**ICML2023**)[[paper](https://arxiv.org/pdf/2306.14775.pdf)]
@@ -254,11 +278,13 @@
 - <a name="todo"></a> Knowledge Capture and Replay for Continual Learning (**WACV2022**) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.pdf)]
 - <a name="todo"></a> Online Continual Learning via Candidates Voting (**WACV2022**) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/He_Online_Continual_Learning_via_Candidates_Voting_WACV_2022_paper.pdf)]
 - <a name="todo"></a> lpSpikeCon: Enabling Low-Precision Spiking Neural Network Processing for Efficient Unsupervised Continual Learning on Autonomous Agents (**IJCNN2022**) [[paper](https://doi.org/10.1109/IJCNN55064.2022.9892948)]
+- <a name="todo"></a> Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition (**Journal of Imaging 2022**) [[paper](https://www.mdpi.com/2313-433X/8/4/93)]
 
 ### 2021
 - <a name="todo"></a> Incremental Object Detection via Meta-Learning (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2003.08798)] [[code](https://github.com/JosephKJ/iOD)]
 - <a name="todo"></a> Triple-Memory Networks: A Brain-Inspired Method for Continual Learning (**TNNLS 2021**) [[paper](https://ieeexplore.ieee.org/document/9540230)] 
 - <a name="todo"></a> Memory efficient class-incremental learning for image classification (**TNNLS 2021**) [[paper](https://ieeexplore.ieee.org/abstract/document/9422177)] 
+- <a name="todo"></a> A Procedural World Generation Framework for Systematic Evaluation of Continual Learning (**NeurIPS2021**) [[paper](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/d645920e395fedad7bbbed0eca3fe2e0-Abstract-round1.html)]
 - <a name="todo"></a> Class-Incremental Learning via Dual Augmentation (**NeurIPS2021**) [[paper](https://papers.nips.cc/paper/2021/file/77ee3bc58ce560b86c2b59363281e914-Paper.pdf)]
 - <a name="todo"></a> SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (**NeurIPS2021**) [[paper](https://proceedings.neurips.cc/paper/2021/file/5a9542c773018268fc6271f7afeea969-Paper.pdf)]
 - <a name="todo"></a> RMM: Reinforced Memory Management for Class-Incremental Learning (**NeurIPS2021**) [[paper](https://proceedings.neurips.cc/paper/2021/hash/1cbcaa5abbb6b70f378a3a03d0c26386-Abstract.html)]
