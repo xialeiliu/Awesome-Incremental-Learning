@@ -38,7 +38,7 @@
 - <a name="todo"></a > Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=Ct0zPIe3xs)]
 - <a name="todo"></a > A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2311.07784.pdf)]
 - <a name="todo"></a > Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2312.05229.pdf)]
-- <a name="todo"></a > A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2310.12244.pdf)]
+- <a name="todo"></a > A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2310.12244.pdf)][[code](https://github.com/Wang-ML-Lab/unified-continual-learning)]
 - <a name="todo"></a> Minimax Forward and Backward Learning of Evolving Tasks with Performance Guarantees (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2310.15974.pdf)]
 - <a name="todo"></a> Recasting Continual Learning as Sequence Modeling (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2310.11952.pdf)]
 - <a name="todo"></a> Augmented Memory Replay-based Continual Learning Approaches for Network Intrusion Detection (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=yGLokEhdh9)]
@@ -65,6 +65,7 @@
 - <a name="todo"></a> Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning (**ICML2023**)[[paper](https://arxiv.org/abs/2303.14771)]
 - <a name="todo"></a> Does Continual Learning Equally Forget All Parameters? (**ICML2023**)[[paper](https://arxiv.org/abs/2304.04158)]
 - <a name="todo"></a> Self-regulating Prompts: Foundational Model Adaptation without Forgetting (**ICCV 2023**)[[paper](https://arxiv.org/abs/2307.06948)][[code](https://github.com/muzairkhattak/PromptSRC)]
+- <a name="todo"></a> Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning (**ICCV 2023**)[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Shi_Prototype_Reminiscence_and_Augmented_Asymmetric_Knowledge_Aggregation_for_Non-Exemplar_Class-Incremental_ICCV_2023_paper.html)][[code](https://github.com/ShiWuxuan/PRAKA)]
 - <a name="todo"></a> Tangent Model Composition for Ensembling and Continual Fine-tuning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2307.08114)][[code](https://github.com/tianyu139/tangent-model-composition)]
 - <a name="todo"></a> CBA: Improving Online Continual Learning via Continual Bias Adaptor (**ICCV 2023**)[[paper](https://browse.arxiv.org/pdf/2308.06925.pdf)]
 - <a name="todo"></a> CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation (**ICCV 2023**)[[paper](https://browse.arxiv.org/pdf/2308.07146.pdf)][[code](https://github.com/KevinLight831/CTP)]
@@ -141,15 +142,14 @@
 - <a name="todo"></a>On the Soft-Subnetwork for Few-Shot Class Incremental Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=z57WK5lGeHd)]
 - <a name="todo"></a>Task-Aware Information Routing from Common Representation Space in Lifelong Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=-M0TNnyWFT5)]
 - <a name="todo"></a>Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=zlbci7019Z3)]
-
-
 - <a name="todo"></a> Neural Weight Search for Scalable Task Incremental Learning (**WACV2023**)[[paper]( https://arxiv.org/abs/2211.13823)] 
 - <a name="todo"></a> Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation (**WACV2023**)[[paper]( https://arxiv.org/abs/2210.07207)] 
 - <a name="todo"></a> FeTrIL: Feature Translation for Exemplar-Free Class-Incremental Learning (**WACV2023**)[[paper]( https://arxiv.org/abs/2211.13131)] 
 - <a name="todo"></a> Do Pre-trained Models Benefit Equally in Continual Learning? (**WACV2023**)[[paper]( https://arxiv.org/abs/2210.15701)] [[code](https://github.com/eric11220/pretrained-models-in-CL)]
 - <a name="todo"></a> Sparse Coding in a Dual Memory System for Lifelong Learning (**AAAI2023**)[[paper]( https://arxiv.org/abs/2301.05058)] [[code](https://github.com/NeurAI-Lab/SCoMMER)]
-### 2022
 
+### 2022
+- <a name="todo"></a> Online Continual Learning through Mutual Information Maximization (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/guo22g.html)] 
 - <a name="todo"></a> Prototype-guided continual adaptation for class-incremental unsupervised domain adaptation (**ECCV2022**)[[paper]( https://arxiv.org/pdf/2207.10856.pdf)] [[code](https://github.com/Hongbin98/ProCA)]
 - <a name="todo"></a> Balanced softmax cross-entropy for incremental learning with and without memory (**CVIU**)[[paper](https://www.sciencedirect.com/science/article/pii/S1077314222001606)] 
 - <a name="todo"></a> Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection (**COLING2022**) [[paper](https://arxiv.org/abs/2204.07275)] [[code]( https://github.com/VT-NLP/Incremental_Prompting)]
