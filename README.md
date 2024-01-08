@@ -1,6 +1,7 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
 - <a name="todo"></a> A Comprehensive Empirical Evaluation on Online Continual Learning (**ICCV Workshop 2023**)  [[paper](https://arxiv.org/abs/2308.10328)][[code](https://github.com/AlbinSou/ocl_survey)]
+- <a name="todo"></a> A Survey on Few-Shot Class-Incremental Learning (**Neural Networks 2024**) [[paper](https://doi.org/10.1016/j.neunet.2023.10.039)]
 - <a name="todo"></a> A wholistic view of continual learning with deep neural networks: Forgotten lessons and the bridge to active and open world learning (**Neural Networks 2023**)  [[paper](https://www.sciencedirect.com/science/article/pii/S089360802300014X)]
 - <a name="todo"></a>An Introduction to Lifelong Supervised Learning (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2207.04354)]
 - <a name="todo"></a> A Survey on Incremental Update for Neural Recommender Systems (**arXiv 2023**)  [[paper](https://arxiv.org/abs/2303.02851#)]
