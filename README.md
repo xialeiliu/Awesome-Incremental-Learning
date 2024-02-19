@@ -44,7 +44,7 @@
 - <a name="todo"></a > A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2311.07784.pdf)]
 - <a name="todo"></a > Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2312.05229.pdf)]
 - <a name="todo"></a > A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm  (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2310.12244.pdf)][[code](https://github.com/Wang-ML-Lab/unified-continual-learning)]
-- <a name="todo"></a> Minimax Forward and Backward Learning of Evolving Tasks with Performance Guarantees (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2310.15974.pdf)]
+- <a name="todo"></a> Minimax Forward and Backward Learning of Evolving Tasks with Performance Guarantees (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2310.15974.pdf)][[code](https://github.com/MachineLearningBCAM/IMRCs-for-incremental-learning-NeurIPS-2023)]
 - <a name="todo"></a> Recasting Continual Learning as Sequence Modeling (**NeurIPS 2023**)[[paper](https://arxiv.org/pdf/2310.11952.pdf)]
 - <a name="todo"></a> Augmented Memory Replay-based Continual Learning Approaches for Network Intrusion Detection (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=yGLokEhdh9)]
 - <a name="todo"></a> Does Continual Learning Meet Compositionality? New Benchmarks and An Evaluation Framework (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=38bZuqQOhC)]
