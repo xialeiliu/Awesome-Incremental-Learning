@@ -59,6 +59,8 @@
 
 
 ### 2023
+- <a name="todo"></a> RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation
+ (**CoLLAs 2023**) [[paper](https://proceedings.mlr.press/v232/roy23a.html)] [[code](https://github.com/naver/rasp)]
 - <a name="todo"></a> Sub-network Discovery and Soft-masking for Continual Learning of Mixed Tasks (**EMNLP 2023**)[[paper](https://arxiv.org/abs/2310.09436)]
 - <a name="todo"></a > Incorporating neuro-inspired adaptability for continual learning in artificial intelligence (**Nature Machine Intelligence 2023**) [[paper](https://www.nature.com/articles/s42256-023-00747-w)]
 - <a name="todo"></a > Loss Decoupling for Task-Agnostic Continual Learning (**NeurIPS 2023**) [[paper](https://openreview.net/pdf?id=9Oi3YxIBSa)]
