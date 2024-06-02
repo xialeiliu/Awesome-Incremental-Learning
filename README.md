@@ -24,6 +24,7 @@
 
 ### 2024
 
+- <a name="todo"></a> Convolutional Prompting meets Language Models for Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/pdf/2403.20317)][[code](https://github.com/CVIR/ConvPrompt)]
 - <a name="todo"></a> Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.12030)][[code](https://github.com/sun-hailong/CVPR24-Ease)]
 - <a name="todo"></a> Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.02117)][[code]([https://github.com/AnAppleCore/MOSE](https://github.com/KHU-AGI/PriViLege))]
 - <a name="todo"></a> Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.00417)][[code](https://github.com/AnAppleCore/MOSE)]
@@ -57,7 +58,9 @@
 - <a name="todo"></a> Divide and not forget: Ensemble of selectively trained experts in Continual Learning (**ICLR2024**)[[paper](https://arxiv.org/abs/2401.10191)][[code](https://github.com/grypesc/SEED)]
 - <a name="todo"></a> Evolving Parameterized Prompt Memory for Continual Learning (**AAAI2024**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29231)][[code](https://github.com/MIV-XJTU/EvoPrompt)]
 - <a name="todo"></a> Towards Continual Learning Desiderata via HSIC-Bottleneck Orthogonalization and Equiangular Embedding (**AAAI2024**)[[paper](https://arxiv.org/abs/2401.09067)] 
-- <a name="todo"></a> Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2312.12722)] 
+- <a name="todo"></a> Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2312.12722)]
+- <a name="todo"></a>  Class-Incremental Learning: Cross-Class Feature Augmentation for Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2304.01899)] 
+- <a name="todo"></a>  MIND: Multi-Task Incremental Network Distillation (**AAAI2024**)[[paper](https://arxiv.org/abs/2312.02916)][[code](https://github.com/Lsabetta/MIND)]
 - <a name="todo"></a> Adapt Your Teacher: Improving Knowledge Distillation for Exemplar-free Continual Learning (**WACV2024**)[[paper](https://arxiv.org/abs/2308.09544)][[code](https://github.com/fszatkowski/cl-teacher-adaptation)]
 - <a name="todo"></a> Plasticity-Optimized Complementary Networks for Unsupervised Continual (**WACV2024**)[[paper](https://arxiv.org/abs/2309.06086)]
 - <a name="todo"></a> Online Class-Incremental Learning For Real-World Food Image Classification (**WACV2024**)[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Raghavan_Online_Class-Incremental_Learning_for_Real-World_Food_Image_Classification_WACV_2024_paper.pdf)]
@@ -103,6 +106,7 @@
 - <a name="todo"></a> Continual Vision-Language Representation Learning with Off-Diagonal Information (**ICML2023**)[[paper](https://arxiv.org/abs/2305.07437)]
 - <a name="todo"></a> Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning (**ICML2023**)[[paper](https://arxiv.org/abs/2303.14771)]
 - <a name="todo"></a> Does Continual Learning Equally Forget All Parameters? (**ICML2023**)[[paper](https://arxiv.org/abs/2304.04158)]
+- <a name="todo"></a> Growing a Brain with Sparsity-Inducing Generation for Continual Learning (**ICCV 2023**)[[paper]( https://openaccess.thecvf.com/content/ICCV2023/papers/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.pdf)][[code](https://github.com/Jin0316/GrowBrain)]
 - <a name="todo"></a> Self-regulating Prompts: Foundational Model Adaptation without Forgetting (**ICCV 2023**)[[paper](https://arxiv.org/abs/2307.06948)][[code](https://github.com/muzairkhattak/PromptSRC)]
 - <a name="todo"></a> Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning (**ICCV 2023**)[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Shi_Prototype_Reminiscence_and_Augmented_Asymmetric_Knowledge_Aggregation_for_Non-Exemplar_Class-Incremental_ICCV_2023_paper.html)][[code](https://github.com/ShiWuxuan/PRAKA)]
 - <a name="todo"></a> Tangent Model Composition for Ensembling and Continual Fine-tuning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2307.08114)][[code](https://github.com/tianyu139/tangent-model-composition)]
@@ -125,7 +129,7 @@
 - <a name="todo"></a> Learning to Learn: How to Continuously Teach Humans and Machines (**ICCV 2023**)[[paper](https://arxiv.org/abs/2211.15470)]
 - <a name="todo"></a> Audio-Visual Class-Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.11073)][[code](https://github.com/weiguoPian/AV-CIL_ICCV2023)]
 - <a name="todo"></a> MetaGCD: Learning to Continually Learn in Generalized Category Discovery (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.11063)]
-- <a name="todo"></a> Exemplar-Free Continual Transformer with Convolutions (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.11357)]
+- <a name="todo"></a> Exemplar-Free Continual Transformer with Convolutions (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.11357)][[code](https://github.com/CVIR/contracon)]
 - <a name="todo"></a> A Unified Continual Learning Framework with General Parameter-Efficient Tuning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2303.10070)]
 - <a name="todo"></a> Incremental Generalized Category Discovery (**ICCV 2023**)[[paper](https://arxiv.org/abs/2304.14310)]
 - <a name="todo"></a> Heterogeneous Forgetting Compensation for Class-Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2308.03374.pdf)][[code](https://github.com/JiahuaDong/HFC)]
