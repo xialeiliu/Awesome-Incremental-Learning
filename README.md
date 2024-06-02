@@ -1,5 +1,6 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
+- <a name="todo"></a> Continual Learning of Large Language Models: A Comprehensive Survey (**arXiv 2024**)  [[paper](https://arxiv.org/abs/2404.16789)][[code](https://github.com/Wang-ML-Lab/llm-continual-learning-survey)]
 - <a name="todo"></a> A Comprehensive Survey of Continual Learning: Theory, Method and Application (**TPAMI 2024**)  [[paper](https://arxiv.org/abs/2302.00487)]
 - <a name="todo"></a> A Comprehensive Empirical Evaluation on Online Continual Learning (**ICCV Workshop 2023**)  [[paper](https://arxiv.org/abs/2308.10328)][[code](https://github.com/AlbinSou/ocl_survey)]
 - <a name="todo"></a> A Survey on Few-Shot Class-Incremental Learning (**Neural Networks 2024**) [[paper](https://doi.org/10.1016/j.neunet.2023.10.039)]
