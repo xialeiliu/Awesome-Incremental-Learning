@@ -23,6 +23,7 @@
 ## Papers
 
 ### 2024
+- <a name="todo"></a> Hierarchical Augmentation and Distillation for Class Incremental Audio-Visual Video Recognition (**TPAMI2024**)[[paper](https://ieeexplore.ieee.org/document/10497880)]
 - <a name="todo"></a> Continual Segmentation with Disentangled Objectness Learning and Class Recognition (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.03477)][[code](https://github.com/jordangong/CoMasTRe)]
 - <a name="todo"></a> Interactive Continual Learning: Fast and Slow Thinking (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.02628)][[code](http://github.com/ICL)]
 - <a name="todo"></a> InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.00228)][[code](https://github.com/liangyanshuo/InfLoRA)]
