@@ -108,6 +108,7 @@ imbalanced_cil)]
 - <a name="todo"></a> SIESTA: Efficient Online Continual Learning with Sleep (**TMLR 2023**)[[paper](https://arxiv.org/abs/2303.10725)]
 - <a name="todo"></a> Sub-network Discovery and Soft-masking for Continual Learning of Mixed Tasks (**EMNLP 2023**)[[paper](https://arxiv.org/abs/2310.09436)]
 - <a name="todo"></a > Incorporating neuro-inspired adaptability for continual learning in artificial intelligence (**Nature Machine Intelligence 2023**) [[paper](https://www.nature.com/articles/s42256-023-00747-w)]
+- <a name="todo"></a > Enhancing Knowledge Transfer for Task Incremental Learning with Data-free Subnetwork (**NeurIPS 2023**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf)] [[Code]](https://github.com/shanxiaojun/DSN)
 - <a name="todo"></a > Loss Decoupling for Task-Agnostic Continual Learning (**NeurIPS 2023**) [[paper](https://openreview.net/pdf?id=9Oi3YxIBSa)]
 - <a name="todo"></a > Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm  (**NeurIPS 2023**)[[paper](https://openreview.net/pdf?id=2dtU9ZbgSN)]
 - <a name="todo"></a > Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments  (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2305.15700)]
