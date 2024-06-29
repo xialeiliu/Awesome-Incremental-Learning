@@ -23,6 +23,19 @@
 ## Papers
 
 ### 2024
+- <a name="todo"></a> Compositional Few-Shot Class-Incremental Learning (**ICML24**)[[paper](https://openreview.net/attachment?id=t4908PyZxs&name=pdf)][[code](https://github.com/Zoilsen/Comp-FSCIL)]
+- <a name="todo"></a> Rapid Learning without Catastrophic Forgetting in the Morris Water Maze (**ICML24**)[[paper](https://openreview.net/attachment?id=i9C4Kwm56G&name=pdf)][[code](https://github.com/raymondw2/seq-wm)]
+- <a name="todo"></a> Understanding Forgetting in Continual Learning with Linear Regression (**ICML24**)[[paper](https://openreview.net/attachment?id=89kZWloYQx&name=pdf)]
+- <a name="todo"></a> Mitigating Catastrophic Forgetting in Online Continual Learning by Modeling Previous Task Interrelations via Pareto Optimization (**ICML24**)[[paper](https://openreview.net/attachment?id=olbTrkWo1D&name=pdf)]
+- <a name="todo"></a> Task-aware Orthogonal Sparse Network for Exploring Shared Knowledge in Continual Learning (**ICML24**)[[paper](https://openreview.net/attachment?id=V3ya8RlbrW&name=pdf)]
+- <a name="todo"></a> Provable Contrastive Continual Learning (**ICML24**)[[paper](https://openreview.net/attachment?id=tABvuya05B&name=pdf)]
+- <a name="todo"></a> Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental Learning Method (**ICML24**)[[paper](https://openreview.net/attachment?id=1AAlMSo7Js&name=pdf)][[code](https://github.com/NeurAI-Lab/DARE)]
+- <a name="todo"></a> An Effective Dynamic Gradient Calibration Method for Continual Learning (**ICML24**)[[paper](https://openreview.net/attachment?id=q14AbM4kdv&name=pdf)]
+- <a name="todo"></a> Federated Continual Learning via Prompt-based Dual Knowledge Transfer (**ICML24**)[[paper](https://openreview.net/attachment?id=Kqa5JakTjB&name=pdf)][[code](https://github.com/piaohongming/Powder)]
+- <a name="todo"></a> COPAL: Continual Pruning in Large Language Generative Models (**ICML24**)[[paper](https://openreview.net/attachment?id=Lt8Lk7IQ5b&name=pdf)]
+- <a name="todo"></a> One Size Fits All for Semantic Shifts: Adaptive Prompt Tuning for Continual Learning (**ICML24**)[[paper](https://openreview.net/attachment?id=WUi1AqhKn5&name=pdf)]
+
+
 - <a name="todo"></a> Hierarchical Augmentation and Distillation for Class Incremental Audio-Visual Video Recognition (**TPAMI2024**)[[paper](https://ieeexplore.ieee.org/document/10497880)]
 - <a name="todo"></a> Continual Segmentation with Disentangled Objectness Learning and Class Recognition (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.03477)][[code](https://github.com/jordangong/CoMasTRe)]
 - <a name="todo"></a> Interactive Continual Learning: Fast and Slow Thinking (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.02628)][[code](http://github.com/ICL)]
@@ -62,7 +75,7 @@
 - <a name="todo"></a> Resurrecting Old Classes with New Data for Exemplar-Free Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2405.19074)][[code](https://github.com/dipamgoswami/ADC)]
 - <a name="todo"></a> Convolutional Prompting meets Language Models for Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/pdf/2403.20317)][[code](https://github.com/CVIR/ConvPrompt)]
 - <a name="todo"></a> Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.12030)][[code](https://github.com/sun-hailong/CVPR24-Ease)]
-- <a name="todo"></a> Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.02117)][[code]([https://github.com/AnAppleCore/MOSE](https://github.com/KHU-AGI/PriViLege))]
+- <a name="todo"></a> Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.02117)][[code](https://github.com/KHU-AGI/PriViLege)]
 - <a name="todo"></a> Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.00417)][[code](https://github.com/AnAppleCore/MOSE)]
 
 - <a name="todo"></a> Elastic Feature Consolidation For Cold Start Exemplar-Free Incremental Learning (**ICLR2024**)[[paper](https://openreview.net/attachment?id=7D9X2cFnt1&name=pdf)][[code](https://github.com/simomagi/elastic_feature_consolidation)]
