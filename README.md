@@ -23,6 +23,7 @@
 ## Papers
 
 ### 2024
+- <a name = "todo"></a> DELTA: Decoupling Long-Tailed Online Continual Learning (**CVPR2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Raghavan_DELTA_Decoupling_Long-Tailed_Online_Continual_Learning_CVPRW_2024_paper.pdf)]
 - <a name="todo"></a> Compositional Few-Shot Class-Incremental Learning (**ICML24**)[[paper](https://openreview.net/attachment?id=t4908PyZxs&name=pdf)][[code](https://github.com/Zoilsen/Comp-FSCIL)]
 - <a name="todo"></a> Rapid Learning without Catastrophic Forgetting in the Morris Water Maze (**ICML24**)[[paper](https://openreview.net/attachment?id=i9C4Kwm56G&name=pdf)][[code](https://github.com/raymondw2/seq-wm)]
 - <a name="todo"></a> Understanding Forgetting in Continual Learning with Linear Regression (**ICML24**)[[paper](https://openreview.net/attachment?id=89kZWloYQx&name=pdf)]
