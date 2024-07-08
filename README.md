@@ -23,6 +23,16 @@
 ## Papers
 
 ### 2024
+- <a name="todo"></a> Harnessing Neural Unit Dynamics for Effective and Scalable Class-Incremental Learning (**ICML24**)[[paper](https://arxiv.org/abs/2406.02428)]
+- <a name="todo"></a> Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning (**ICML24**)[[paper](https://openreview.net/pdf?id=aksdU1KOpT)][[code](https://github.com/bwnzheng/MRFA_ICML2024)]
+- <a name="todo"></a> Regularizing with Pseudo-Negatives for Continual Self-Supervised Learning (**ICML24**)[[paper](https://arxiv.org/abs/2306.05101)]
+- <a name="todo"></a> Learning to Continually Learn with the Bayesian Principle (**ICML24**)[[paper](https://arxiv.org/abs/2405.18758)][[code](https://github.com/soochan-lee/SB-MCL)]
+- <a name="todo"></a> Rethinking Momentum Knowledge Distillation in Online Continual Learning (**ICML24**)[[paper](https://arxiv.org/abs/2309.02870)][[code](https://github.com/Nicolas1203/mkd_ocl)]
+- <a name="todo"></a> Layerwise Proximal Replay: A Proximal Point Method for Online Continual Learning (**ICML24**)[[paper](https://arxiv.org/abs/2402.09542)]
+- <a name="todo"></a> Bayesian Adaptation of Network Depth and Width for Continual Learning (**ICML24**)[[paper](https://openreview.net/pdf?id=c9HddKGiYk)]
+- <a name="todo"></a> STELLA: Continual Audio-Video Pre-training with SpatioTemporal Localized Alignment (**ICML24**)[[paper](https://arxiv.org/pdf/2310.08204)][[code](https://github.com/G-JWLEE/STELLA_code)]
+- <a name="todo"></a> On the Diminishing Returns of Width for Continual Learning (**ICML24**)[[paper](https://arxiv.org/abs/2403.06398)][[code](https://github.com/vihan-lakshman/diminishing-returns-wide-continual-learning)]
+
 - <a name="todo"></a> Compositional Few-Shot Class-Incremental Learning (**ICML24**)[[paper](https://openreview.net/attachment?id=t4908PyZxs&name=pdf)][[code](https://github.com/Zoilsen/Comp-FSCIL)]
 - <a name="todo"></a> Rapid Learning without Catastrophic Forgetting in the Morris Water Maze (**ICML24**)[[paper](https://openreview.net/attachment?id=i9C4Kwm56G&name=pdf)][[code](https://github.com/raymondw2/seq-wm)]
 - <a name="todo"></a> Understanding Forgetting in Continual Learning with Linear Regression (**ICML24**)[[paper](https://openreview.net/attachment?id=89kZWloYQx&name=pdf)]
