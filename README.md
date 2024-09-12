@@ -25,6 +25,7 @@
 
 ### 2024
 - <a name="todo"></a> CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning (**BMVC24**)[[paper](https://arxiv.org/abs/2407.15793)][[code](https://github.com/aimagelab/mammoth)]
+- <a name="todo"></a> Class-incremental Learning for Time Series: Benchmark and Evaluation (**KDD24**)[[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671581)][[code](https://github.com/zqiao11/TSCIL)]
 - <a name="todo"></a> Harnessing Neural Unit Dynamics for Effective and Scalable Class-Incremental Learning (**ICML24**)[[paper](https://arxiv.org/abs/2406.02428)]
 - <a name="todo"></a> Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning (**ICML24**)[[paper](https://openreview.net/pdf?id=aksdU1KOpT)][[code](https://github.com/bwnzheng/MRFA_ICML2024)]
 - <a name="todo"></a> Regularizing with Pseudo-Negatives for Continual Self-Supervised Learning (**ICML24**)[[paper](https://arxiv.org/abs/2306.05101)]
