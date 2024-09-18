@@ -1,5 +1,8 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
+- <a name="todo"></a> Catastrophic Forgetting in Deep Learning: A Comprehensive Taxonomy (**JBCS 2024**)  [[paper](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/3966)]
+- <a name="todo"></a> Class-Incremental Learning: A Survey (**TPAMI 2024**)  [[paper](https://arxiv.org/abs/2302.03648)][[code](https://github.com/zhoudw-zdw/CIL_Survey/)]
+- <a name="todo"></a> Continual Learning with Pre-Trained Models: A Survey (**IJCAI 2024**)  [[paper](https://arxiv.org/abs/2401.16386)][[code](https://github.com/sun-hailong/LAMDA-PILOT)]
 - <a name="todo"></a> Continual Learning of Large Language Models: A Comprehensive Survey (**arXiv 2024**)  [[paper](https://arxiv.org/abs/2404.16789)][[code](https://github.com/Wang-ML-Lab/llm-continual-learning-survey)]
 - <a name="todo"></a> A Comprehensive Survey of Continual Learning: Theory, Method and Application (**TPAMI 2024**)  [[paper](https://arxiv.org/abs/2302.00487)]
 - <a name="todo"></a> A Comprehensive Empirical Evaluation on Online Continual Learning (**ICCV Workshop 2023**)  [[paper](https://arxiv.org/abs/2308.10328)][[code](https://github.com/AlbinSou/ocl_survey)]
@@ -7,7 +10,6 @@
 - <a name="todo"></a> A wholistic view of continual learning with deep neural networks: Forgotten lessons and the bridge to active and open world learning (**Neural Networks 2023**)  [[paper](https://www.sciencedirect.com/science/article/pii/S089360802300014X)]
 - <a name="todo"></a>An Introduction to Lifelong Supervised Learning (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2207.04354)]
 - <a name="todo"></a> A Survey on Incremental Update for Neural Recommender Systems (**arXiv 2023**)  [[paper](https://arxiv.org/abs/2303.02851#)]
-- <a name="todo"></a> Deep Class-Incremental Learning: A Survey (**arXiv 2023**)  [[paper](https://arxiv.org/abs/2302.03648)]
 - <a name="todo"></a> Continual Learning of Natural Language Processing Tasks: A Survey (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2211.12701)]
 - <a name="todo"></a> Continual Learning for Real-World Autonomous Systems: Algorithms, Challenges and Frameworks (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2105.12374)]
 - <a name="todo"></a> Recent Advances of Continual Learning in Computer Vision: An Overview (**arXiv 2021**)  [[paper](https://arxiv.org/abs/2109.11369)]
@@ -23,6 +25,9 @@
 ## Papers
 
 ### 2024
+
+- <a name="todo"></a> Online Continuous Generalized Category Discovery (**ECCV24**)[[paper](https://arxiv.org/abs/2408.13492)][[code](https://github.com/KHU-AGI/OCGCD)]
+- <a name="todo"></a> Class-incremental Learning for Time Series: Benchmark and Evaluation (**KDD24**)[[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671581)][[code](https://github.com/zqiao11/TSCIL)]
 - <a name="todo"></a> Harnessing Neural Unit Dynamics for Effective and Scalable Class-Incremental Learning (**ICML24**)[[paper](https://arxiv.org/abs/2406.02428)]
 - <a name="todo"></a> Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning (**ICML24**)[[paper](https://openreview.net/pdf?id=aksdU1KOpT)][[code](https://github.com/bwnzheng/MRFA_ICML2024)]
 - <a name="todo"></a> Regularizing with Pseudo-Negatives for Continual Self-Supervised Learning (**ICML24**)[[paper](https://arxiv.org/abs/2306.05101)]
@@ -120,7 +125,8 @@
 - <a name="todo"></a> Evolving Parameterized Prompt Memory for Continual Learning (**AAAI2024**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29231)][[code](https://github.com/MIV-XJTU/EvoPrompt)]
 - <a name="todo"></a> Towards Continual Learning Desiderata via HSIC-Bottleneck Orthogonalization and Equiangular Embedding (**AAAI2024**)[[paper](https://arxiv.org/abs/2401.09067)] 
 - <a name="todo"></a> Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2312.12722)]
-- <a name="todo"></a>  Class-Incremental Learning: Cross-Class Feature Augmentation for Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2304.01899)] 
+- <a name="todo"></a>  Class-Incremental Learning: Cross-Class Feature Augmentation for Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2304.01899)]
+- <a name="todo"></a>  Learning Task-Aware Language-Image Representation for Class-Incremental Object Detection (**AAAI2024**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28537/29047)] 
 - <a name="todo"></a>  MIND: Multi-Task Incremental Network Distillation (**AAAI2024**)[[paper](https://arxiv.org/abs/2312.02916)][[code](https://github.com/Lsabetta/MIND)]
 - <a name="todo"></a> Adapt Your Teacher: Improving Knowledge Distillation for Exemplar-free Continual Learning (**WACV2024**)[[paper](https://arxiv.org/abs/2308.09544)][[code](https://github.com/fszatkowski/cl-teacher-adaptation)]
 - <a name="todo"></a> Plasticity-Optimized Complementary Networks for Unsupervised Continual (**WACV2024**)[[paper](https://arxiv.org/abs/2309.06086)]
