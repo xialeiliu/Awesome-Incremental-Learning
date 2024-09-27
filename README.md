@@ -57,7 +57,6 @@
 - <a name="todo"></a> Exemplar-free Continual Representation Learning via Learnable Drift Compensation (**ECCV24**)[[paper](https://arxiv.org/abs/2407.08536)][[code](https://github.com/alviur/ldc)]
 - <a name="todo"></a> Open-World Dynamic Prompt and Continual Visual Representation Learning (**ECCV24**)[[paper](https://arxiv.org/abs/2409.05312)]
 - <a name="todo"></a> Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning (**ECCV24**)[[paper](https://arxiv.org/abs/2409.01128)][[code](https://github.com/jinglin-liang/DDDR)]
-- <a name="todo"></a> Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning (**ECCV24**)[[paper](https://arxiv.org/abs/2407.13338)]
 - <a name="todo"></a> PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery (**ECCV24**)[[paper](https://arxiv.org/abs/2407.19001)][[code](https://visual-ai.github.io/promptccd)]
 - <a name="todo"></a> MagMax: Leveraging Model Merging for Seamless Continual Learning (**ECCV24**)[[paper](https://arxiv.org/abs/2407.06322)][[code](https://github.com/danielm1405/magmax)]
 - <a name="todo"></a> Anytime Continual Learning for Open Vocabulary Classification (**ECCV24**)[[paper](https://arxiv.org/abs/2409.08518v1)][[code](https://github.com/jessemelpolio/AnytimeCL)]
