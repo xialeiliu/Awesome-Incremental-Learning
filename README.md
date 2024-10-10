@@ -25,6 +25,7 @@
 ## Papers
 
 ### 2024
+- <a name="todo"></a> Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2410.06535)][[code](https://github.com/mashijie1028/Happy-CGCD)]
 - <a name="todo"></a> Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation (**ECCV24**)[[paper](https://arxiv.org/abs/2407.14142)][[code](https://github.com/zhengyuan-xie/ECCV24_NeST)]
 - <a name="todo"></a> Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion (**ECCV24**)[[paper](https://arxiv.org/abs/2407.14143)][[code](https://github.com/linlany/RAPF)]
 - <a name="todo"></a> Bridge Past and Future: Overcoming Information Asymmetry in Incremental Object Detection (**ECCV24**)[[paper](https://arxiv.org/abs/2407.11499)][[code](https://github.com/iSEE-Laboratory/BPF)]
