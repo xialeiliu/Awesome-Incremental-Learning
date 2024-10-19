@@ -25,6 +25,7 @@
 ## Papers
 
 ### 2024
+- <a name="todo"></a> Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2410.06535)][[code](https://github.com/mashijie1028/Happy-CGCD)]
 - <a name="todo"></a> Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation (**ECCV24**)[[paper](https://arxiv.org/abs/2407.14142)][[code](https://github.com/zhengyuan-xie/ECCV24_NeST)]
 - <a name="todo"></a> Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion (**ECCV24**)[[paper](https://arxiv.org/abs/2407.14143)][[code](https://github.com/linlany/RAPF)]
 - <a name="todo"></a> Bridge Past and Future: Overcoming Information Asymmetry in Incremental Object Detection (**ECCV24**)[[paper](https://arxiv.org/abs/2407.11499)][[code](https://github.com/iSEE-Laboratory/BPF)]
@@ -104,6 +105,7 @@
 
 
 - <a name="todo"></a> Hierarchical Augmentation and Distillation for Class Incremental Audio-Visual Video Recognition (**TPAMI2024**)[[paper](https://ieeexplore.ieee.org/document/10497880)]
+- - <a name="todo"></a> DELTA: Decoupling Long-Tailed Online Continual Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Raghavan_DELTA_Decoupling_Long-Tailed_Online_Continual_Learning_CVPRW_2024_paper.pdf)][[Code](https://gitlab.com/viper-purdue/delta)]
 - <a name="todo"></a> Continual Segmentation with Disentangled Objectness Learning and Class Recognition (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.03477)][[code](https://github.com/jordangong/CoMasTRe)]
 - <a name="todo"></a> Interactive Continual Learning: Fast and Slow Thinking (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.02628)][[code](http://github.com/ICL)]
 - <a name="todo"></a> InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.00228)][[code](https://github.com/liangyanshuo/InfLoRA)]
