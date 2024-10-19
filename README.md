@@ -35,7 +35,7 @@
 - <a name="todo"></a> Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer (**ECCV24**)[[paper](https://arxiv.org/abs/2404.14351)][[code](https://github.com/nianticlabs/acezero)]
 - <a name="todo"></a> Mitigating Background Shift in Class-Incremental Semantic Segmentation (**ECCV24**)[[paper](https://arxiv.org/abs/2407.11859)][[code](http://github.com/RoadoneP/ECCV2024_MBS)]
 - <a name="todo"></a> Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching (**ECCV24**)[[paper](https://arxiv.org/abs/2407.05005)]
-- <a name="todo"></a> Learning from the Web: Language Drives Weakly-Supervised Incremental Learning for Semantic Segmentation (**ECCV24**)[[paper](https://arxiv.org/abs/2407.13363)][[code](http://github.com/RoadoneP/ECCV2024_MBS)]
+- <a name="todo"></a> Learning from the Web: Language Drives Weakly-Supervised Incremental Learning for Semantic Segmentation (**ECCV24**)[[paper](https://arxiv.org/abs/2407.13363)][[code](https://github.com/dota-109/Web-WILSS)]
 - <a name="todo"></a> Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation (**ECCV24**)[[paper](https://arxiv.org/abs/2404.11981)]
 - <a name="todo"></a> Cs2K: Class-specific and Class-shared Knowledge Guidance for Incremental Semantic Segmentation (**ECCV24**)[[paper](https://arxiv.org/abs/2407.09047)]
 - <a name="todo"></a> DiffClass: Diffusion-Based Class Incremental Learning (**ECCV24**)[[paper](https://arxiv.org/abs/2403.05016)][[code](https://github.com/cr8br0ze/DiffClass-Code)]
