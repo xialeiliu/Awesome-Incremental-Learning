@@ -1,5 +1,6 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
+- <a name="todo"></a> Recent Advances of Multimodal Continual Learning: A Comprehensive Survey (**arXiv 2024**)  [[paper](https://arxiv.org/pdf/2410.05352)]
 - <a name="todo"></a> Catastrophic Forgetting in Deep Learning: A Comprehensive Taxonomy (**JBCS 2024**)  [[paper](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/3966)]
 - <a name="todo"></a> Class-Incremental Learning: A Survey (**TPAMI 2024**)  [[paper](https://arxiv.org/abs/2302.03648)][[code](https://github.com/zhoudw-zdw/CIL_Survey/)]
 - <a name="todo"></a> Continual Learning with Pre-Trained Models: A Survey (**IJCAI 2024**)  [[paper](https://arxiv.org/abs/2401.16386)][[code](https://github.com/sun-hailong/LAMDA-PILOT)]
