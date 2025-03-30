@@ -25,6 +25,9 @@
 - <a name="todo"></a> Three scenarios for continual learning (**Nature Machine Intelligence 2022**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 
+### 2025
+- <a name="todo"></a> LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (**CVPR2025**) [[paper](https://arxiv.org/abs/2503.18985)][[code](https://github.com/scarlet0703/LoRA-Sub-DRS)]
+
 ### 2024
 - <a name="todo"></a> GACL: Exemplar-Free Generalized Analytic Continual Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/7d7f8049c3a8d96f5824e696ca7a41551b337c51.pdf)][[code](https://github.com/CHEN-YIZHU/GACL)]
 - <a name="todo"></a> Continual Audio-Visual Sound Separation (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/fd25d9e8abc814ee3c5d1d374c127ffdda6c023a.pdf)][[code](https://github.com/weiguoPian/ContAV-Sep_NeurIPS2024)]
