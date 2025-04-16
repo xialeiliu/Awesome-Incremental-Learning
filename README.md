@@ -1,5 +1,6 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
+- <a name="todo"></a> Continual Learning With Knowledge Distillation: A Survey (**TNNLS 2024**)  [[paper](https://ieeexplore.ieee.org/document/10721446)]
 - <a name="todo"></a> Recent Advances of Multimodal Continual Learning: A Comprehensive Survey (**arXiv 2024**)  [[paper](https://arxiv.org/pdf/2410.05352)]
 - <a name="todo"></a> Catastrophic Forgetting in Deep Learning: A Comprehensive Taxonomy (**JBCS 2024**)  [[paper](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/3966)]
 - <a name="todo"></a> Class-Incremental Learning: A Survey (**TPAMI 2024**)  [[paper](https://arxiv.org/abs/2302.03648)][[code](https://github.com/zhoudw-zdw/CIL_Survey/)]
@@ -26,8 +27,44 @@
 ## Papers
 
 ### 2024
+
 - <a name="todo"></a> Mask and Compress: Efficient Skeleton-based Action Recognition in Continual Learning (**ICPR2024**) [[paper](https://arxiv.org/pdf/2407.01397)][[code](https://github.com/Sperimental3/CHARON)]
+- <a name="todo"></a> CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning (**BMVC24**)[[paper](https://arxiv.org/abs/2407.15793)][[code](https://github.com/aimagelab/mammoth)]
+- <a name="todo"></a> Learning a Low-Rank Feature Representation: Achieving Better Trade-Off between Stability and Plasticity in Continual Learning (**ICASSP2024**) [[paper](https://arxiv.org/abs/2312.08740)] [[code](https://github.com/Dacaidi/LRFR)]
+- <a name="todo"></a> Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2312.12722)] 
+- <a name="todo"></a> GACL: Exemplar-Free Generalized Analytic Continual Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/7d7f8049c3a8d96f5824e696ca7a41551b337c51.pdf)][[code](https://github.com/CHEN-YIZHU/GACL)]
+- <a name="todo"></a> Continual Audio-Visual Sound Separation (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/fd25d9e8abc814ee3c5d1d374c127ffdda6c023a.pdf)][[code](https://github.com/weiguoPian/ContAV-Sep_NeurIPS2024)]
+- <a name="todo"></a> F-OAL: Forward-only Online Analytic Learning with Fast Training and Low Memory Footprint in Class Incremental Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/e226708f2029c076b49ce0f8780b0b25c1a15cb8.pdf)][[code](https://github.com/liuyuchen-cz/F-OAL)]
+- <a name="todo"></a> Adaptive Visual Scene Understanding: Incremental Scene Graph Generation (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/8e577312ef669ee933f93b7513fcff4d94b2b848.pdf)][[code](https://github.com/ZhangLab-DeepNeuroCogLab/CSEGG)]
+- <a name="todo"></a> Task Confusion and Catastrophic Forgetting in Class-Incremental Learning: A Mathematical Framework for Discriminative and Generative Modelings (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/57bd4f3d82cf6a55dece2ea557e36fce58d61778.pdf)]
+- <a name="todo"></a> Forgetting, Ignorance or Myopia: Revisiting Key Challenges in Online Continual Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/f234665a6b29bf4968da01a5adc0303e595efb5c.pdf)][[code](https://github.com/wxr99/Forgetting-Ignorance-or-Myopia-Revisiting-Key-Challenges-in-Online-Continual-Learning)]
+- <a name="todo"></a> Continual Learning in the Frequency Domain (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/b2bc1d3b1cda2ea1944e24b02553a19d2c513437.pdf)][[code](https://github.com/EMLS-ICTCAS/CLFD.git)]
+- <a name="todo"></a> Saliency-driven Experience Replay for Continual Learning  (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/f3e3bc516755d6efa43fb0c62dea0d705efacfe7.pdf)][[code](https://github.com/perceivelab/SER)]
+- <a name="todo"></a> PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/10d19bfe9a28e15074dbb79450ad0e5bc9dde6e4.pdf)][[code](https://github.com/Jinec98/PCoTTA)]
+- <a name="todo"></a> Advancing Cross-domain Discriminability in Continual Learning of Vision-Language Models (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/f13992ea7e554b8fcfa2b120be55eeb89c25643f.pdf)][[code](https://github.com/linghan1997/Regression-based-Analytic-Incremental-Learning)]
+- <a name="todo"></a> Continual Learning with Global Alignment (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/0b2a82c75f549856c3b133f08c9abe7349c018d7.pdf)]
+- <a name="todo"></a> Disentangling and mitigating the impact of task similarity for continual learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/a615623ba5e9b57a77694d9816984ebb20ebf11f.pdf)]
+- <a name="todo"></a> Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/db512259110b000f82fd2052e9432dd693af4137.pdf)][[code](https://github.com/mala-lab/TPP)]
+- <a name="todo"></a> Make Continual Learning Stronger via C-Flat (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/be179393fb5b55da27facef791300b7cea7f22b0.pdf)][[code](https://github.com/WanNaa/C-Flat)]
+- <a name="todo"></a> ViLCo-Bench: VIdeo Language COntinual learning Benchmark (**NeurIPS 2024**) [[paper](https://arxiv.org/pdf/2406.13123)][[code](https://github.com/cruiseresearchgroup/ViLCo)]
+- <a name="todo"></a> Not Just Object, But State: Compositional Incremental Learning without Forgetting (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/e422a66571f0dfafe75b5c8ba1f75cb365fda448.pdf)][[code](https://github.com/Yanyi-Zhang/CompILer)]
+- <a name="todo"></a> Task-recency bias strikes back: Adapting covariances in Exemplar-Free Class Incremental Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/3b3eb9b8951efe8f03c3881dd21dd13da86a9383.pdf)][[code](https://github.com/grypesc/AdaGauss)]
+- <a name="todo"></a> Random Representations Outperform Online Continually Learned Representations (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2402.08823)][[code](https://github.com/drimpossible/RanDumb)]
+- <a name="todo"></a> Mixture of Experts Meets Prompt-Based Continual Learning (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2405.14124)][[code](https://github.com/Minhchuyentoancbn/MoE_PromptCL)]
+- <a name="todo"></a> SAFE: Slow and Fast Parameter-Efficient Tuning for Continual Learning with Pre-Trained Models (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/0d0cbd6d4b593d16bd3e4fb3e1b7c2e737e4a5c5.pdf)][[code](https://github.com/MIFA-Lab/SAFE)]
+- <a name="todo"></a> Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/2d2fc4beb4ba2418dd2a4c680959b5708e85b13e.pdf)][[code](https://github.com/ybseo-ac/TAALM)]
+- <a name="todo"></a> Persistence Homology Distillation for Semi-supervised Continual Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/5f6f27efbe92894d0e9f59692d4fee8538becfa1.pdf)][[code](https://github.com/fanyan0411/PsHD)]
+- <a name="todo"></a> Continual learning with the neural tangent ensemble (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/7ca99de5c6a3ad1c6a158db1bba6a3eb0841e7bc.pdf)]
+- <a name="todo"></a> Vector Quantization Prompting for Continual Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/fe56049dfd050804f643de97820660c0ab7ace62.pdf)][[code](https://github.com/jiaolifengmi/VQ-Prompt)]
+- <a name="todo"></a> CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/649fc2bc1d6ab7ff1bb07d921e2180c36c2ccf3b.pdf)][[code](https://github.com/srvCodes/clap4clip)]
+- <a name="todo"></a> An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/31dab3747597e8e344a3f1a522e12afb94978737.pdf)][[code](https://github.com/Arvin0313/Mecoin-GFSCIL.git)]
+- <a name="todo"></a> Label Delay in Online Continual Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/170ed172ba6d096fafba4f36e54f20fec4c17dcf.pdf)][[code](https://github.com/botcs/label-delay-exp)]
+- <a name="todo"></a> Visual Prompt Tuning in Null Space for Continual Learning (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2406.05658)][[code](https://github.com/zugexiaodui/VPTinNSforCL)]
+- <a name="todo"></a> Incremental Learning of Retrievable Skills For Efficient Continual Task Adaptation (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/4f1691d6d916f1f457cca7c2a9184a4911758a80.pdf)]
+- <a name="todo"></a> A Topology-aware Graph Coarsening Framework for Continual Graph Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/406408d7839e9d5c643715d8429ea93609e08c84.pdf)][[code](https://github.com/hanxiaoxue114/TACO)]
+- <a name="todo"></a> What Matters in Graph Class Incremental Learning? An Information Preservation Perspective (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/f16531b97e4d2d6593f7273b8e6bb7292070ff71.pdf)][[code](https://github.com/Jillian555/GSIP)]
 - <a name="todo"></a> Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2410.06535)][[code](https://github.com/mashijie1028/Happy-CGCD)]
+
 - <a name="todo"></a> Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation (**ECCV24**)[[paper](https://arxiv.org/abs/2407.14142)][[code](https://github.com/zhengyuan-xie/ECCV24_NeST)]
 - <a name="todo"></a> Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion (**ECCV24**)[[paper](https://arxiv.org/abs/2407.14143)][[code](https://github.com/linlany/RAPF)]
 - <a name="todo"></a> Bridge Past and Future: Overcoming Information Asymmetry in Incremental Object Detection (**ECCV24**)[[paper](https://arxiv.org/abs/2407.11499)][[code](https://github.com/iSEE-Laboratory/BPF)]
@@ -190,6 +227,9 @@
 
 
 ### 2023
+
+- <a name="todo"></a> RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation
+ (**CoLLAs 2023**) [[paper](https://proceedings.mlr.press/v232/roy23a.html)] [[code](https://github.com/naver/rasp)]
 - <a name="todo"></a> SIESTA: Efficient Online Continual Learning with Sleep (**TMLR 2023**)[[paper](https://arxiv.org/abs/2303.10725)]
 - <a name="todo"></a> Sub-network Discovery and Soft-masking for Continual Learning of Mixed Tasks (**EMNLP 2023**)[[paper](https://arxiv.org/abs/2310.09436)]
 - <a name="todo"></a > Incorporating neuro-inspired adaptability for continual learning in artificial intelligence (**Nature Machine Intelligence 2023**) [[paper](https://www.nature.com/articles/s42256-023-00747-w)]
