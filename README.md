@@ -27,7 +27,12 @@
 ## Papers
 
 ### 2025
+
+- <a name="todo"></a> HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning (**TPAMI 2025**) [[paper](https://github.com/thu-ml/HiDe-PET)]
+- <a name="todo"></a> Advancing Prompt-based Methods for Replay-Independent General Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=V6uxd8MEqw)][[code](https://github.com/kangzhiq/MISA)]
+- <a name="todo"></a> Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality (**VR-TVCG 2025**) [[paper](https://arxiv.org/abs/2502.19644)][[code](https://github.com/ZhouKanglei/ASAL_CVQA)]
 - <a name="todo"></a> LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (**CVPR2025**) [[paper](https://arxiv.org/abs/2503.18985)][[code](https://github.com/scarlet0703/LoRA-Sub-DRS)]
+
 
 ### 2024
 
@@ -68,6 +73,7 @@
 - <a name="todo"></a> What Matters in Graph Class Incremental Learning? An Information Preservation Perspective (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/f16531b97e4d2d6593f7273b8e6bb7292070ff71.pdf)][[code](https://github.com/Jillian555/GSIP)]
 - <a name="todo"></a> Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2410.06535)][[code](https://github.com/mashijie1028/Happy-CGCD)]
 
+- <a name="todo"></a> MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment (**ECCV 2024**) [[paper](https://arxiv.org/abs/2403.04398)][[code](https://github.com/ZhouKanglei/MAGR_CAQA)]
 - <a name="todo"></a> Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation (**ECCV24**)[[paper](https://arxiv.org/abs/2407.14142)][[code](https://github.com/zhengyuan-xie/ECCV24_NeST)]
 - <a name="todo"></a> Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion (**ECCV24**)[[paper](https://arxiv.org/abs/2407.14143)][[code](https://github.com/linlany/RAPF)]
 - <a name="todo"></a> Bridge Past and Future: Overcoming Information Asymmetry in Incremental Object Detection (**ECCV24**)[[paper](https://arxiv.org/abs/2407.11499)][[code](https://github.com/iSEE-Laboratory/BPF)]
