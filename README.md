@@ -144,7 +144,8 @@
 
 
 - <a name="todo"></a> Hierarchical Augmentation and Distillation for Class Incremental Audio-Visual Video Recognition (**TPAMI2024**)[[paper](https://ieeexplore.ieee.org/document/10497880)]
-- - <a name="todo"></a> DELTA: Decoupling Long-Tailed Online Continual Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Raghavan_DELTA_Decoupling_Long-Tailed_Online_Continual_Learning_CVPRW_2024_paper.pdf)][[Code](https://gitlab.com/viper-purdue/delta)]
+- <a name="todo"></a> AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_AIDE_An_Automatic_Data_Engine_for_Object_Detection_in_Autonomous_CVPR_2024_paper.html)]
+- <a name="todo"></a> DELTA: Decoupling Long-Tailed Online Continual Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Raghavan_DELTA_Decoupling_Long-Tailed_Online_Continual_Learning_CVPRW_2024_paper.pdf)][[Code](https://gitlab.com/viper-purdue/delta)]
 - <a name="todo"></a> Continual Segmentation with Disentangled Objectness Learning and Class Recognition (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.03477)][[code](https://github.com/jordangong/CoMasTRe)]
 - <a name="todo"></a> Interactive Continual Learning: Fast and Slow Thinking (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.02628)][[code](http://github.com/ICL)]
 - <a name="todo"></a> InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.00228)][[code](https://github.com/liangyanshuo/InfLoRA)]
