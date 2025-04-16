@@ -26,6 +26,9 @@
 ## Papers
 
 ### 2024
+
+- <a name="todo"></a> Learning a Low-Rank Feature Representation: Achieving Better Trade-Off between Stability and Plasticity in Continual Learning (**ICASSP2024**) [[paper](https://arxiv.org/abs/2312.08740)] [[code](https://github.com/Dacaidi/LRFR)]
+- <a name="todo"></a> Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2312.12722)] 
 - <a name="todo"></a> GACL: Exemplar-Free Generalized Analytic Continual Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/7d7f8049c3a8d96f5824e696ca7a41551b337c51.pdf)][[code](https://github.com/CHEN-YIZHU/GACL)]
 - <a name="todo"></a> Continual Audio-Visual Sound Separation (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/fd25d9e8abc814ee3c5d1d374c127ffdda6c023a.pdf)][[code](https://github.com/weiguoPian/ContAV-Sep_NeurIPS2024)]
 - <a name="todo"></a> F-OAL: Forward-only Online Analytic Learning with Fast Training and Low Memory Footprint in Class Incremental Learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/e226708f2029c076b49ce0f8780b0b25c1a15cb8.pdf)][[code](https://github.com/liuyuchen-cz/F-OAL)]
