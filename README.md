@@ -28,6 +28,7 @@
 
 ### 2024
 
+- <a name="todo"></a> Mask and Compress: Efficient Skeleton-based Action Recognition in Continual Learning (**ICPR2024**) [[paper](https://arxiv.org/pdf/2407.01397)][[code](https://github.com/Sperimental3/CHARON)]
 - <a name="todo"></a> CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning (**BMVC24**)[[paper](https://arxiv.org/abs/2407.15793)][[code](https://github.com/aimagelab/mammoth)]
 - <a name="todo"></a> Learning a Low-Rank Feature Representation: Achieving Better Trade-Off between Stability and Plasticity in Continual Learning (**ICASSP2024**) [[paper](https://arxiv.org/abs/2312.08740)] [[code](https://github.com/Dacaidi/LRFR)]
 - <a name="todo"></a> Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2312.12722)] 
@@ -218,7 +219,7 @@
 - <a name="todo"></a> Towards Continual Learning Desiderata via HSIC-Bottleneck Orthogonalization and Equiangular Embedding (**AAAI2024**)[[paper](https://arxiv.org/abs/2401.09067)]
 - <a name="todo"></a> Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2312.12722)]
 - <a name="todo"></a>  Class-Incremental Learning: Cross-Class Feature Augmentation for Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2304.01899)]
-- <a name="todo"></a>  Learning Task-Aware Language-Image Representation for Class-Incremental Object Detection (**AAAI2024**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28537/29047)] 
+- <a name="todo"></a>  Learning Task-Aware Language-Image Representation for Class-Incremental Object Detection (**AAAI2024**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28537/29047)]
 - <a name="todo"></a>  MIND: Multi-Task Incremental Network Distillation (**AAAI2024**)[[paper](https://arxiv.org/abs/2312.02916)][[code](https://github.com/Lsabetta/MIND)]
 - <a name="todo"></a> Adapt Your Teacher: Improving Knowledge Distillation for Exemplar-free Continual Learning (**WACV2024**)[[paper](https://arxiv.org/abs/2308.09544)][[code](https://github.com/fszatkowski/cl-teacher-adaptation)]
 - <a name="todo"></a> Plasticity-Optimized Complementary Networks for Unsupervised Continual (**WACV2024**)[[paper](https://arxiv.org/abs/2309.06086)]
