@@ -26,6 +26,9 @@
 - <a name="todo"></a> Three scenarios for continual learning (**Nature Machine Intelligence 2022**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
 ## Papers
 
+### 2025
+- <a name="todo"></a> LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (**CVPR2025**) [[paper](https://arxiv.org/abs/2503.18985)][[code](https://github.com/scarlet0703/LoRA-Sub-DRS)]
+
 ### 2024
 
 - <a name="todo"></a> Mask and Compress: Efficient Skeleton-based Action Recognition in Continual Learning (**ICPR2024**) [[paper](https://arxiv.org/pdf/2407.01397)][[code](https://github.com/Sperimental3/CHARON)]
