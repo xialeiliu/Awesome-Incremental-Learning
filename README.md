@@ -9,7 +9,7 @@
 - <a name="todo"></a> A Comprehensive Survey of Continual Learning: Theory, Method and Application (**TPAMI 2024**)  [[paper](https://arxiv.org/abs/2302.00487)]
 - <a name="todo"></a> A Comprehensive Empirical Evaluation on Online Continual Learning (**ICCV Workshop 2023**)  [[paper](https://arxiv.org/abs/2308.10328)][[code](https://github.com/AlbinSou/ocl_survey)]
 - <a name="todo"></a> A Survey on Few-Shot Class-Incremental Learning (**Neural Networks 2024**) [[paper](https://doi.org/10.1016/j.neunet.2023.10.039)]
-- <a name="todo"></a> A holistic view of continual learning with deep neural networks: Forgotten lessons and the bridge to active and open world learning (**Neural Networks 2023**)  [[paper](https://www.sciencedirect.com/science/article/pii/S089360802300014X)]
+- <a name="todo"></a> A wholistic view of continual learning with deep neural networks: Forgotten lessons and the bridge to active and open world learning (**Neural Networks 2023**)  [[paper](https://www.sciencedirect.com/science/article/pii/S089360802300014X)]
 - <a name="todo"></a>An Introduction to Lifelong Supervised Learning (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2207.04354)]
 - <a name="todo"></a> A Survey on Incremental Update for Neural Recommender Systems (**arXiv 2023**)  [[paper](https://arxiv.org/abs/2303.02851#)]
 - <a name="todo"></a> Continual Learning of Natural Language Processing Tasks: A Survey (**arXiv 2022**)  [[paper](https://arxiv.org/abs/2211.12701)]
@@ -23,15 +23,45 @@
 - <a name="todo"></a> A continual learning survey: Defying forgetting in classification tasks (**TPAMI 2021**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9349197) [[arxiv](https://arxiv.org/pdf/1909.08383.pdf)]
 - <a name="todo"></a> Continual Lifelong Learning with Neural Networks: A Review
  (**Neural Networks**) [[paper](https://arxiv.org/abs/1802.07569)]
-- <a name="todo"></a> Three scenarios for continual learning (**Nature Machine Intelligence 2022**)  [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/Ethanhuhuhu/KAC)]
+- <a name="todo"></a> Three scenarios for continual learning (**Nature Machine Intelligence 2022**)  [[paper](https://openreview.net/forum?id=9aZ2ixiYGd)][[code](https://github.com/GMvandeVen/continual-learning)]
 
 ## Papers
 ### 2025
+- <a name="todo"></a> Prototype antithesis for biological few-shot class-incremental learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=mAztx8QO3B)]
+- <a name="todo"></a> Coreset Selection via Reducible Loss in Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=mAztx8QO3B)][[code](https://github.com/RuilinTong/CSReL-Coreset-CL)]
+- <a name="todo"></a> LOIRE: LifelOng learning on Incremental data via pre-trained language model gRowth Efficiently (**ICLR 2025**) [[paper](https://openreview.net/forum?id=F5PlYMC5ik)]
+- <a name="todo"></a> Active Learning for Continual Learning: Keeping the Past Alive in the PresentActive Learning for Continual Learning: Keeping the Past Alive in the Present (**ICLR 2025**) [[paper](https://openreview.net/forum?id=mnLmmtW7HO)]
+- <a name="todo"></a> TSVD: Bridging Theory and Practice in Continual Learning with Pre-trained Models (**ICLR 2025**) [[paper](https://openreview.net/forum?id=bqv7M0wc4x)][[code](https://github.com/liangzu/tsvd)]
+- <a name="todo"></a> On Large Language Model Continual Unlearning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=Essg9kb4yx)][[code](https://github.com/GCYZSL/O3-LLM-UNLEARNING)]
+- <a name="todo"></a> SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=5U1rlpX68A)][[code](https://github.com/WuYichen-97/SD-Lora-CL)]
+- <a name="todo"></a> Federated Class-Incremental Learning: A Hybrid Approach Using Latent Exemplars and Data-Free Techniques to Address Local and Global Forgetting (**ICLR 2025**) [[paper](https://openreview.net/forum?id=ydREOIttdC)]
+- <a name="todo"></a> ADAPT: Attentive Self-Distillation and Dual-Decoder Prediction Fusion for Continual Panoptic Segmentation (**ICLR 2025**) [[paper](https://openreview.net/forum?id=HF1UmIVv6a)][[code](https://github.com/Ze-Yang/ADAPT)]
+- <a name="todo"></a> Semantic Aware Representation Learning for Lifelong Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=WwwJfkGq0G)][[code](https://github.com/NeurAI-Lab/SARL.git)]
+- <a name="todo"></a> Spurious Forgetting in Continual Learning of Language Models (**ICLR 2025**) [[paper](https://openreview.net/forum?id=ScI7IlKGdI)][[code](https://github.com/zzz47zzz/spurious-forgetting)]
+- <a name="todo"></a> CLDyB: Towards Dynamic Benchmarking for Continual Learning with Pre-trained Models (**ICLR 2025**) [[paper](https://openreview.net/forum?id=RnxwxGXxex)][[code](https://github.com/szc12153/CLDyB)]
+- <a name="todo"></a> Theory on Mixture-of-Experts in Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=7XgKAabsPp)]
+- <a name="todo"></a> Boosting Multiple Views for pretrained-based Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=AZR4R3lw7y)]
+- <a name="todo"></a> STAR: Stability-Inducing Weight Perturbation for Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=6N5OM5Duuj)][[code](https://github.com/Gnomy17/STAR_CL)]
+- <a name="todo"></a> Optimal Protocols for Continual Learning via Statistical Physics and Control Theory (**ICLR 2025**) [[paper](https://openreview.net/forum?id=rhhQjGj09Al)]
+- <a name="todo"></a> Convergence and Implicit Bias of Gradient Descent on Continual Linear Classification (**ICLR 2025**) [[paper](https://openreview.net/forum?id=DTqx3iqjkz)]
+- <a name="todo"></a> Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=gc8QAQfXv6)][[code](https://github.com/GangweiJiang/FvForgetting)]
+- <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=OZVTqoli2N)][[code](https://github.com/aimagelab/mammoth)]
+- <a name="todo"></a> C-CLIP: Multimodal Continual Learning for Vision-Language Model (**ICLR 2025**) [[paper](https://openreview.net/forum?id=sb7qHFYwBc)][[code](https://github.com/SmallPigPeppa/C-CLIP)]
+- <a name="todo"></a> Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline (**ICLR 2025**) [[paper](https://openreview.net/forum?id=KAIqwkB3dT)][[code](https://github.com/hongjoon0805/Reset-Distill.git)]
+- <a name="todo"></a> Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline (**ICLR 2025**) [[paper](https://openreview.net/forum?id=KAIqwkB3dT)][[code](https://github.com/hongjoon0805/Reset-Distill.git)]
+- <a name="todo"></a> Adapt-$\infty$: Scalable Continual Multimodal Instruction Tuning via Dynamic Data Selection (**ICLR 2025**) [[paper](https://openreview.net/forum?id=EwFJaXVePUl)][[code](https://github.com/adymaharana/adapt-inf)]
+- <a name="todo"></a> Learning Continually by Spectral Regularization (**ICLR 2025**) [[paper](https://openreview.net/forum?id=Hcb2cgPbMg)]
+- <a name="todo"></a> Self-Normalized Resets for Plasticity in Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=G82uQztzxl)][[code](https://github.com/ajozefiak/SelfNormalizedResets)]
+- <a name="todo"></a> PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection (**ICLR 2025**) [[paper](https://openreview.net/forum?id=Iu8FVcUmVp)][[code](https://github.com/wang-qiuchen/PseDet)]
+- <a name="todo"></a> Meta-Continual Learning of Neural Fields (**ICLR 2025**) [[paper](https://openreview.net/forum?id=OCpxDSn0G4)][[code](https://github.com/seungyoon-woo/MCL-NF)]
+- <a name="todo"></a> Vision and Language Synergy for Rehearsal Free Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=9aZ2ixiYGd)][[code](https://github.com/anwarmaxsum/LEAPGEN)]
+- <a name="todo"></a> Advancing Prompt-based Methods for Replay-Independent General Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=V6uxd8MEqw)][[code](https://github.com/kangzhiq/MISA)]
+
 
 - <a name="todo"></a> LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (**CVPR2025**) [[paper](https://arxiv.org/abs/2503.18985)][[code](https://github.com/scarlet0703/LoRA-Sub-DRS)]
-- <a name="todo"></a> KAC: Kolmogorov-Arnold Classifier for Continual Learning (**CVPR2025**) [[paper](https://arxiv.org/pdf/2503.21076)][[code](https://github.com/scarlet0703/LoRA-Sub-DRS)]
+- <a name="todo"></a> KAC: Kolmogorov-Arnold Classifier for Continual Learning (**CVPR2025**) [[paper](https://arxiv.org/pdf/2503.21076)][[code](https://github.com/Ethanhuhuhu/KAC)]
 - <a name="todo"></a> HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning (**TPAMI 2025**) [[paper](https://github.com/thu-ml/HiDe-PET)]
-- <a name="todo"></a> Advancing Prompt-based Methods for Replay-Independent General Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=V6uxd8MEqw)][[code](https://github.com/kangzhiq/MISA)]
+
 - <a name="todo"></a> Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality (**VR-TVCG 2025**) [[paper](https://arxiv.org/abs/2502.19644)][[code](https://github.com/ZhouKanglei/ASAL_CVQA)]
 
 ### 2024
