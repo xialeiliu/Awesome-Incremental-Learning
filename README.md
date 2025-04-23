@@ -48,7 +48,6 @@
 - <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=OZVTqoli2N)][[code](https://github.com/aimagelab/mammoth)]
 - <a name="todo"></a> C-CLIP: Multimodal Continual Learning for Vision-Language Model (**ICLR 2025**) [[paper](https://openreview.net/forum?id=sb7qHFYwBc)][[code](https://github.com/SmallPigPeppa/C-CLIP)]
 - <a name="todo"></a> Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline (**ICLR 2025**) [[paper](https://openreview.net/forum?id=KAIqwkB3dT)][[code](https://github.com/hongjoon0805/Reset-Distill.git)]
-- <a name="todo"></a> Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline (**ICLR 2025**) [[paper](https://openreview.net/forum?id=KAIqwkB3dT)][[code](https://github.com/hongjoon0805/Reset-Distill.git)]
 - <a name="todo"></a> Adapt-$\infty$: Scalable Continual Multimodal Instruction Tuning via Dynamic Data Selection (**ICLR 2025**) [[paper](https://openreview.net/forum?id=EwFJaXVePUl)][[code](https://github.com/adymaharana/adapt-inf)]
 - <a name="todo"></a> Learning Continually by Spectral Regularization (**ICLR 2025**) [[paper](https://openreview.net/forum?id=Hcb2cgPbMg)]
 - <a name="todo"></a> Self-Normalized Resets for Plasticity in Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=G82uQztzxl)][[code](https://github.com/ajozefiak/SelfNormalizedResets)]
