@@ -30,7 +30,7 @@
 - <a name="todo"></a> Prototype antithesis for biological few-shot class-incremental learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=bRqaHn3J5I)]
 - <a name="todo"></a> Coreset Selection via Reducible Loss in Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=mAztx8QO3B)][[code](https://github.com/RuilinTong/CSReL-Coreset-CL)]
 - <a name="todo"></a> LOIRE: LifelOng learning on Incremental data via pre-trained language model gRowth Efficiently (**ICLR 2025**) [[paper](https://openreview.net/forum?id=F5PlYMC5ik)]
-- <a name="todo"></a> Active Learning for Continual Learning: Keeping the Past Alive in the PresentActive Learning for Continual Learning: Keeping the Past Alive in the Present (**ICLR 2025**) [[paper](https://openreview.net/forum?id=mnLmmtW7HO)]
+- <a name="todo"></a> Active Learning for Continual Learning: Keeping the Past Alive in the Present (**ICLR 2025**) [[paper](https://openreview.net/forum?id=mnLmmtW7HO)]
 - <a name="todo"></a> TSVD: Bridging Theory and Practice in Continual Learning with Pre-trained Models (**ICLR 2025**) [[paper](https://openreview.net/forum?id=bqv7M0wc4x)][[code](https://github.com/liangzu/tsvd)]
 - <a name="todo"></a> On Large Language Model Continual Unlearning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=Essg9kb4yx)][[code](https://github.com/GCYZSL/O3-LLM-UNLEARNING)]
 - <a name="todo"></a> SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=5U1rlpX68A)][[code](https://github.com/WuYichen-97/SD-Lora-CL)]
