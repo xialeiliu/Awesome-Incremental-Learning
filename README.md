@@ -27,6 +27,20 @@
 
 ## Papers
 ### 2025
+- <a name="todo"></a> Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.646.pdf)]
+- <a name="todo"></a> Serial Lifelong Editing via Mixture of Knowledge Expert (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.1492.pdf)]
+- <a name="todo"></a> Efficient Domain Continual pretraining by Mitigating the Stability Gap (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.1578.pdf)]
+- <a name="todo"></a> Neuron-Level Sequential Editing for Large Language Models (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.815.pdf)][[code](https://github.com/jianghoucheng/NSE)]
+
+- <a name="todo"></a> Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.940.pdf)][[code](https://github.com/sutakori/CLoRA)]
+- <a name="todo"></a> HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of Multimodal Large Language Model (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.666.pdf)][[code](https://github.com/Ghy0501/HiDe-LLaVA)]
+- <a name="todo"></a> Multi-Modality Expansion and Retention for LLMs through Parameter Merging and Decoupling (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.1491.pdf)]
+- <a name="todo"></a> Continual Gradient Low-Rank Projection Fine-Tuning for LLMs (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.721.pdf)][[code](https://github.com/Wcxwcxw/GORP)]
+- <a name="todo"></a> A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.537.pdf)][[code](https://github.com/zyzhang11/DGAR)]
+- <a name="todo"></a> Learn to Memorize: Scalable Continual Learning in Semiparametric Models with Mixture-of-Neighbors Induction Memory (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.1385.pdf)][[code](https://github.com/viniferagy/MoNIM)]
+- <a name="todo"></a> Don't Half-listen: Capturing Key-part Information in Continual Instruction Tuning (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.1153.pdf)]
+- <a name="todo"></a> Recurrent Knowledge Identification and Fusion for Language Model Continual Learning (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.1328.pdf)][[code](https://github.com/WoodScene/Recurrent_KIF)]
+- <a name="todo"></a> TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.1551.pdf)][[code](https://github.com/apple/ml-tic-lm)]
 - <a name="todo"></a> Exploiting Presentative Feature Distributions for Parameter-Efficient Continual Learning of Large Language Models (**ICML 2025**) [[paper](https://openreview.net/attachment?id=6udKBHc0Mr&name=pdf)][[code](https://github.com/ZERO-9215/Online-CL-LLMs)]
 - <a name="todo"></a> Towards Understanding Catastrophic Forgetting in Two-layer Convolutional Neural Networks (**ICML 2025**) [[paper](https://openreview.net/pdf?id=WkqZ6Qmmq2)]
 - <a name="todo"></a> Predicting the Susceptibility of Examples to Catastrophic Forgetting (**ICML 2025**) [[paper](https://arxiv.org/pdf/2406.09935)]
