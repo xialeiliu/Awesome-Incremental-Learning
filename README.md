@@ -28,6 +28,11 @@
 
 ## Papers
 ### 2025
+- <a name="todo"></a> Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning (**ICCV 2025**) [[paper](https://arxiv.org/abs/2507.09118)][[code](https://github.com/linlany/MindtheGap)]
+- <a name="todo"></a> Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning (**ICCV 2025**) [[paper](https://arxiv.org/abs/2507.21588v1)][[code](https://github.com/ENJOY-Yin-jiong/PHP)]
+- <a name="todo"></a> Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free Class-Incremental Learning (**ICCV 2025**) [[paper](https://arxiv.org/pdf/2503.07979)][[code](https://github.com/HaoranChen/Additive-Prompt-Tuning)]
+- <a name="todo"></a> RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning (**ICCV 2025**) [[paper](https://arxiv.org/abs/2507.22553)]
+- <a name="todo"></a> NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments (**ICCV 2025**) [[paper](https://arxiv.org/pdf/2506.23468)][[code](https://github.com/Feliciaxyao/NavMorph)]
 - <a name="todo"></a> VA-MoE: Variables-Adaptive Mixture of Experts for Incremental Weather Forecasting (**ICCV 2025**) [[paper](https://arxiv.org/abs/2412.02503)][[code](https://github.com/chenhao-zju/VAMoE)]
 - <a name="todo"></a> FG-OrIU: Towards Better Forgetting via Feature-Gradient Orthogonality for Incremental Unlearning (**ICCV 2025**) [[paper]()][[code](https://github.com/RAIAN08/FG-OrIU)]
 - <a name="todo"></a> SMoLoRA: Exploring and Defying Dual Catastrophic Forgetting in Continual Visual Instruction Tuning (**ICCV 2025**) [[paper](https://arxiv.org/abs/2411.13949)][[code](https://github.com/Minato-Zackie/SMoLoRA)]
@@ -48,12 +53,20 @@
 - <a name="todo"></a> Joint Diffusion Models in Continual Learning (**ICCV 2025**) [[paper](https://arxiv.org/pdf/2411.08224)]
 - <a name="todo"></a> External Knowledge Injection for CLIP-Based Class-Incremental Learning (**ICCV 2025**) [[paper](https://arxiv.org/pdf/2503.08510)][[code](https://github.com/LAMDA-CL/ICCV25-ENGINE)]
 - <a name="todo"></a> Divide-and-Conquer for Enhancing Unlabeled Learning, Stability, and Plasticity in Semi-supervised Continual Learning (**ICCV 2025**) [[paper](https://arxiv.org/pdf/2508.05316)][[code](https://github.com/NJUyued/USP4SSCL)]
+- <a name="todo"></a> Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models (**ICCV 2025**) [[paper](https://arxiv.org/pdf/2508.00260)]
+- <a name="todo"></a> CODE-CL: Conceptor-Based Gradient Projection for Deep Continual Learning (**ICCV 2025**) [[paper](https://arxiv.org/abs/2411.15235)][[code](https://github.com/mapolinario94/CODE-CL)]
 - <a name="todo"></a> Dual Domain Control via Active Learning for Remote Sensing Domain Incremental Object Detection (**ICCV 2025**) [[paper]()]
 - <a name="todo"></a> Feature Decomposition-Recomposition in Large Vision-Language Model for Few-Shot Class-Incremental Learning (**ICCV 2025**) [[paper]()]
 - <a name="todo"></a> Seeing 3D Through 2D Lenses: 3D Few-Shot Class-Incremental Learning via Cross-Modal Geometric Rectification (**ICCV 2025**) [[paper]()]
 - <a name="todo"></a> PLAN: Proactive Low-Rank Allocation for Continual Learning (**ICCV 2025**) [[paper]()]
 - <a name="todo"></a> Overcoming Dual Drift for Continual Long-Tailed Visual Question Answering (**ICCV 2025**) [[paper]()]
 - <a name="todo"></a> Continual Personalization for Diffusion Models (**ICCV 2025**) [[paper]()]
+- <a name="todo"></a> Task-Aware Prompt Gradient Projection for Parameter-Efficient Tuning Federated Class-Incremental Learning (**ICCV 2025**) [[paper]()]
+- <a name="todo"></a> Lark: Low-Rank Updates After Knowledge Localization for Few-shot Class-Incremental Learning (**ICCV 2025**) [[paper]()]
+- <a name="todo"></a> CoSMIC: Continual Self-supervised Learning for Multi-Domain Medical Imaging via Conditional Mutual Information Maximization (**ICCV 2025**) [[paper]()]
+- <a name="todo"></a> Flexi-FSCIL: Adaptive Knowledge Retention for Breaking the Stability-Plasticity Dilemma in Few-Shot Class-Incremental Learning (**ICCV 2025**) [[paper]()]
+- <a name="todo"></a> Generalization-Preserved Learning: Closing the Backdoor to Catastrophic Forgetting in Continual Deepfake Detection (**ICCV 2025**) [[paper]()]
+- <a name="todo"></a> A Tiny Change, A Giant Leap: Long-Tailed Class-Incremental Learning via Geometric Prototype Alignment (**ICCV 2025**) [[paper]()]
 
 - <a name="todo"></a> Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.646.pdf)]
 - <a name="todo"></a> Serial Lifelong Editing via Mixture of Knowledge Expert (**ACL 2025**) [[paper](https://aclanthology.org/2025.acl-long.1492.pdf)]
