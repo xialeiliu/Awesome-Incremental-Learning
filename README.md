@@ -128,6 +128,8 @@
 - <a name="todo"></a> TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree (**ICML 2025**) [[paper](https://arxiv.org/pdf/2506.10355)]
 - <a name="todo"></a> Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting (**ICML 2025**) [[paper](https://arxiv.org/pdf/2502.02797)]
 
+- <a name="todo"></a>  Prototype-Based Continual Learning with Label-free Replay Buffer and Cluster Preservation Loss (**CVPR 2025**) [[paper](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/Aghasanli_Prototype-Based_Continual_Learning_with_Label-free_Replay_Buffer_and_Cluster_Preservation_CVPRW_2025_paper.pdf)]
+- <a name="todo"></a>  Prototype Augmented Hypernetworks for Continual Learning (**CVPR 2025**) [[paper](https://arxiv.org/abs/2505.07450)]
 - <a name="todo"></a> Language Guided Concept Bottleneck Models for Interpretable Continual Learning (**CVPR 2025**) [[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Yu_Language_Guided_Concept_Bottleneck_Models_for_Interpretable_Continual_Learning_CVPR_2025_paper.pdf)][[code](https://github.com/FisherCats/CLG-CBM)]
 - <a name="todo"></a>  Dynamic Integration of Task-Specific Adapters for Class Incremental Learning (**CVPR 2025**) [[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Li_Dynamic_Integration_of_Task-Specific_Adapters_for_Class_Incremental_Learning_CVPR_2025_paper.pdf)]
 - <a name="todo"></a> Towards Continual Universal Segmentation (**CVPR 2025**) [[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Lin_Towards_Continual_Universal_Segmentation_CVPR_2025_paper.pdf)]
