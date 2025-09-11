@@ -128,8 +128,8 @@
 - <a name="todo"></a> TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree (**ICML 2025**) [[paper](https://arxiv.org/pdf/2506.10355)]
 - <a name="todo"></a> Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting (**ICML 2025**) [[paper](https://arxiv.org/pdf/2502.02797)]
 
-- <a name="todo"></a>  Prototype-Based Continual Learning with Label-free Replay Buffer and Cluster Preservation Loss (**CVPR 2025**) [[paper](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/Aghasanli_Prototype-Based_Continual_Learning_with_Label-free_Replay_Buffer_and_Cluster_Preservation_CVPRW_2025_paper.pdf)]
-- <a name="todo"></a>  Prototype Augmented Hypernetworks for Continual Learning (**CVPR 2025**) [[paper](https://arxiv.org/abs/2505.07450)]
+- <a name="todo"></a>  Prototype-Based Continual Learning with Label-free Replay Buffer and Cluster Preservation Loss (**CVPR Workshop 2025**) [[paper](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/Aghasanli_Prototype-Based_Continual_Learning_with_Label-free_Replay_Buffer_and_Cluster_Preservation_CVPRW_2025_paper.pdf)]
+- <a name="todo"></a>  Prototype Augmented Hypernetworks for Continual Learning (**CVPR Workshop 2025**) [[paper](https://arxiv.org/abs/2505.07450)]
 - <a name="todo"></a> Language Guided Concept Bottleneck Models for Interpretable Continual Learning (**CVPR 2025**) [[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Yu_Language_Guided_Concept_Bottleneck_Models_for_Interpretable_Continual_Learning_CVPR_2025_paper.pdf)][[code](https://github.com/FisherCats/CLG-CBM)]
 - <a name="todo"></a>  Dynamic Integration of Task-Specific Adapters for Class Incremental Learning (**CVPR 2025**) [[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Li_Dynamic_Integration_of_Task-Specific_Adapters_for_Class_Incremental_Learning_CVPR_2025_paper.pdf)]
 - <a name="todo"></a> Towards Continual Universal Segmentation (**CVPR 2025**) [[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Lin_Towards_Continual_Universal_Segmentation_CVPR_2025_paper.pdf)]
@@ -331,8 +331,8 @@
 
 
 - <a name="todo"></a> Hierarchical Augmentation and Distillation for Class Incremental Audio-Visual Video Recognition (**TPAMI2024**)[[paper](https://ieeexplore.ieee.org/document/10497880)]
+- - <a name="todo"></a> DELTA: Decoupling Long-Tailed Online Continual Learning (**CVPR Workshop 2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Raghavan_DELTA_Decoupling_Long-Tailed_Online_Continual_Learning_CVPRW_2024_paper.pdf)][[Code](https://gitlab.com/viper-purdue/delta)]
 - <a name="todo"></a> AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_AIDE_An_Automatic_Data_Engine_for_Object_Detection_in_Autonomous_CVPR_2024_paper.html)]
-- <a name="todo"></a> DELTA: Decoupling Long-Tailed Online Continual Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Raghavan_DELTA_Decoupling_Long-Tailed_Online_Continual_Learning_CVPRW_2024_paper.pdf)][[Code](https://gitlab.com/viper-purdue/delta)]
 - <a name="todo"></a> Continual Segmentation with Disentangled Objectness Learning and Class Recognition (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.03477)][[code](https://github.com/jordangong/CoMasTRe)]
 - <a name="todo"></a> Interactive Continual Learning: Fast and Slow Thinking (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.02628)][[code](http://github.com/ICL)]
 - <a name="todo"></a> InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.00228)][[code](https://github.com/liangyanshuo/InfLoRA)]
