@@ -174,6 +174,7 @@
 - <a name="todo"></a> One-for-More: Continual Diffusion Model for Anomaly Detection (**CVPR 2025**) [[paper](https://arxiv.org/abs/2502.19848)][[code](https://github.com/FuNz-0/One-for-More)]
 - <a name="todo"></a> Learning Conditional Space-Time Prompt Distributions for Video Class-Incremental Learning (**CVPR 2025**) [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zou_Learning_Conditional_Space-Time_Prompt_Distributions_for_Video_Class-Incremental_Learning_CVPR_2025_paper.pdf)][[code](https://github.com/Renovamen/CoSTEP)]
 
+- <a name="todo"></a> Adaptive Retention & Correction: Test-Time Training for Continual Learning (**ICLR 2025**) [[paper](https://arxiv.org/pdf/2405.14318)][[code](https://github.com/HaoranChen/Adaptive-Retention-and-Correction-for-Continual-Learning)]
 - <a name="todo"></a> Prototype antithesis for biological few-shot class-incremental learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=bRqaHn3J5I)]
 - <a name="todo"></a> Coreset Selection via Reducible Loss in Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=mAztx8QO3B)][[code](https://github.com/RuilinTong/CSReL-Coreset-CL)]
 - <a name="todo"></a> LOIRE: LifelOng learning on Incremental data via pre-trained language model gRowth Efficiently (**ICLR 2025**) [[paper](https://openreview.net/forum?id=F5PlYMC5ik)]
