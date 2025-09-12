@@ -470,7 +470,7 @@
 - <a name="todo"></a> Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right? (**ICCV 2023**)[[paper](https://arxiv.org/abs/2305.09275)][[code](https://github.com/drimpossible/EvalOCL)]
 - <a name="todo"></a> When Prompt-based Incremental Learning Does Not Meet Strong Pretraining (**ICCV 2023**)[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_When_Prompt-based_Incremental_Learning_Does_Not_Meet_Strong_Pretraining_ICCV_2023_paper.pdf)]
 - <a name="todo"></a> Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.09303)][[code](https://github.com/moonjunyyy/si-blurry)]
-- <a name="todo"></a> Dynamic Residual Classifier for Class Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2308.13305.pdf)]
+- <a name="todo"></a> Dynamic Residual Classifier for Class Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2308.13305.pdf)][[code](https://github.com/chen-xw/DRC-CIL)]
 - <a name="todo"></a> First Session Adaptation: A Strong Replay-Free Baseline for Class-Incremental Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2303.13199)]
 - <a name="todo"></a> Masked Autoencoders are Efficient Class Incremental Learners (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.12510)]
 - <a name="todo"></a> Introducing Language Guidance in Prompt-based Continual Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.15827)]
