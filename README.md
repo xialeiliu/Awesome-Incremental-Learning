@@ -28,6 +28,7 @@
 
 ## Papers
 ### 2025
+- <a name="todo"></a> DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection (**NeurIPS 2025**) [[paper](https://arxiv.org/abs/2503.09271)][[code](https://github.com/chiara-cap/DitHub)]
 - <a name="todo"></a> Policy Compatible Skill Incremental Learning via Lazy Learning Interface (**NeurIPS 2025**) [[paper](https://openreview.net/pdf?id=jdUrFHVXnn)][[code](https://github.com/L2dulgi/SIL-C)]
 - <a name="todo"></a> Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning (**NeurIPS 2025**) [[paper](https://openreview.net/pdf/f6ec3fb5a3ebd737a0113d5607a4068ad6a35964.pdf)]
 - <a name="todo"></a> Gated Integration of Low-Rank Adaptation for Continual Learning of Large Language Models (**NeurIPS 2025**) [[paper](https://openreview.net/pdf/341aef9c1489a0b08162c50602a544cfd509cdbd.pdf)]
