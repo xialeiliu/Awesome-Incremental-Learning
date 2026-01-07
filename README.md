@@ -28,6 +28,7 @@
 
 ## Papers
 ### 2025
+- <a name="todo"></a> Policy Compatible Skill Incremental Learning via Lazy Learning Interface (**NeurIPS 2025**) [[paper](https://openreview.net/pdf?id=jdUrFHVXnn)][[code](https://github.com/L2dulgi/SIL-C)]
 - <a name="todo"></a> Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning (**NeurIPS 2025**) [[paper](https://openreview.net/pdf/f6ec3fb5a3ebd737a0113d5607a4068ad6a35964.pdf)]
 - <a name="todo"></a> Gated Integration of Low-Rank Adaptation for Continual Learning of Large Language Models (**NeurIPS 2025**) [[paper](https://openreview.net/pdf/341aef9c1489a0b08162c50602a544cfd509cdbd.pdf)]
 - <a name="todo"></a> MINGLE: Mixture of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging (**NeurIPS 2025**) [[paper](https://openreview.net/pdf/2319ec18a77bdfff982549ce8b4354498ed4e21f.pdf)][[code](https://github.com/zihuanqiu/MINGLE)]
