@@ -27,6 +27,10 @@
 - <a name="todo"></a> Three scenarios for continual learning (**Nature Machine Intelligence 2022**)  [[paper](https://openreview.net/forum?id=9aZ2ixiYGd)][[code](https://github.com/GMvandeVen/continual-learning)]
 
 ## Papers
+
+### 2026
+- <a name="todo"></a> FlyPrompt: Brain-Inspired Random-Expanded Routing with Temporal-Ensemble Experts for General Continual Learning (**ICLR 2026**) [[paper](https://www.arxiv.org/abs/2602.01976)][[code](https://github.com/AnAppleCore/FlyGCL)]
+
 ### 2025
 - <a name="todo"></a> DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection (**NeurIPS 2025**) [[paper](https://arxiv.org/abs/2503.09271)][[code](https://github.com/chiara-cap/DitHub)]
 - <a name="todo"></a> Policy Compatible Skill Incremental Learning via Lazy Learning Interface (**NeurIPS 2025**) [[paper](https://openreview.net/pdf?id=jdUrFHVXnn)][[code](https://github.com/L2dulgi/SIL-C)]
