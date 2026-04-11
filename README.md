@@ -29,6 +29,7 @@
 ## Papers
 
 ### 2026
+- <a name="todo"></a> Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (**ICLR 2026**) [[paper](https://arxiv.org/pdf/2509.21413)][[code](https://github.com/zihuanqiu/NUFILT)]
 - <a name="todo"></a> FlyPrompt: Brain-Inspired Random-Expanded Routing with Temporal-Ensemble Experts for General Continual Learning (**ICLR 2026**) [[paper](https://www.arxiv.org/abs/2602.01976)][[code](https://github.com/AnAppleCore/FlyGCL)]
 
 ### 2025
