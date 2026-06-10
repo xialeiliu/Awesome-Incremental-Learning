@@ -30,6 +30,7 @@
 
 ### 2026
 
+- <a name="todo"></a> One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning (**ICLR 2026**) [[paper](https://openreview.net/pdf?id=B8eIc9783S)][[code](https://github.com/Minhchuyentoancbn/SMoPE)]
 - <a name="todo"></a> Detect, Decide, Unlearn: A Transfer-Aware Framework for Continual Learning (**ICLR 2026**) [[paper](https://openreview.net/pdf/bee608084b10848f6b6c7b2a3d3a0f805373114a.pdf)]
 - <a name="todo"></a> Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning (**ICLR 2026**) [[paper](https://openreview.net/pdf/705fd8849abb4e88aeeeff733e7867c96a002d8b.pdf)][[code](https://github.com/Red-Hat-AI-Innovation-Team/mini_trainer)]
 - <a name="todo"></a> Continual Unlearning for Text-to-Image Diffusion Models: A Regularization Perspective (**ICLR 2026**) [[paper](https://openreview.net/pdf/7fc435d9e2c4daddc054a7bc0d6d8fed2463506b.pdf)][[code](https://justinhylee135.github.io/CUIG_Project_Page/)]
