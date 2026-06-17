@@ -29,7 +29,7 @@
 ## Papers
 
 ### 2026
-
+- <a name="todo"></a> Elastic Weight Consolidation Done Right for Continual Learning (**CVPR 2026**) [[paper](https://arxiv.org/abs/2603.18596)][[code](https://github.com/scarlet0703/EWC-DR)]
 - <a name="todo"></a> One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning (**ICLR 2026**) [[paper](https://openreview.net/pdf?id=B8eIc9783S)][[code](https://github.com/Minhchuyentoancbn/SMoPE)]
 - <a name="todo"></a> Detect, Decide, Unlearn: A Transfer-Aware Framework for Continual Learning (**ICLR 2026**) [[paper](https://openreview.net/pdf/bee608084b10848f6b6c7b2a3d3a0f805373114a.pdf)]
 - <a name="todo"></a> Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning (**ICLR 2026**) [[paper](https://openreview.net/pdf/705fd8849abb4e88aeeeff733e7867c96a002d8b.pdf)][[code](https://github.com/Red-Hat-AI-Innovation-Team/mini_trainer)]
