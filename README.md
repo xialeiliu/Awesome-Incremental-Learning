@@ -29,6 +29,8 @@
 ## Papers
 
 ### 2026
+- <a name="todo"></a> PrePrompt: Predictive Prompting for Class Incremental Learning. (**KDD 2026**) [[paper](https://dl.acm.org/doi/10.1145/3770855.3817682)] [[code](https://github.com/libo-huang/preprompt)]
+- <a name="todo"></a> Parameterized Prompt for Incremental Object Detection (**CVPR 2026**) [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/An_Parameterized_Prompt_for_Incremental_Object_Detection_CVPR_2026_paper.pdf)] [[code](https://github.com/EMLS-ICTCAS/P2IOD)]
 - <a name="todo"></a> Is Parameter Isolation Better for Prompt-Based Continual Learning? (**CVPR 2026**) [[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Li_Is_Parameter_Isolation_Better_for_Prompt-Based_Continual_Learning_CVPR_2026_paper.pdf)]
 - <a name="todo"></a> Quantum-Gated Task-interaction Knowledge Distillation for Pre-trained Model-based Class-Incremental Learning (**CVPR 2026**) [[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Li_Quantum-Gated_Task-interaction_Knowledge_Distillation_for_Pre-trained_Model-based_Class-Incremental_Learning_CVPR_2026_paper.pdf)][[code](https://github.com/Frank-lilinjie/CVPR26-QKD)]
 - <a name="todo"></a> Semantic-Guided Global-Local Collaborative Prompt Learning for Few-Shot Class Incremental Learning (**CVPR 2026**) [[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Yan_Semantic-Guided_Global-Local_Collaborative_Prompt_Learning_for_Few-Shot_Class_Incremental_Learning_CVPR_2026_paper.pdf)]
